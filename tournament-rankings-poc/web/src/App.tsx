@@ -23,7 +23,7 @@ function App() {
   const overallClubScores = useMemo(() => calculateOverallClubScores(tournaments), [tournaments]);
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/sgm-rankings-poc">
       <div className="app">
         <Navigation />
         <div className="container">

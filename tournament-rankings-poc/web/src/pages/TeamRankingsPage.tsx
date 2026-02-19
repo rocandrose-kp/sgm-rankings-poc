@@ -1,4 +1,3 @@
-import { Link } from 'react-router-dom';
 import { TeamScore } from '../types';
 import { TeamRankings } from '../components/TeamRankings';
 

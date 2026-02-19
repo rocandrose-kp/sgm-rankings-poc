@@ -1,0 +1,1391 @@
+{
+  "football": {
+    "local": [
+      {
+        "name": "Goals FC",
+        "organizerName": "Goals FC",
+        "organizerId": 28866349,
+        "sports": [
+          "football",
+          "football",
+          "football",
+          "football",
+          "football",
+          "football"
+        ],
+        "type": "local",
+        "cardType": "cm_cup",
+        "startDate": 1768780800000,
+        "endDate": 1865721600000,
+        "weeks": [
+          "2026-10",
+          "2026-11",
+          "2026-12",
+          "2026-13",
+          "2026-14",
+          "2026-15",
+          "2026-16",
+          "2026-17",
+          "2026-18",
+          "2026-19",
+          "2026-20",
+          "2026-21",
+          "2026-22",
+          "2026-23",
+          "2026-24",
+          "2026-25",
+          "2026-26",
+          "2026-27",
+          "2026-28",
+          "2026-29",
+          "2026-30",
+          "2026-31",
+          "2026-32",
+          "2026-33",
+          "2026-34",
+          "2026-35",
+          "2026-36",
+          "2026-37",
+          "2026-38",
+          "2026-39",
+          "2026-4",
+          "2026-40",
+          "2026-41",
+          "2026-42",
+          "2026-43",
+          "2026-44",
+          "2026-45",
+          "2026-46",
+          "2026-47",
+          "2026-48",
+          "2026-49",
+          "2026-5",
+          "2026-50",
+          "2026-51",
+          "2026-52",
+          "2026-53",
+          "2026-6",
+          "2026-7",
+          "2026-8",
+          "2026-9",
+          "2027-1",
+          "2027-10",
+          "2027-11",
+          "2027-12",
+          "2027-13",
+          "2027-14",
+          "2027-15",
+          "2027-16",
+          "2027-17",
+          "2027-18",
+          "2027-19",
+          "2027-2",
+          "2027-20",
+          "2027-21",
+          "2027-22",
+          "2027-23",
+          "2027-24",
+          "2027-25",
+          "2027-26",
+          "2027-27",
+          "2027-28",
+          "2027-29",
+          "2027-3",
+          "2027-30",
+          "2027-31",
+          "2027-32",
+          "2027-33",
+          "2027-34",
+          "2027-35",
+          "2027-36",
+          "2027-37",
+          "2027-38",
+          "2027-39",
+          "2027-4",
+          "2027-40",
+          "2027-41",
+          "2027-42",
+          "2027-43",
+          "2027-44",
+          "2027-45",
+          "2027-46",
+          "2027-47",
+          "2027-48",
+          "2027-49",
+          "2027-5",
+          "2027-50",
+          "2027-51",
+          "2027-52",
+          "2027-6",
+          "2027-7",
+          "2028-1",
+          "2028-10",
+          "2028-11",
+          "2028-12",
+          "2028-13",
+          "2028-14",
+          "2028-15",
+          "2028-16",
+          "2028-17",
+          "2028-18",
+          "2028-19",
+          "2028-2",
+          "2028-20",
+          "2028-21",
+          "2028-22",
+          "2028-23",
+          "2028-24",
+          "2028-25",
+          "2028-26",
+          "2028-27",
+          "2028-28",
+          "2028-29",
+          "2028-3",
+          "2028-30",
+          "2028-31",
+          "2028-32",
+          "2028-33",
+          "2028-34",
+          "2028-35",
+          "2028-36",
+          "2028-37",
+          "2028-38",
+          "2028-39",
+          "2028-4",
+          "2028-40",
+          "2028-41",
+          "2028-42",
+          "2028-43",
+          "2028-44",
+          "2028-45",
+          "2028-46",
+          "2028-47",
+          "2028-48",
+          "2028-49",
+          "2028-5",
+          "2028-50",
+          "2028-51",
+          "2028-52",
+          "2028-6",
+          "2028-7",
+          "2029-1",
+          "2029-2",
+          "2029-3",
+          "2029-4",
+          "2029-5",
+          "2029-6",
+          "2029-7"
+        ],
+        "imageUrl": "https://static.cupmanager.net/uploads/3/E/8k1/goals-logo,crop13x243x978x510.jpg",
+        "featuredImageUrl": "https://static.cupmanager.net/uploads/v/Q/fo1/screen-shot-2021-07-01-at-6.52.59-pm,crop0x0x999x1000.png",
+        "websiteUrl": "https://goalsfootballcentres.com.au",
+        "color": "#000000",
+        "categories": [
+          {
+            "age": 0,
+            "gender": "mixed",
+            "name": "Monday 6s",
+            "shortName": "Monday 6s"
+          },
+          {
+            "age": 0,
+            "gender": "mixed",
+            "name": "Player Registration",
+            "shortName": "Player Registration"
+          },
+          {
+            "age": 0,
+            "gender": "none",
+            "name": "Player Registration",
+            "shortName": "Player Registration"
+          },
+          {
+            "age": 0,
+            "gender": "mixed",
+            "name": "Monday 6s",
+            "shortName": "Monday 6s"
+          },
+          {
+            "age": 0,
+            "gender": "mixed",
+            "name": "Register Weds 6s Team",
+            "shortName": "Register Weds 6s Team"
+          },
+          {
+            "age": 0,
+            "gender": "mixed",
+            "name": "Summer 2025 - Monday",
+            "shortName": "Summer Monday"
+          },
+          {
+            "age": 0,
+            "gender": "mixed",
+            "name": "Player Registration",
+            "shortName": "Player Rego"
+          }
+        ],
+        "address": {
+          "city": "Moorabbin",
+          "nation": "Australia",
+          "lat": -37.941995,
+          "lng": 145.065698
+        },
+        "hasFreeCategories": true,
+        "lowestPrice": 195.0,
+        "highestPrice": 195.0,
+        "currency": "AUD"
+      },
+      {
+        "name": "Greek Community Cup",
+        "organizerName": "Australian Football Skool (Patrol Holdings Pty Ltd)",
+        "organizerId": 15294226,
+        "sports": [
+          "football",
+          "football",
+          "football",
+          "football"
+        ],
+        "type": "local",
+        "cardType": "cm_cup",
+        "startDate": 1767225600000,
+        "endDate": 1797206400000,
+        "weeks": [
+          "2026-1",
+          "2026-10",
+          "2026-11",
+          "2026-2",
+          "2026-3",
+          "2026-37",
+          "2026-4",
+          "2026-46",
+          "2026-47",
+          "2026-48",
+          "2026-49",
+          "2026-5",
+          "2026-50",
+          "2026-51",
+          "2026-6",
+          "2026-7",
+          "2026-8",
+          "2026-9"
+        ],
+        "imageUrl": "https://static.cupmanager.net/uploads/1/S/Os2/greek-cup-logo,crop0x0x1000x1000.png",
+        "featuredImageUrl": "https://static.cupmanager.net/uploads/_/d/UL2/greekcupcup-print_17931,crop151x7x745x993.jpeg",
+        "websiteUrl": "https://greekcup.com.au",
+        "color": "#024aac",
+        "categories": [
+          {
+            "age": 99,
+            "gender": "men",
+            "name": "Open Age Men | Post Season 2026",
+            "shortName": "Open Age Men | Post Season 2026"
+          },
+          {
+            "age": 99,
+            "gender": "women",
+            "name": "Masters Women",
+            "shortName": "Masters"
+          },
+          {
+            "age": 99,
+            "gender": "women",
+            "name": "Open Age Women",
+            "shortName": "Women"
+          },
+          {
+            "age": 7,
+            "gender": "mixed",
+            "name": "U7 Born 2019 (4v4)",
+            "shortName": "U7 Born 2019 (4v4)"
+          },
+          {
+            "age": 8,
+            "gender": "mixed",
+            "name": "U8 Kangaroos Born 2018 (7v7)",
+            "shortName": "U8 Kangaroos Born 2018 (7v7)"
+          },
+          {
+            "age": 8,
+            "gender": "mixed",
+            "name": "U8 Wallabies/Joeys Born 2018 (7v7)",
+            "shortName": "U8 Wallabies/Joeys Born 2018 (7v7)"
+          },
+          {
+            "age": 9,
+            "gender": "mixed",
+            "name": "U9 Kangaroos Born 2017 (7v7)",
+            "shortName": "U9 Kangaroos Born 2017 (7v7)"
+          },
+          {
+            "age": 9,
+            "gender": "mixed",
+            "name": "U9 Wallabies/Joeys Born 2017 (7v7)",
+            "shortName": "U9 Wallabies/Joeys Born 2017 (7v7)"
+          },
+          {
+            "age": 10,
+            "gender": "mixed",
+            "name": "U10 Kangaroos Born 2016 (9v9)",
+            "shortName": "U10 Kangaroos Born 2016 (9v9)"
+          },
+          {
+            "age": 10,
+            "gender": "mixed",
+            "name": "U10 Wallabies/Joeys Born 2016 (9v9)",
+            "shortName": "U10 Wallabies/Joeys Born 2016 (9v9)"
+          },
+          {
+            "age": 11,
+            "gender": "mixed",
+            "name": "U11 Kangaroos Born 2015 (9v9)",
+            "shortName": "U11 Kangaroos Born 2015 (9v9)"
+          },
+          {
+            "age": 11,
+            "gender": "mixed",
+            "name": "U11 Wallabies/Joeys Born 2015 (9v9)",
+            "shortName": "U11 Wallabies/Joeys Born 2015 (9v9)"
+          },
+          {
+            "age": 12,
+            "gender": "mixed",
+            "name": "U12 Born 2014 (9v9)",
+            "shortName": "U12 Born 2014 (9v9)"
+          },
+          {
+            "age": 10,
+            "gender": "women",
+            "name": "U10 Girls Born 2016 (9v9)",
+            "shortName": "U10 Girls Born 2016 (9v9)"
+          },
+          {
+            "age": 12,
+            "gender": "women",
+            "name": "U12 Girls Born 2014 (9v9)",
+            "shortName": "U12 Girls Born 2014 (9v9)"
+          },
+          {
+            "age": 14,
+            "gender": "men",
+            "name": "Boys U13 Born 2013 ",
+            "shortName": "Boys U13 Born 2013 "
+          },
+          {
+            "age": 15,
+            "gender": "men",
+            "name": "Boys U14 Born 2012",
+            "shortName": "Boys U14 Born 2012"
+          },
+          {
+            "age": 16,
+            "gender": "men",
+            "name": "Boys U15 Born 2011",
+            "shortName": "Boys U15 Born 2011"
+          },
+          {
+            "age": 17,
+            "gender": "men",
+            "name": "Boys U16 Born 2010",
+            "shortName": "Boys U16 Born 2010"
+          },
+          {
+            "age": 18,
+            "gender": "men",
+            "name": "Boys U17 Born 2009",
+            "shortName": "Boys U17 Born 2009"
+          },
+          {
+            "age": 19,
+            "gender": "men",
+            "name": "Boys U18 Born 2008",
+            "shortName": "Boys U18 Born 2008"
+          },
+          {
+            "age": 15,
+            "gender": "women",
+            "name": "Girls U14 Born 2012",
+            "shortName": "Girls U14 Born 2012"
+          },
+          {
+            "age": 16,
+            "gender": "women",
+            "name": "Girls U15 Born 2011",
+            "shortName": "Girls U15 Born 2011"
+          },
+          {
+            "age": 17,
+            "gender": "women",
+            "name": "Girls U16 Born 2010",
+            "shortName": "Girls U16 Born 2010"
+          }
+        ],
+        "address": {
+          "city": "Springvale South",
+          "nation": "Australia",
+          "lat": -37.9702185,
+          "lng": 145.1482247
+        },
+        "hasFreeCategories": true,
+        "lowestPrice": 250.0,
+        "highestPrice": 1000.0,
+        "currency": "AUD"
+      },
+      {
+        "name": "Futsal Melbourne",
+        "organizerName": "Sports Group Melbourne",
+        "organizerId": 35932465,
+        "sports": [
+          "handball",
+          "futsal",
+          "football",
+          "futsal",
+          "futsal"
+        ],
+        "type": "accommodation",
+        "cardType": "cm_cup",
+        "startDate": 1769731200000,
+        "endDate": 1805846400000,
+        "weeks": [
+          "2026-10",
+          "2026-11",
+          "2026-12",
+          "2026-28",
+          "2026-29",
+          "2026-38",
+          "2026-39",
+          "2026-41",
+          "2026-42",
+          "2026-43",
+          "2026-44",
+          "2026-45",
+          "2026-46",
+          "2026-47",
+          "2026-48",
+          "2026-5",
+          "2026-6",
+          "2026-7",
+          "2026-8",
+          "2026-9",
+          "2027-12"
+        ],
+        "imageUrl": "https://static.cupmanager.net/uploads/x/t/SA2/futsal-melbourne-logo---msg-4,crop17x282x983x362.png",
+        "featuredImageUrl": "https://static.cupmanager.net/uploads/N/3/We3/amz_33172,crop107x131x879x742.jpg",
+        "websiteUrl": "https://futsal.melbourne",
+        "color": "#000000",
+        "categories": [
+          {
+            "age": 0,
+            "gender": "men",
+            "name": "Open Mens",
+            "shortName": "Men"
+          },
+          {
+            "age": 21,
+            "gender": "men",
+            "name": "Youth Men (U21)",
+            "shortName": "Youth Men"
+          },
+          {
+            "age": 0,
+            "gender": "women",
+            "name": "Open Womens",
+            "shortName": "Women"
+          },
+          {
+            "age": 21,
+            "gender": "women",
+            "name": "Youth Women (U21)",
+            "shortName": "Youth Women"
+          }
+        ],
+        "address": {
+          "city": "Keysborough",
+          "nation": "Australia",
+          "lat": -37.9961541,
+          "lng": 145.1542259
+        },
+        "hasFreeCategories": true,
+        "lowestPrice": 0.0,
+        "highestPrice": 0.0,
+        "currency": "AUD"
+      },
+      {
+        "name": "Elite cup",
+        "organizerName": "Royal Occasions",
+        "organizerId": 64081155,
+        "sports": [
+          "football"
+        ],
+        "type": "local",
+        "cardType": "cm_cup",
+        "startDate": 1769731200000,
+        "endDate": 1769904000000,
+        "weeks": [
+          "2026-5"
+        ],
+        "featuredImageUrl": "https://static.cupmanager.net/uploads/t/S/Hr3/tournament,crop500x259x491x654.jpg",
+        "websiteUrl": "https://elitecup.com.au",
+        "color": "#ea1a1a",
+        "categories": [
+          {
+            "age": 8,
+            "gender": "men",
+            "name": "U8 (born 2018) - Wallabies",
+            "shortName": "U8- Wallabies (b 2018)"
+          },
+          {
+            "age": 9,
+            "gender": "men",
+            "name": "U9 (born 2017) - Wallabies",
+            "shortName": "U9- Wallabies (b 2017)"
+          },
+          {
+            "age": 10,
+            "gender": "men",
+            "name": "U10 (born 2016) - Wallabies",
+            "shortName": "U10- Wallabies (b 2016)"
+          },
+          {
+            "age": 11,
+            "gender": "men",
+            "name": "U11 (born 2015) - Wallabies",
+            "shortName": "U11- Wallabies (b 2015)"
+          },
+          {
+            "age": 12,
+            "gender": "men",
+            "name": "U12 (born 2014) - Wallabies",
+            "shortName": "U12- Wallabies (b 2014)"
+          },
+          {
+            "age": 13,
+            "gender": "men",
+            "name": "U13 (born 2013) - Wallabies",
+            "shortName": "U13- Wallabies (b 2013)"
+          },
+          {
+            "age": 6,
+            "gender": "mixed",
+            "name": "U7 (born 2019)",
+            "shortName": "U7-(b 2019)"
+          },
+          {
+            "age": 8,
+            "gender": "mixed",
+            "name": "U8 (born 2018) - Kangas",
+            "shortName": "U8- Kangas (b 2018)"
+          },
+          {
+            "age": 9,
+            "gender": "mixed",
+            "name": "U9 (born 2017) - Kangas",
+            "shortName": "U9- Kangas (b 2019)"
+          },
+          {
+            "age": 10,
+            "gender": "mixed",
+            "name": "U10 (born 2016) - Kangas",
+            "shortName": "U10- Kangas (b 2016)"
+          },
+          {
+            "age": 11,
+            "gender": "mixed",
+            "name": "U11 (born 2015) - Kangas",
+            "shortName": "U11- Kangas (b 2015)"
+          },
+          {
+            "age": 12,
+            "gender": "mixed",
+            "name": "U12 (born 2014) - Kangas",
+            "shortName": "U12- Kangas (b 2014)"
+          },
+          {
+            "age": 13,
+            "gender": "mixed",
+            "name": "U13 (born 2013) - Kangas",
+            "shortName": "U13- Kangas (b 2013)"
+          }
+        ],
+        "address": {
+          "city": "Serbian Sports Centre",
+          "nation": "Australia",
+          "lat": -38.0283622,
+          "lng": 145.1811523
+        },
+        "hasFreeCategories": false,
+        "lowestPrice": 210.0,
+        "highestPrice": 490.0,
+        "currency": "AUD"
+      },
+      {
+        "name": "Amigos Cup",
+        "organizerName": "Australian Football Skool",
+        "organizerId": 30335570,
+        "sports": [
+          "football"
+        ],
+        "type": "local",
+        "cardType": "cm_cup",
+        "startDate": 1769299200000,
+        "endDate": 1772928000000,
+        "weeks": [
+          "2026-10",
+          "2026-4",
+          "2026-5",
+          "2026-6",
+          "2026-7",
+          "2026-8",
+          "2026-9"
+        ],
+        "imageUrl": "https://static.cupmanager.net/uploads/w/1/sf3/amigos-no-textpng-transparent,crop202x145x624x511.png",
+        "featuredImageUrl": "https://static.cupmanager.net/uploads/e/c/ke3/i-pgpcpbc-x4,crop80x78x640x434.jpg",
+        "websiteUrl": "https://amigoscup.cupmanager.net",
+        "color": "#df1125",
+        "categories": [
+          {
+            "age": 99,
+            "gender": "men",
+            "name": "Open Age",
+            "shortName": "Open Age"
+          },
+          {
+            "age": 99,
+            "gender": "men",
+            "name": "Over35s",
+            "shortName": "Over35s"
+          },
+          {
+            "age": 99,
+            "gender": "men",
+            "name": "Over45s",
+            "shortName": "Over45s"
+          },
+          {
+            "age": 99,
+            "gender": "men",
+            "name": "Over55s",
+            "shortName": "Over55s"
+          },
+          {
+            "age": 99,
+            "gender": "men",
+            "name": "Over60s",
+            "shortName": "Over60s"
+          },
+          {
+            "age": 99,
+            "gender": "women",
+            "name": "Open Age Women",
+            "shortName": "Open Age Women"
+          },
+          {
+            "age": 99,
+            "gender": "women",
+            "name": "Women Over30s 7v7",
+            "shortName": "Women Over30s 7v7"
+          }
+        ],
+        "address": {
+          "city": "Frankston North",
+          "nation": "Australia",
+          "lat": -38.1231994,
+          "lng": 145.1533848
+        },
+        "hasFreeCategories": false,
+        "lowestPrice": 400.0,
+        "highestPrice": 700.0,
+        "currency": "AUD"
+      },
+      {
+        "name": "Youth Super Cup",
+        "organizerName": "Sports Group Melbourne",
+        "organizerId": 41730332,
+        "sports": [
+          "football",
+          "football"
+        ],
+        "type": "local",
+        "cardType": "cm_cup",
+        "startDate": 1762560000000,
+        "endDate": 1774396800000,
+        "weeks": [
+          "2025-45",
+          "2025-46",
+          "2025-47",
+          "2025-48",
+          "2025-49",
+          "2026-10",
+          "2026-11",
+          "2026-12",
+          "2026-13",
+          "2026-9"
+        ],
+        "imageUrl": "https://static.cupmanager.net/uploads/i/v/TZ2/ysc-logo-5,crop98x33x787x912.png",
+        "featuredImageUrl": "https://static.cupmanager.net/uploads/M/W/jM3/img_5234,crop277x123x576x877.jpeg",
+        "websiteUrl": "https://youthsupercup.com.au",
+        "color": "#c4a657",
+        "categories": [
+          {
+            "age": 13,
+            "gender": "men",
+            "name": "U13 Boys (2013) 9v9",
+            "shortName": "U13 Boys (2013) 9v9"
+          },
+          {
+            "age": 14,
+            "gender": "men",
+            "name": "U14 Boys (2012) 11v11",
+            "shortName": "U14 Boys (2012) 11v11"
+          },
+          {
+            "age": 15,
+            "gender": "men",
+            "name": "U15 Boys (2011) 11v11",
+            "shortName": "U15 Boys (2011) 11v11"
+          },
+          {
+            "age": 16,
+            "gender": "men",
+            "name": "U16 Boys (2010) 11v11",
+            "shortName": "U16 Boys (2010) 11v11"
+          },
+          {
+            "age": 17,
+            "gender": "men",
+            "name": "U17 Boys (2009) 11v11",
+            "shortName": "U17 Boys (2009) 11v11"
+          },
+          {
+            "age": 18,
+            "gender": "men",
+            "name": "U18 Boys (2008) 11v11",
+            "shortName": "U18 Boys (2008) 11v11"
+          },
+          {
+            "age": 7,
+            "gender": "mixed",
+            "name": "U7 Mixed (2019) 4v4",
+            "shortName": "U7 Mixed (2019) 4v4"
+          },
+          {
+            "age": 8,
+            "gender": "none",
+            "name": "U8 Kangaroos (2018) 7v7",
+            "shortName": "U8 Kangaroos (2018) 7v7"
+          },
+          {
+            "age": 8,
+            "gender": "none",
+            "name": "U8 Wallabies (2018) 7v7",
+            "shortName": "U8 Wallabies (2018) 7v7"
+          },
+          {
+            "age": 9,
+            "gender": "none",
+            "name": "U9 Kangaroos (2017) 7v7",
+            "shortName": "U9 Kangaroos (2017) 7v7"
+          },
+          {
+            "age": 9,
+            "gender": "none",
+            "name": "U9 Wallabies (2017) 7v7",
+            "shortName": "U9 Wallabies (2017) 7v7"
+          },
+          {
+            "age": 10,
+            "gender": "none",
+            "name": "U10 Kangaroos (2016) 9v9",
+            "shortName": "U10 Kangaroos (2016) 9v9"
+          },
+          {
+            "age": 10,
+            "gender": "none",
+            "name": "U10 Wallabies (2016) 9v9",
+            "shortName": "U10 Wallabies (2016) 9v9"
+          },
+          {
+            "age": 11,
+            "gender": "none",
+            "name": "U11 Kangaroos (2015) 9v9",
+            "shortName": "U11 Kangaroos (2015) 9v9"
+          },
+          {
+            "age": 11,
+            "gender": "none",
+            "name": "U11 Wallabies (2015) 9v9",
+            "shortName": "U11 Wallabies (2015) 9v9"
+          },
+          {
+            "age": 12,
+            "gender": "none",
+            "name": "U12 Kangaroos (2014) 9v9",
+            "shortName": "U12 Kangaroos (2014) 9v9"
+          },
+          {
+            "age": 12,
+            "gender": "none",
+            "name": "U12 Wallabies (2014) 9v9",
+            "shortName": "U12 Wallabies (2014) 9v9"
+          },
+          {
+            "age": 9,
+            "gender": "women",
+            "name": "U8/9 Girls (2017/2018) 7v7",
+            "shortName": "U8/9 Girls (2017/2018) 7v7"
+          },
+          {
+            "age": 11,
+            "gender": "women",
+            "name": "U10/11 Girls (2015/2016) 9v9",
+            "shortName": "U10/11 Girls (2015/2016) 9v9"
+          },
+          {
+            "age": 13,
+            "gender": "women",
+            "name": "U12/13 Girls (2013/2014) 9v9",
+            "shortName": "U12/13 Girls (2013/2014) 9v9"
+          },
+          {
+            "age": 14,
+            "gender": "women",
+            "name": "U14 Girls (2012) 11v11",
+            "shortName": "U14 Girls (2012) 11v11"
+          },
+          {
+            "age": 15,
+            "gender": "women",
+            "name": "U15 Girls (2011) 11v11",
+            "shortName": "U15 Girls (2011) 11v11"
+          },
+          {
+            "age": 16,
+            "gender": "women",
+            "name": "U16 Girls (2010) 11v11",
+            "shortName": "U16 Girls (2010) 11v11"
+          },
+          {
+            "age": 17,
+            "gender": "women",
+            "name": "U17 Girls (2009) 11v11",
+            "shortName": "U17 Girls (2009) 11v11"
+          },
+          {
+            "age": 18,
+            "gender": "women",
+            "name": "U18 Girls (2008) 11v11",
+            "shortName": "U18 Girls (2008) 11v11"
+          },
+          {
+            "age": 12,
+            "gender": "men",
+            "name": "U13 Boys (2013) 9v9",
+            "shortName": "U13 Boys (2013) 9v9"
+          },
+          {
+            "age": 13,
+            "gender": "men",
+            "name": "U14 Boys (2012) 11v11",
+            "shortName": "U14 Boys (2012) 11v11"
+          },
+          {
+            "age": 14,
+            "gender": "men",
+            "name": "U15 Boys (2011) 11v11",
+            "shortName": "U15 Boys (2011) 11v11"
+          },
+          {
+            "age": 15,
+            "gender": "men",
+            "name": "U16 Boys (2010) 11v11",
+            "shortName": "U16 Boys (2010) 11v11"
+          },
+          {
+            "age": 17,
+            "gender": "men",
+            "name": "U18 Boys (2008) 11v11",
+            "shortName": "U18 Boys (2008) 11v11"
+          },
+          {
+            "age": 8,
+            "gender": "none",
+            "name": "U8 Kangaroos (2017) 7v7",
+            "shortName": "U8 Kangaroos (2017) 7v7"
+          },
+          {
+            "age": 8,
+            "gender": "none",
+            "name": "U8 Wallabies (2017) 7v7",
+            "shortName": "U8 Wallabies (2017) 7v7"
+          },
+          {
+            "age": 9,
+            "gender": "none",
+            "name": "U9 Kangaroos (2016) 7v7",
+            "shortName": "U9 Kangaroos (2016) 7v7"
+          },
+          {
+            "age": 9,
+            "gender": "none",
+            "name": "U9 Wallabies (2016) 7v7",
+            "shortName": "U9 Wallabies (2016) 7v7"
+          },
+          {
+            "age": 10,
+            "gender": "none",
+            "name": "U10 Kangaroos (2015) 9v9",
+            "shortName": "U10 Kangaroos (2015) 9v9"
+          },
+          {
+            "age": 10,
+            "gender": "none",
+            "name": "U10 Wallabies (2015) 9v9",
+            "shortName": "U10 Wallabies (2015) 9v9"
+          },
+          {
+            "age": 11,
+            "gender": "none",
+            "name": "U11 Kangaroos (2014) 9v9",
+            "shortName": "U11 Kangaroos (2014) 9v9"
+          },
+          {
+            "age": 11,
+            "gender": "none",
+            "name": "U11 Wallabies (2014) 9v9",
+            "shortName": "U11 Wallabies (2014) 9v9"
+          },
+          {
+            "age": 12,
+            "gender": "none",
+            "name": "U12 Kangaroos (2013) 9v9",
+            "shortName": "U12 Kangaroos (2013) 9v9"
+          },
+          {
+            "age": 12,
+            "gender": "none",
+            "name": "U12 Wallabies (2013) 9v9",
+            "shortName": "U12 Wallabies (2013) 9v9"
+          },
+          {
+            "age": 9,
+            "gender": "women",
+            "name": "U8/U9 Girls (2016/2017) 7v7",
+            "shortName": "U8/U9 Girls (2016/2017) 7v7"
+          },
+          {
+            "age": 10,
+            "gender": "women",
+            "name": "U10 Girls (2015) 9v9",
+            "shortName": "U10 Girls (2015) 9v9"
+          },
+          {
+            "age": 11,
+            "gender": "women",
+            "name": "U11 Girls (2014) 9v9",
+            "shortName": "U11 Girls (2014) 9v9"
+          },
+          {
+            "age": 13,
+            "gender": "women",
+            "name": "U12/13 Girls (2012/2013) 9v9",
+            "shortName": "U12/13 Girls (2012/2013) 9v9"
+          },
+          {
+            "age": 14,
+            "gender": "women",
+            "name": "U14/15 Girls (2011/12) 11v11",
+            "shortName": "U14/15 Girls (2011/12) 11v11"
+          },
+          {
+            "age": 15,
+            "gender": "women",
+            "name": "U16 Girls (2010) 11v11",
+            "shortName": "U16 Girls (2010) 11v11"
+          }
+        ],
+        "address": {
+          "city": "Melbourne",
+          "nation": "Australia",
+          "lat": -37.81617079999999,
+          "lng": 144.9639607
+        },
+        "hasFreeCategories": false,
+        "lowestPrice": 299.0,
+        "highestPrice": 1090.0,
+        "currency": "AUD"
+      }
+    ],
+    "accommodation": [
+      {
+        "name": "Pre Season Cup",
+        "organizerName": "Sports Globo Consulting",
+        "organizerId": 17851360,
+        "sports": [
+          "football",
+          "football",
+          "football"
+        ],
+        "type": "accommodation",
+        "cardType": "cm_cup",
+        "startDate": 1771027200000,
+        "endDate": 1772323200000,
+        "weeks": [
+          "2026-7",
+          "2026-9"
+        ],
+        "imageUrl": "https://static.cupmanager.net/assets/images/cupmanager_light.svg",
+        "websiteUrl": "https://preseasoncup.cupmanager.net",
+        "color": "#000000",
+        "categories": [
+          {
+            "age": 13,
+            "gender": "none",
+            "name": "U 13 Boys",
+            "shortName": "U13 Boys"
+          },
+          {
+            "age": 14,
+            "gender": "none",
+            "name": "U 14 Boys",
+            "shortName": "U14 Boys"
+          },
+          {
+            "age": 14,
+            "gender": "none",
+            "name": "U 14 Girls",
+            "shortName": "U14 Girls"
+          },
+          {
+            "age": 15,
+            "gender": "none",
+            "name": "U 15 Boys",
+            "shortName": "U15 Boys"
+          },
+          {
+            "age": 15,
+            "gender": "none",
+            "name": "U 15 Girls",
+            "shortName": "U15 Girls"
+          },
+          {
+            "age": 16,
+            "gender": "none",
+            "name": "U 16 Boys",
+            "shortName": "U16 Boys"
+          },
+          {
+            "age": 16,
+            "gender": "none",
+            "name": "U 16 Girls",
+            "shortName": "U16 Girls"
+          },
+          {
+            "age": 18,
+            "gender": "none",
+            "name": "U 18 Boys",
+            "shortName": "U18 Boys"
+          },
+          {
+            "age": 18,
+            "gender": "none",
+            "name": "U 18 Girls",
+            "shortName": "U18 Girls"
+          },
+          {
+            "age": 13,
+            "gender": "none",
+            "name": "U 13 Boys",
+            "shortName": "U13 Boys"
+          },
+          {
+            "age": 14,
+            "gender": "none",
+            "name": "U 14 Boys",
+            "shortName": "U14 Boys"
+          },
+          {
+            "age": 14,
+            "gender": "none",
+            "name": "U 14 Girls",
+            "shortName": "U14 Girls"
+          },
+          {
+            "age": 15,
+            "gender": "none",
+            "name": "U 15 Boys",
+            "shortName": "U15 Boys"
+          },
+          {
+            "age": 16,
+            "gender": "none",
+            "name": "U 16 Boys",
+            "shortName": "U16 Boys"
+          },
+          {
+            "age": 16,
+            "gender": "none",
+            "name": "U 16 Girls",
+            "shortName": "U16 Girls"
+          },
+          {
+            "age": 18,
+            "gender": "none",
+            "name": "U 18 Boys",
+            "shortName": "U18 Boys"
+          },
+          {
+            "age": 18,
+            "gender": "none",
+            "name": "U 18 Girls",
+            "shortName": "U18 Girls"
+          },
+          {
+            "age": 10,
+            "gender": "none",
+            "name": "U 10 girls",
+            "shortName": "U10 girls"
+          },
+          {
+            "age": 10,
+            "gender": "none",
+            "name": "U 10 mixed",
+            "shortName": "U10 mixed"
+          },
+          {
+            "age": 11,
+            "gender": "none",
+            "name": "U 11 girls",
+            "shortName": "U11 girls"
+          },
+          {
+            "age": 11,
+            "gender": "none",
+            "name": "U 11 mixed",
+            "shortName": "U11 mixed"
+          },
+          {
+            "age": 12,
+            "gender": "none",
+            "name": "U 12 girls",
+            "shortName": "U12 girls"
+          },
+          {
+            "age": 12,
+            "gender": "none",
+            "name": "U 12 mixed",
+            "shortName": "U12 mixed"
+          },
+          {
+            "age": 13,
+            "gender": "none",
+            "name": "U 13 girls",
+            "shortName": "U13 girls"
+          }
+        ],
+        "address": {
+          "city": "Tuggerah",
+          "nation": "Australia",
+          "lat": -33.30759649694649,
+          "lng": 151.4269836105591
+        },
+        "hasFreeCategories": true,
+        "lowestPrice": 0.0,
+        "highestPrice": 0.0,
+        "currency": "AUD"
+      },
+      {
+        "name": "Dandy Cup",
+        "organizerName": "DCSC",
+        "organizerId": 49792689,
+        "sports": [
+          "football"
+        ],
+        "type": "accommodation",
+        "cardType": "cm_cup",
+        "startDate": 1774051200000,
+        "endDate": 1774137600000,
+        "weeks": [
+          "2026-12"
+        ],
+        "imageUrl": "https://static.cupmanager.net/uploads/j/j/EP4/untitled-design.svg",
+        "featuredImageUrl": "https://static.cupmanager.net/uploads/X/h/li3/438036818_947714244021198_3789645557362785320_n,crop69x135x897x538.jpg",
+        "websiteUrl": "https://dandycup.com.au",
+        "color": "#f62333",
+        "categories": [
+          {
+            "age": 13,
+            "gender": "mixed",
+            "name": "Girls 13 (born 2013) CPL A Grade",
+            "shortName": "G13 (b 2013) CPL A Grade"
+          },
+          {
+            "age": 15,
+            "gender": "mixed",
+            "name": "Girls 15 (born 2011) CPL A Grade",
+            "shortName": "G15 (b 2011) CPL A Grade"
+          },
+          {
+            "age": 17,
+            "gender": "mixed",
+            "name": "Girls 17 (born 2009) CPL A Grade",
+            "shortName": "G17 (b 2009) CPL A Grade"
+          },
+          {
+            "age": 8,
+            "gender": "women",
+            "name": "Girls 8 (born 2018)",
+            "shortName": "G8 (b 2018)"
+          },
+          {
+            "age": 9,
+            "gender": "women",
+            "name": "Girls 9 (born 2017)",
+            "shortName": "G9 (b 2017)"
+          },
+          {
+            "age": 10,
+            "gender": "women",
+            "name": "Girls 10 (born 2016)",
+            "shortName": "G10 (b 2016)"
+          },
+          {
+            "age": 11,
+            "gender": "women",
+            "name": "Girls 11 (born 2015)",
+            "shortName": "G11 (b 2015)"
+          },
+          {
+            "age": 12,
+            "gender": "women",
+            "name": "Girls 12 (born 2014)",
+            "shortName": "G12 (b 2014)"
+          },
+          {
+            "age": 13,
+            "gender": "women",
+            "name": "Girls 13 (born 2013)",
+            "shortName": "G13 (b 2013)"
+          },
+          {
+            "age": 14,
+            "gender": "women",
+            "name": "Girls 14 (born 2012)",
+            "shortName": "G14 (b 2012)"
+          },
+          {
+            "age": 15,
+            "gender": "women",
+            "name": "Girls 15 (born 2011)",
+            "shortName": "Girls 15 (born 2011)"
+          },
+          {
+            "age": 16,
+            "gender": "women",
+            "name": "Girls 16 (born 2010)",
+            "shortName": "Girls 16 (born 2010)"
+          },
+          {
+            "age": 18,
+            "gender": "women",
+            "name": "Girls 17/18 (born 2008 and 2009)",
+            "shortName": "Girls 17/18 (born 2008 and 2009)"
+          },
+          {
+            "age": 51,
+            "gender": "women",
+            "name": "Senior Women",
+            "shortName": "Senior Women"
+          }
+        ],
+        "address": {
+          "city": "Endevaour Hills",
+          "nation": "Australia",
+          "lat": -37.9599587,
+          "lng": 145.2421993
+        },
+        "hasFreeCategories": false,
+        "lowestPrice": 299.0,
+        "highestPrice": 499.0,
+        "currency": "AUD"
+      },
+      {
+        "name": "Futsal Melbourne",
+        "organizerName": "Sports Group Melbourne",
+        "organizerId": 35932465,
+        "sports": [
+          "handball",
+          "futsal",
+          "football",
+          "futsal",
+          "futsal"
+        ],
+        "type": "accommodation",
+        "cardType": "cm_cup",
+        "startDate": 1769731200000,
+        "endDate": 1805846400000,
+        "weeks": [
+          "2026-10",
+          "2026-11",
+          "2026-12",
+          "2026-28",
+          "2026-29",
+          "2026-38",
+          "2026-39",
+          "2026-41",
+          "2026-42",
+          "2026-43",
+          "2026-44",
+          "2026-45",
+          "2026-46",
+          "2026-47",
+          "2026-48",
+          "2026-5",
+          "2026-6",
+          "2026-7",
+          "2026-8",
+          "2026-9",
+          "2027-12"
+        ],
+        "imageUrl": "https://static.cupmanager.net/uploads/x/t/SA2/futsal-melbourne-logo---msg-4,crop17x282x983x362.png",
+        "featuredImageUrl": "https://static.cupmanager.net/uploads/N/3/We3/amz_33172,crop107x131x879x742.jpg",
+        "websiteUrl": "https://futsal.melbourne",
+        "color": "#000000",
+        "categories": [
+          {
+            "age": 0,
+            "gender": "men",
+            "name": "Open Mens",
+            "shortName": "Men"
+          },
+          {
+            "age": 21,
+            "gender": "men",
+            "name": "Youth Men (U21)",
+            "shortName": "Youth Men"
+          },
+          {
+            "age": 0,
+            "gender": "women",
+            "name": "Open Womens",
+            "shortName": "Women"
+          },
+          {
+            "age": 21,
+            "gender": "women",
+            "name": "Youth Women (U21)",
+            "shortName": "Youth Women"
+          }
+        ],
+        "address": {
+          "city": "Keysborough",
+          "nation": "Australia",
+          "lat": -37.9961541,
+          "lng": 145.1542259
+        },
+        "hasFreeCategories": true,
+        "lowestPrice": 0.0,
+        "highestPrice": 0.0,
+        "currency": "AUD"
+      }
+    ]
+  }
+}

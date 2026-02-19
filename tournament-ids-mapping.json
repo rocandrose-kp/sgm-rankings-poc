@@ -1,0 +1,38 @@
+{
+  "Youth Super Cup": {
+    "tournament_id": "42747557",
+    "website_url": "https://youthsupercup.com.au",
+    "organizer": "Sports Group Melbourne",
+    "organizer_id": 41730332
+  },
+  "The Over45s Soccer League": {
+    "tournament_id": "40129985",
+    "website_url": "https://over45soccer.com.au",
+    "organizer": "Over45s Soccer League",
+    "organizer_id": 40129967
+  },
+  "Coppa Italia": {
+    "tournament_id": "56952137",
+    "website_url": "https://coppaitalia.com.au",
+    "organizer": "Manningham Juventus Old Boys Social Club",
+    "organizer_id": 56952128
+  },
+  "Watsonia Miniroos Cup": {
+    "tournament_id": "54837156",
+    "website_url": "https://watsoniaminirooscup.cupmanager.net",
+    "organizer": "Watsonia Heights Soccer Club",
+    "organizer_id": 54837118
+  },
+  "VIC FUTSAL CUP": {
+    "tournament_id": "29526484",
+    "website_url": "https://vicfutsalcup.com.au",
+    "organizer": "Australian Football Skool (Patrol Holdings Pty Ltd)",
+    "organizer_id": 15294226
+  },
+  "Futsal Melbourne": {
+    "tournament_id": "35935337",
+    "website_url": "https://futsal.melbourne",
+    "organizer": "Sports Group Melbourne",
+    "organizer_id": 35932465
+  }
+}

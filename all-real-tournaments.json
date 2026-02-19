@@ -1,0 +1,1336 @@
+[
+  {
+    "tournamentId": "61805002",
+    "tournamentName": "Shepparton Cup",
+    "season": "2025",
+    "results": [
+      {
+        "categoryId": "61805050",
+        "categoryName": "U12/13 GIRLS (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "65976870",
+          "teamName": "PRO STAR FOOTBALL U12/13 GIRLS (9v9)",
+          "clubId": "pro_star_football",
+          "clubName": "PRO STAR FOOTBALL"
+        }
+      },
+      {
+        "categoryId": "61805050",
+        "categoryName": "U12/13 GIRLS (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "65631723",
+          "teamName": "Keilor Park SC U12/13 GIRLS (9v9) U12",
+          "clubId": "keilor_park_sc",
+          "clubName": "Keilor Park SC"
+        }
+      },
+      {
+        "categoryId": "61805028",
+        "categoryName": "U13 BOYS COPA (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "67528733",
+          "teamName": "Altona North SC U13 COPA (9v9) Masnou",
+          "clubId": "altona_north_sc",
+          "clubName": "Altona North SC"
+        }
+      },
+      {
+        "categoryId": "61805028",
+        "categoryName": "U13 BOYS COPA (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "69643563",
+          "teamName": "Red Sea U13 COPA (9v9)",
+          "clubId": "red_sea",
+          "clubName": "Red Sea"
+        }
+      },
+      {
+        "categoryId": "61805034",
+        "categoryName": "U14 BOYS LIGA (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "69005246",
+          "teamName": "Roxburgh Park United U14 Liga (11v11) U14",
+          "clubId": "roxburgh_park_united",
+          "clubName": "Roxburgh Park United"
+        }
+      },
+      {
+        "categoryId": "61805034",
+        "categoryName": "U14 BOYS LIGA (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "66172729",
+          "teamName": "Fawkner SC U14 Liga (11v11)",
+          "clubId": "fawkner_sc",
+          "clubName": "Fawkner SC"
+        }
+      },
+      {
+        "categoryId": "61805052",
+        "categoryName": "U14-U16 GIRLS (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "70217198",
+          "teamName": "Northern Football U14-U16 GIRLS (11v11)",
+          "clubId": "northern_football",
+          "clubName": "Northern Football"
+        }
+      },
+      {
+        "categoryId": "61805052",
+        "categoryName": "U14-U16 GIRLS (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "69522698",
+          "teamName": "Knox City FC U14-U16 GIRLS (11v11)",
+          "clubId": "knox_city_fc",
+          "clubName": "Knox City FC"
+        }
+      },
+      {
+        "categoryId": "61805041",
+        "categoryName": "U16/U17 BOYS (11v11)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "71421411",
+          "teamName": "Brunswick Juventus U16/U17 BOYS (11v11)",
+          "clubId": "brunswick_juventus",
+          "clubName": "Brunswick Juventus"
+        }
+      },
+      {
+        "categoryId": "61805041",
+        "categoryName": "U16/U17 BOYS (11v11)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "67914107",
+          "teamName": "Lane Cove West FC U16/U17 BOYS (11v11)",
+          "clubId": "lane_cove_west_fc",
+          "clubName": "Lane Cove West FC"
+        }
+      },
+      {
+        "categoryId": "61805052",
+        "categoryName": "U14-U16 GIRLS (11v11)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "68826164",
+          "teamName": "Keilor Park SC U14-U16 GIRLS (11v11)",
+          "clubId": "keilor_park_sc",
+          "clubName": "Keilor Park SC"
+        }
+      },
+      {
+        "categoryId": "61805052",
+        "categoryName": "U14-U16 GIRLS (11v11)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "67466530",
+          "teamName": "Barwon SC U14-U16 GIRLS (11v11)",
+          "clubId": "barwon_sc",
+          "clubName": "Barwon SC"
+        }
+      },
+      {
+        "categoryId": "61805032",
+        "categoryName": "U14 BOYS COPA (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "67135324",
+          "teamName": "YTSSC U14 BOYS COPA (11v11)",
+          "clubId": "ytssc",
+          "clubName": "YTSSC"
+        }
+      },
+      {
+        "categoryId": "61805032",
+        "categoryName": "U14 BOYS COPA (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "66198337",
+          "teamName": "RH3 Academy U14 BOYS COPA (11v11) White",
+          "clubId": "rh3_academy",
+          "clubName": "RH3 Academy"
+        }
+      },
+      {
+        "categoryId": "61805008",
+        "categoryName": "U9 COPA (7v7)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "67528719",
+          "teamName": "Altona North SC U9 COPA (7v7) Masnou",
+          "clubId": "altona_north_sc",
+          "clubName": "Altona North SC"
+        }
+      },
+      {
+        "categoryId": "61805008",
+        "categoryName": "U9 COPA (7v7)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "65472630",
+          "teamName": "Keilor Park SC U9 COPA (7v7) (Steve)",
+          "clubId": "keilor_park_sc",
+          "clubName": "Keilor Park SC"
+        }
+      },
+      {
+        "categoryId": "61805050",
+        "categoryName": "U12/13 GIRLS (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "68088925",
+          "teamName": "Ballarat City FC U12/13 GIRLS (9v9) U13",
+          "clubId": "ballarat_city_fc",
+          "clubName": "Ballarat City FC"
+        }
+      },
+      {
+        "categoryId": "61805050",
+        "categoryName": "U12/13 GIRLS (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "66490225",
+          "teamName": "Shepparton JSA U12/13 GIRLS (9v9)",
+          "clubId": "shepparton_jsa",
+          "clubName": "Shepparton JSA"
+        }
+      },
+      {
+        "categoryId": "61805010",
+        "categoryName": "U9 LIGA (7v7)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "66241682",
+          "teamName": "Avondale FC U9 LIGA (7v7)",
+          "clubId": "avondale_fc",
+          "clubName": "Avondale FC"
+        }
+      },
+      {
+        "categoryId": "61805010",
+        "categoryName": "U9 LIGA (7v7)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "67384358",
+          "teamName": "Cobram Junior SA U9 LIGA (7v7)",
+          "clubId": "cobram_junior_sa",
+          "clubName": "Cobram Junior SA"
+        }
+      },
+      {
+        "categoryId": "61805047",
+        "categoryName": "U10/11 GIRLS (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "72240770",
+          "teamName": "Moonee Ponds Utd SC U10/11 GIRLS (9v9) MPUSC u10G",
+          "clubId": "moonee_ponds_utd_sc",
+          "clubName": "Moonee Ponds Utd SC"
+        }
+      },
+      {
+        "categoryId": "61805047",
+        "categoryName": "U10/11 GIRLS (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "65392653",
+          "teamName": "Futbal First U10/11 GIRLS (9v9)",
+          "clubId": "futbal_first",
+          "clubName": "Futbal First"
+        }
+      },
+      {
+        "categoryId": "61805004",
+        "categoryName": "U8 COPA (7v7)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "65976651",
+          "teamName": "Elite Football Academy U8 COPA (7v7) Agustin",
+          "clubId": "elite_football_academy",
+          "clubName": "Elite Football Academy"
+        }
+      },
+      {
+        "categoryId": "61805004",
+        "categoryName": "U8 COPA (7v7)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "65428820",
+          "teamName": "Glen Eira FC U8 COPA (7v7) 1 Blue",
+          "clubId": "glen_eira_fc",
+          "clubName": "Glen Eira FC"
+        }
+      },
+      {
+        "categoryId": "61805020",
+        "categoryName": "U12 COPA (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "65429036",
+          "teamName": "Elite Football Academy U12 COPA (9v9)",
+          "clubId": "elite_football_academy",
+          "clubName": "Elite Football Academy"
+        }
+      },
+      {
+        "categoryId": "61805020",
+        "categoryName": "U12 COPA (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "65976903",
+          "teamName": "St Albans Dinamo U12 COPA (9v9)",
+          "clubId": "st_albans_dinamo",
+          "clubName": "St Albans Dinamo"
+        }
+      },
+      {
+        "categoryId": "61805018",
+        "categoryName": "U11 LIGA (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "65631754",
+          "teamName": "Caroline Springs George Cross U11 LIGA (9v9)",
+          "clubId": "caroline_springs_george_cross",
+          "clubName": "Caroline Springs George Cross"
+        }
+      },
+      {
+        "categoryId": "61805018",
+        "categoryName": "U11 LIGA (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "66277866",
+          "teamName": "Kyneton District SC U11 LIGA (9v9)",
+          "clubId": "kyneton_district_sc",
+          "clubName": "Kyneton District SC"
+        }
+      },
+      {
+        "categoryId": "61805041",
+        "categoryName": "U16/U17 BOYS (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "69309343",
+          "teamName": "Red Sea U16/U17 BOYS (11v11)",
+          "clubId": "red_sea",
+          "clubName": "Red Sea"
+        }
+      },
+      {
+        "categoryId": "61805041",
+        "categoryName": "U16/U17 BOYS (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "67135328",
+          "teamName": "YTSSC U16/U17 BOYS (11v11)",
+          "clubId": "ytssc",
+          "clubName": "YTSSC"
+        }
+      },
+      {
+        "categoryId": "61805008",
+        "categoryName": "U9 COPA (7v7)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "72856789",
+          "teamName": "Keysborough SC U9 COPA (7v7)",
+          "clubId": "keysborough_sc",
+          "clubName": "Keysborough SC"
+        }
+      },
+      {
+        "categoryId": "61805008",
+        "categoryName": "U9 COPA (7v7)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "70605758",
+          "teamName": "Red Sea U9 COPA (7v7)",
+          "clubId": "red_sea",
+          "clubName": "Red Sea"
+        }
+      },
+      {
+        "categoryId": "61805030",
+        "categoryName": "U13 BOYS LIGA (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "66134124",
+          "teamName": "Sydenham Park SC U13 LIGA (9v9)",
+          "clubId": "sydenham_park_sc",
+          "clubName": "Sydenham Park SC"
+        }
+      },
+      {
+        "categoryId": "61805030",
+        "categoryName": "U13 BOYS LIGA (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "69738910",
+          "teamName": "Deniliquin District SC U13 LIGA (9v9)",
+          "clubId": "deniliquin_district_sc",
+          "clubName": "Deniliquin District SC"
+        }
+      },
+      {
+        "categoryId": "61805014",
+        "categoryName": "U10 LIGA (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "65977080",
+          "teamName": "Greenvale United - F9 FOOTBALL ACADEMY U10 LIGA (9v9) Fale Nine Football Academy",
+          "clubId": "greenvale_united_-_f9_football_academy",
+          "clubName": "Greenvale United - F9 FOOTBALL ACADEMY"
+        }
+      },
+      {
+        "categoryId": "61805014",
+        "categoryName": "U10 LIGA (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "65431140",
+          "teamName": "St Albans Dinamo U10 LIGA (9v9)",
+          "clubId": "st_albans_dinamo",
+          "clubName": "St Albans Dinamo"
+        }
+      },
+      {
+        "categoryId": "61805039",
+        "categoryName": "U15 BOYS (11v11)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "67569284",
+          "teamName": "Williamstown SC U15 BOYS (11v11)",
+          "clubId": "williamstown_sc",
+          "clubName": "Williamstown SC"
+        }
+      },
+      {
+        "categoryId": "61805039",
+        "categoryName": "U15 BOYS (11v11)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "69968783",
+          "teamName": "Murray United FC U15 BOYS (11v11)",
+          "clubId": "murray_united_fc",
+          "clubName": "Murray United FC"
+        }
+      },
+      {
+        "categoryId": "61805012",
+        "categoryName": "U10 COPA (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "65667911",
+          "teamName": "Werribee City FC U10 COPA (9v9)",
+          "clubId": "werribee_city_fc",
+          "clubName": "Werribee City FC"
+        }
+      },
+      {
+        "categoryId": "61805012",
+        "categoryName": "U10 COPA (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "65495966",
+          "teamName": "Essendon Royals U10 COPA (9v9)",
+          "clubId": "essendon_royals",
+          "clubName": "Essendon Royals"
+        }
+      },
+      {
+        "categoryId": "61805045",
+        "categoryName": "U8/9 GIRLS (7v7)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "66992772",
+          "teamName": "Keilor Park SC U8/9 GIRLS (7v7) Girls",
+          "clubId": "keilor_park_sc",
+          "clubName": "Keilor Park SC"
+        }
+      },
+      {
+        "categoryId": "61805045",
+        "categoryName": "U8/9 GIRLS (7v7)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "69862171",
+          "teamName": "Murray United FC U8/9 GIRLS (7v7) U9 Girls",
+          "clubId": "murray_united_fc",
+          "clubName": "Murray United FC"
+        }
+      },
+      {
+        "categoryId": "61805006",
+        "categoryName": "U8 LIGA (7v7)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "68089134",
+          "teamName": "GV Suns U8 LIGA (7v7) Orange",
+          "clubId": "gv_suns",
+          "clubName": "GV Suns"
+        }
+      },
+      {
+        "categoryId": "61805006",
+        "categoryName": "U8 LIGA (7v7)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "67441040",
+          "teamName": "Hampton East Brighton U8 LIGA (7v7)",
+          "clubId": "hampton_east_brighton",
+          "clubName": "Hampton East Brighton"
+        }
+      },
+      {
+        "categoryId": "61805026",
+        "categoryName": "U12 LIGA (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "68089154",
+          "teamName": "GV Suns U12 LIGA (9v9)",
+          "clubId": "gv_suns",
+          "clubName": "GV Suns"
+        }
+      },
+      {
+        "categoryId": "61805026",
+        "categoryName": "U12 LIGA (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "71136248",
+          "teamName": "Newport Storm FC U12 LIGA (9v9) Kante",
+          "clubId": "newport_storm_fc",
+          "clubName": "Newport Storm FC"
+        }
+      },
+      {
+        "categoryId": "61805034",
+        "categoryName": "U14 BOYS LIGA (11v11)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "67913326",
+          "teamName": "Northcote City FC U14 Liga (11v11)",
+          "clubId": "northcote_city_fc",
+          "clubName": "Northcote City FC"
+        }
+      },
+      {
+        "categoryId": "61805034",
+        "categoryName": "U14 BOYS LIGA (11v11)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "68067953",
+          "teamName": "Berwick City SC U14 Liga (11v11)",
+          "clubId": "berwick_city_sc",
+          "clubName": "Berwick City SC"
+        }
+      },
+      {
+        "categoryId": "61805014",
+        "categoryName": "U10 LIGA (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "70082594",
+          "teamName": "Gisborne SC U10 LIGA (9v9) Marco",
+          "clubId": "gisborne_sc",
+          "clubName": "Gisborne SC"
+        }
+      },
+      {
+        "categoryId": "61805014",
+        "categoryName": "U10 LIGA (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "66218044",
+          "teamName": "Ballarat Panthers U10 LIGA (9v9)",
+          "clubId": "ballarat_panthers",
+          "clubName": "Ballarat Panthers"
+        }
+      },
+      {
+        "categoryId": "61805016",
+        "categoryName": "U11 COPA (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "67528725",
+          "teamName": "Altona North SC U11 COPA (9v9) Oriol",
+          "clubId": "altona_north_sc",
+          "clubName": "Altona North SC"
+        }
+      },
+      {
+        "categoryId": "61805016",
+        "categoryName": "U11 COPA (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "67440579",
+          "teamName": "Oakleigh Cannons U11 COPA (9v9) Jara",
+          "clubId": "oakleigh_cannons",
+          "clubName": "Oakleigh Cannons"
+        }
+      },
+      {
+        "categoryId": "61805047",
+        "categoryName": "U10/11 GIRLS (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "66793484",
+          "teamName": "Williams Landing U10/11 GIRLS (9v9)",
+          "clubId": "williams_landing",
+          "clubName": "Williams Landing"
+        }
+      },
+      {
+        "categoryId": "61805047",
+        "categoryName": "U10/11 GIRLS (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "66679036",
+          "teamName": "St Albans Dinamo U10/11 GIRLS (9v9)",
+          "clubId": "st_albans_dinamo",
+          "clubName": "St Albans Dinamo"
+        }
+      },
+      {
+        "categoryId": "61805004",
+        "categoryName": "U8 COPA (7v7)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "72656176",
+          "teamName": "BROXHAM FOOTBALL U8 COPA (7v7) BANDITS",
+          "clubId": "broxham_football",
+          "clubName": "BROXHAM FOOTBALL"
+        }
+      },
+      {
+        "categoryId": "61805004",
+        "categoryName": "U8 COPA (7v7)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "65977752",
+          "teamName": "Caroline Springs George Cross U8 COPA (7v7)",
+          "clubId": "caroline_springs_george_cross",
+          "clubName": "Caroline Springs George Cross"
+        }
+      },
+      {
+        "categoryId": "61805028",
+        "categoryName": "U13 BOYS COPA (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "68089156",
+          "teamName": "GV Suns U13 COPA (9v9)",
+          "clubId": "gv_suns",
+          "clubName": "GV Suns"
+        }
+      },
+      {
+        "categoryId": "61805028",
+        "categoryName": "U13 BOYS COPA (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "66278542",
+          "teamName": "Avondale FC U13 COPA (9v9)",
+          "clubId": "avondale_fc",
+          "clubName": "Avondale FC"
+        }
+      },
+      {
+        "categoryId": "61805016",
+        "categoryName": "U11 COPA (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "67528727",
+          "teamName": "Altona North SC U11 COPA (9v9) Masnou",
+          "clubId": "altona_north_sc",
+          "clubName": "Altona North SC"
+        }
+      },
+      {
+        "categoryId": "61805016",
+        "categoryName": "U11 COPA (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "65428832",
+          "teamName": "Glen Eira FC U11 COPA (9v9) 1 Blue",
+          "clubId": "glen_eira_fc",
+          "clubName": "Glen Eira FC"
+        }
+      },
+      {
+        "categoryId": "61805006",
+        "categoryName": "U8 LIGA (7v7)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "65532961",
+          "teamName": "Prodigy Futbol Lab U8 LIGA (7v7) Pas",
+          "clubId": "prodigy_futbol_lab",
+          "clubName": "Prodigy Futbol Lab"
+        }
+      },
+      {
+        "categoryId": "61805006",
+        "categoryName": "U8 LIGA (7v7)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "69017030",
+          "teamName": "Dandenong City U8 LIGA (7v7)",
+          "clubId": "dandenong_city",
+          "clubName": "Dandenong City"
+        }
+      },
+      {
+        "categoryId": "61805030",
+        "categoryName": "U13 BOYS LIGA (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "66198339",
+          "teamName": "RH3 Academy U13 LIGA (9v9) Blue",
+          "clubId": "rh3_academy",
+          "clubName": "RH3 Academy"
+        }
+      },
+      {
+        "categoryId": "61805030",
+        "categoryName": "U13 BOYS LIGA (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "66198335",
+          "teamName": "RH3 Academy U13 LIGA (9v9) Black",
+          "clubId": "rh3_academy",
+          "clubName": "RH3 Academy"
+        }
+      },
+      {
+        "categoryId": "61805045",
+        "categoryName": "U8/9 GIRLS (7v7)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "66298759",
+          "teamName": "Essendon Royals U8/9 GIRLS (7v7)",
+          "clubId": "essendon_royals",
+          "clubName": "Essendon Royals"
+        }
+      },
+      {
+        "categoryId": "61805045",
+        "categoryName": "U8/9 GIRLS (7v7)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "66939447",
+          "teamName": "Dandenong City U8/9 GIRLS (7v7)",
+          "clubId": "dandenong_city",
+          "clubName": "Dandenong City"
+        }
+      },
+      {
+        "categoryId": "61805018",
+        "categoryName": "U11 LIGA (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "65980401",
+          "teamName": "Football SouthWest U11 LIGA (9v9) U11 Boys",
+          "clubId": "football_southwest",
+          "clubName": "Football SouthWest"
+        }
+      },
+      {
+        "categoryId": "61805018",
+        "categoryName": "U11 LIGA (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "69864927",
+          "teamName": "Murray United FC U11 LIGA (9v9) U11 RED",
+          "clubId": "murray_united_fc",
+          "clubName": "Murray United FC"
+        }
+      },
+      {
+        "categoryId": "61805020",
+        "categoryName": "U12 COPA (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "70120694",
+          "teamName": "Doreen United U12 COPA (9v9)",
+          "clubId": "doreen_united",
+          "clubName": "Doreen United"
+        }
+      },
+      {
+        "categoryId": "61805020",
+        "categoryName": "U12 COPA (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "67528729",
+          "teamName": "Altona North SC U12 COPA (9v9)",
+          "clubId": "altona_north_sc",
+          "clubName": "Altona North SC"
+        }
+      },
+      {
+        "categoryId": "61805039",
+        "categoryName": "U15 BOYS (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "69885571",
+          "teamName": "Camden Tigers PSH U15 BOYS (11v11)",
+          "clubId": "camden_tigers_psh",
+          "clubName": "Camden Tigers PSH"
+        }
+      },
+      {
+        "categoryId": "61805039",
+        "categoryName": "U15 BOYS (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "70744006",
+          "teamName": "GV Suns U15 BOYS (11v11)",
+          "clubId": "gv_suns",
+          "clubName": "GV Suns"
+        }
+      },
+      {
+        "categoryId": "61805012",
+        "categoryName": "U10 COPA (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "65554102",
+          "teamName": "Altona City SC U10 COPA (9v9)",
+          "clubId": "altona_city_sc",
+          "clubName": "Altona City SC"
+        }
+      },
+      {
+        "categoryId": "61805012",
+        "categoryName": "U10 COPA (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "65643353",
+          "teamName": "Keilor Park SC U10 COPA (9v9) (Moe)",
+          "clubId": "keilor_park_sc",
+          "clubName": "Keilor Park SC"
+        }
+      },
+      {
+        "categoryId": "61805010",
+        "categoryName": "U9 LIGA (7v7)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "68089141",
+          "teamName": "GV Suns U9 LIGA (7v7) Blue",
+          "clubId": "gv_suns",
+          "clubName": "GV Suns"
+        }
+      },
+      {
+        "categoryId": "61805010",
+        "categoryName": "U9 LIGA (7v7)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "65643506",
+          "teamName": "Brimbank Stallions FC U9 LIGA (7v7)",
+          "clubId": "brimbank_stallions_fc",
+          "clubName": "Brimbank Stallions FC"
+        }
+      },
+      {
+        "categoryId": "61805026",
+        "categoryName": "U12 LIGA (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "66198329",
+          "teamName": "RH3 Academy U12 LIGA (9v9) Blue",
+          "clubId": "rh3_academy",
+          "clubName": "RH3 Academy"
+        }
+      },
+      {
+        "categoryId": "61805026",
+        "categoryName": "U12 LIGA (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "69351944",
+          "teamName": "Red Sea U12 LIGA (9v9)",
+          "clubId": "red_sea",
+          "clubName": "Red Sea"
+        }
+      }
+    ]
+  },
+  {
+    "tournamentId": "60652114",
+    "tournamentName": "WU Cup",
+    "season": "2025",
+    "results": [
+      {
+        "categoryId": "60652159",
+        "categoryName": "U14 Girls Born in 2011 (11v11)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "69299685",
+          "teamName": "Keilor Park SC U14 Girls",
+          "clubId": "keilor_park_sc",
+          "clubName": "Keilor Park SC"
+        }
+      },
+      {
+        "categoryId": "60652159",
+        "categoryName": "U14 Girls Born in 2011 (11v11)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "71782754",
+          "teamName": "Gisborne Soccer Club U14 Girls",
+          "clubId": "gisborne_soccer_club",
+          "clubName": "Gisborne Soccer Club"
+        }
+      },
+      {
+        "categoryId": "60652122",
+        "categoryName": "U8/9 Girls Born in 2016/17 (7v7)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "69935253",
+          "teamName": "Keilor Park SC U8/9 Girls",
+          "clubId": "keilor_park_sc",
+          "clubName": "Keilor Park SC"
+        }
+      },
+      {
+        "categoryId": "60652122",
+        "categoryName": "U8/9 Girls Born in 2016/17 (7v7)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "70479702",
+          "teamName": "Whittlesea Ranges U8/9 Girls",
+          "clubId": "whittlesea_ranges",
+          "clubName": "Whittlesea Ranges"
+        }
+      },
+      {
+        "categoryId": "60652131",
+        "categoryName": "U11 Girls Born in 2014 (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "67632736",
+          "teamName": "Football Geelong U11 Girls",
+          "clubId": "football_geelong",
+          "clubName": "Football Geelong"
+        }
+      },
+      {
+        "categoryId": "60652131",
+        "categoryName": "U11 Girls Born in 2014 (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "67700408",
+          "teamName": "Williams Landing FC U11 Girls",
+          "clubId": "williams_landing_fc",
+          "clubName": "Williams Landing FC"
+        }
+      },
+      {
+        "categoryId": "60652151",
+        "categoryName": "U13 Girls Born in 2012 (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "69753540",
+          "teamName": "Surf Coast FC U13 Girls",
+          "clubId": "surf_coast_fc",
+          "clubName": "Surf Coast FC"
+        }
+      },
+      {
+        "categoryId": "60652151",
+        "categoryName": "U13 Girls Born in 2012 (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "70605506",
+          "teamName": "North Sunshine Eagles FC U13 Girls",
+          "clubId": "north_sunshine_eagles_fc",
+          "clubName": "North Sunshine Eagles FC"
+        }
+      },
+      {
+        "categoryId": "60652137",
+        "categoryName": "U12 Girls Born in 2013 (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "70514537",
+          "teamName": "Essendon Royals SC U12 Girls ",
+          "clubId": "essendon_royals_sc",
+          "clubName": "Essendon Royals SC"
+        }
+      },
+      {
+        "categoryId": "60652137",
+        "categoryName": "U12 Girls Born in 2013 (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "70527438",
+          "teamName": "Doreen United SC U12 Girls ",
+          "clubId": "doreen_united_sc",
+          "clubName": "Doreen United SC"
+        }
+      },
+      {
+        "categoryId": "60652137",
+        "categoryName": "U12 Girls Born in 2013 (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "70608050",
+          "teamName": "Ballarat SC U12 Girls ",
+          "clubId": "ballarat_sc",
+          "clubName": "Ballarat SC"
+        }
+      },
+      {
+        "categoryId": "60652137",
+        "categoryName": "U12 Girls Born in 2013 (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "70485095",
+          "teamName": "Corio SC U12 Girls ",
+          "clubId": "corio_sc",
+          "clubName": "Corio SC"
+        }
+      },
+      {
+        "categoryId": "67535687",
+        "categoryName": "U17 Girls Born in 2008 (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "69915748",
+          "teamName": "Calder United SC U17 Girls",
+          "clubId": "calder_united_sc",
+          "clubName": "Calder United SC"
+        }
+      },
+      {
+        "categoryId": "67535687",
+        "categoryName": "U17 Girls Born in 2008 (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "70267156",
+          "teamName": "Menace FC U17 Girls",
+          "clubId": "menace_fc",
+          "clubName": "Menace FC"
+        }
+      },
+      {
+        "categoryId": "60652165",
+        "categoryName": "U15 Girls Born in 2010 (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "70104039",
+          "teamName": "Essendon Royals SC U15 Girls",
+          "clubId": "essendon_royals_sc",
+          "clubName": "Essendon Royals SC"
+        }
+      },
+      {
+        "categoryId": "60652165",
+        "categoryName": "U15 Girls Born in 2010 (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "70585063",
+          "teamName": "Gippsland Soccer League U15 Girls GSL Rep Squad",
+          "clubId": "gippsland_soccer_league",
+          "clubName": "Gippsland Soccer League"
+        }
+      },
+      {
+        "categoryId": "60652173",
+        "categoryName": "U16 Girls Born in 2009 (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "69916063",
+          "teamName": "Football Tasmania TSP U16 Girls",
+          "clubId": "football_tasmania_tsp",
+          "clubName": "Football Tasmania TSP"
+        }
+      },
+      {
+        "categoryId": "60652173",
+        "categoryName": "U16 Girls Born in 2009 (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "71700093",
+          "teamName": "RH3 U16 Girls",
+          "clubId": "rh3",
+          "clubName": "RH3"
+        }
+      },
+      {
+        "categoryId": "60652131",
+        "categoryName": "U11 Girls Born in 2014 (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "71679092",
+          "teamName": "Victoria Park FC U11 Girls",
+          "clubId": "victoria_park_fc",
+          "clubName": "Victoria Park FC"
+        }
+      },
+      {
+        "categoryId": "60652131",
+        "categoryName": "U11 Girls Born in 2014 (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "70020441",
+          "teamName": "Ocean Grove SC U11 Girls Waves",
+          "clubId": "ocean_grove_sc",
+          "clubName": "Ocean Grove SC"
+        }
+      },
+      {
+        "categoryId": "60652159",
+        "categoryName": "U14 Girls Born in 2011 (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "71700018",
+          "teamName": "Geelong Rangers U14 Girls",
+          "clubId": "geelong_rangers",
+          "clubName": "Geelong Rangers"
+        }
+      },
+      {
+        "categoryId": "60652159",
+        "categoryName": "U14 Girls Born in 2011 (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "69916061",
+          "teamName": "Football Tasmania TSP U14 Girls",
+          "clubId": "football_tasmania_tsp",
+          "clubName": "Football Tasmania TSP"
+        }
+      },
+      {
+        "categoryId": "60652165",
+        "categoryName": "U15 Girls Born in 2010 (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "70975043",
+          "teamName": "Geelong Galaxy United FC U15 Girls",
+          "clubId": "geelong_galaxy_united_fc",
+          "clubName": "Geelong Galaxy United FC"
+        }
+      },
+      {
+        "categoryId": "60652165",
+        "categoryName": "U15 Girls Born in 2010 (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "70267154",
+          "teamName": "Menace FC U15 Girls",
+          "clubId": "menace_fc",
+          "clubName": "Menace FC"
+        }
+      },
+      {
+        "categoryId": "67535687",
+        "categoryName": "U17 Girls Born in 2008 (11v11)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "70692395",
+          "teamName": "Geelong Galaxy United FC U17 Girls",
+          "clubId": "geelong_galaxy_united_fc",
+          "clubName": "Geelong Galaxy United FC"
+        }
+      },
+      {
+        "categoryId": "67535687",
+        "categoryName": "U17 Girls Born in 2008 (11v11)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "70836104",
+          "teamName": "Ballarat City FC U17 Girls",
+          "clubId": "ballarat_city_fc",
+          "clubName": "Ballarat City FC"
+        }
+      },
+      {
+        "categoryId": "60652151",
+        "categoryName": "U13 Girls Born in 2012 (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "70161509",
+          "teamName": "Pro Star Football U13 Girls",
+          "clubId": "pro_star_football",
+          "clubName": "Pro Star Football"
+        }
+      },
+      {
+        "categoryId": "60652151",
+        "categoryName": "U13 Girls Born in 2012 (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "71717590",
+          "teamName": "Spring Hills FC U13 Girls",
+          "clubId": "spring_hills_fc",
+          "clubName": "Spring Hills FC"
+        }
+      },
+      {
+        "categoryId": "60652122",
+        "categoryName": "U8/9 Girls Born in 2016/17 (7v7)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "69841479",
+          "teamName": "Forest Rangers SC U8/9 Girls",
+          "clubId": "forest_rangers_sc",
+          "clubName": "Forest Rangers SC"
+        }
+      },
+      {
+        "categoryId": "60652122",
+        "categoryName": "U8/9 Girls Born in 2016/17 (7v7)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "69302446",
+          "teamName": "Essendon Royals SC U8/9 Girls U9 Red",
+          "clubId": "essendon_royals_sc",
+          "clubName": "Essendon Royals SC"
+        }
+      },
+      {
+        "categoryId": "60652182",
+        "categoryName": "Youth Women (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "71421338",
+          "teamName": "Spring Hills FC Youth Women",
+          "clubId": "spring_hills_fc",
+          "clubName": "Spring Hills FC"
+        }
+      },
+      {
+        "categoryId": "60652182",
+        "categoryName": "Youth Women (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "70217561",
+          "teamName": "Calder United SC Youth Women",
+          "clubId": "calder_united_sc",
+          "clubName": "Calder United SC"
+        }
+      }
+    ]
+  }
+]

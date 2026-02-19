@@ -1,0 +1,6497 @@
+{
+  "responses": {
+    "NameClub({id:61941866})": {
+      "cachetags": [
+        {
+          "taint": [
+            "nameClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "NameClub",
+        "description": {
+          "href": "NameClub({id:61941866})$description"
+        },
+        "name": "Brisbane Boys College",
+        "id": 61941866,
+        "address": {
+          "href": "Address({eid:61941866})"
+        },
+        "matchesExcelUrl": {
+          "href": "NameClub({id:61941866})$matchesExcelUrl"
+        },
+        "matchesCalendarUrl": {
+          "href": "NameClub({id:61941866})$matchesCalendarUrl"
+        },
+        "registeredTeams": {
+          "href": "NameClub({id:61941866})$registeredTeams"
+        },
+        "shirt": {
+          "href": "NameClub({id:61941866})$shirt"
+        },
+        "nation": {
+          "href": "Nation({id:25})"
+        }
+      },
+      "auditResolveTime": 0.019522
+    },
+    "Team({id:61942102})": {
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "nameClub",
+            "registrationClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Team",
+        "category": {
+          "href": "Category({categoryId:54663957,tournamentId:54663955})"
+        },
+        "description": {
+          "href": "Team({id:61942102})$description"
+        },
+        "name": {
+          "__typename": "Team$TeamName",
+          "fullName": "Ipswich Grammar School Open Boys First XI",
+          "suffix": "First XI",
+          "clubName": "Ipswich Grammar School First XI",
+          "categoryName": "Open Boys First XI"
+        },
+        "matches": {
+          "href": "Team({id:61942102})$matches"
+        },
+        "id": 61942102,
+        "timeline": {
+          "href": "Team({id:61942102})$timeline"
+        },
+        "matchesExcelUrl": {
+          "href": "Team({id:61942102})$matchesExcelUrl"
+        },
+        "registrator": {
+          "href": "Team({id:61942102})$registrator"
+        },
+        "matchesCalendarUrl": {
+          "href": "Team({id:61942102})$matchesCalendarUrl"
+        },
+        "leaderNames": {
+          "href": "Team({id:61942102})$leaderNames"
+        },
+        "statistics": {
+          "href": "Team({id:61942102})$statistics"
+        },
+        "shirt": {
+          "href": "Team({id:61942102})$shirt"
+        },
+        "clubLogoUrl": "",
+        "awards": {
+          "href": "Team({id:61942102})$awards"
+        },
+        "extraMatches": {
+          "href": "Team({id:61942102})$extraMatches"
+        },
+        "divisions": {
+          "href": "Team({id:61942102})$divisions"
+        },
+        "club": {
+          "href": "NameClub({id:61941918})"
+        },
+        "registrationNumber": {
+          "href": "Team({id:61942102})$registrationNumber"
+        },
+        "accommodation": {
+          "href": "Team({id:61942102})$accommodation"
+        },
+        "timelineForLeader": {
+          "href": "Team({id:61942102})$timelineForLeader"
+        }
+      },
+      "auditResolveTime": 0.017084
+    },
+    "Match({id:62580531})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62580531
+          ],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "match",
+            "match_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62580531
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Match",
+        "home": {
+          "href": "MatchActor({actor:\"home\",id:62580531})"
+        },
+        "duration": 3000000,
+        "day": {
+          "href": "EditionDay({id:58690445})"
+        },
+        "finished": true,
+        "result": {
+          "href": "MatchResult({id:62580531})"
+        },
+        "end": 1744858200000,
+        "id": 62580531,
+        "start": 1744855200000,
+        "round": {
+          "href": "Round({id:62580529})"
+        },
+        "liveStart": {
+          "href": "Match({id:62580531})$liveStart"
+        },
+        "nextMatchWinner": {
+          "href": "Match({id:62580531})$nextMatchWinner"
+        },
+        "loser": {
+          "href": "Match({id:62580531})$loser"
+        },
+        "nextMatchLoser": {
+          "href": "Match({id:62580531})$nextMatchLoser"
+        },
+        "protests": {
+          "href": "Match({id:62580531})$protests"
+        },
+        "matchNr": "17040103",
+        "roundName": {
+          "href": "Match({id:62580531})$roundName"
+        },
+        "roundRank": {
+          "href": "Match({id:62580531})$roundRank"
+        },
+        "winner": {
+          "href": "Match({id:62580531})$winner"
+        },
+        "referees": {
+          "href": "Match({id:62580531})$referees"
+        },
+        "division": {
+          "href": "Division({id:62580528})"
+        },
+        "live": false,
+        "arena": {
+          "href": "Arena({id:51182644,tid:54663955})"
+        },
+        "stage": {
+          "href": "Stage({categoryId:54663962,stageId:54663953,tournamentId:54663955})"
+        },
+        "extraMatches": {
+          "href": "Match({id:62580531})$extraMatches"
+        },
+        "away": {
+          "href": "MatchActor({actor:\"away\",id:62580531})"
+        },
+        "feed": {
+          "href": "MatchFeed({id:62580531})"
+        },
+        "isScheduled": true
+      },
+      "auditResolveTime": 0.015839
+    },
+    "MatchActor({actor:\"away\",id:62397317})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_actor_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397317
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "MatchActor",
+        "name": {
+          "en": "The Southport School"
+        },
+        "id": 62186328,
+        "match": {
+          "href": "Match({id:62397317})"
+        },
+        "originalName": {
+          "href": "MatchActor({actor:\"away\",id:62397317})$originalName"
+        },
+        "team": {
+          "href": "Team({id:62186328})"
+        },
+        "shortName": {
+          "href": "MatchActor({actor:\"away\",id:62397317})$shortName"
+        }
+      },
+      "auditResolveTime": 0.010598
+    },
+    "NameClub({id:61941971})": {
+      "cachetags": [
+        {
+          "taint": [
+            "nameClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "NameClub",
+        "description": {
+          "href": "NameClub({id:61941971})$description"
+        },
+        "name": "Nazareth Catholic College",
+        "id": 61941971,
+        "address": {
+          "href": "Address({eid:61941971})"
+        },
+        "matchesExcelUrl": {
+          "href": "NameClub({id:61941971})$matchesExcelUrl"
+        },
+        "matchesCalendarUrl": {
+          "href": "NameClub({id:61941971})$matchesCalendarUrl"
+        },
+        "registeredTeams": {
+          "href": "NameClub({id:61941971})$registeredTeams"
+        },
+        "shirt": {
+          "href": "NameClub({id:61941971})$shirt"
+        },
+        "nation": {
+          "href": "Nation({id:25})"
+        }
+      },
+      "auditResolveTime": 0.012554
+    },
+    "Team({id:62404841})": {
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "nameClub",
+            "registrationClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Team",
+        "category": {
+          "href": "Category({categoryId:54663957,tournamentId:54663955})"
+        },
+        "description": {
+          "href": "Team({id:62404841})$description"
+        },
+        "name": {
+          "__typename": "Team$TeamName",
+          "fullName": "Marist College Ashgrove Open Boys",
+          "suffix": "",
+          "clubName": "Marist College Ashgrove",
+          "categoryName": "Open Boys"
+        },
+        "matches": {
+          "href": "Team({id:62404841})$matches"
+        },
+        "id": 62404841,
+        "timeline": {
+          "href": "Team({id:62404841})$timeline"
+        },
+        "matchesExcelUrl": {
+          "href": "Team({id:62404841})$matchesExcelUrl"
+        },
+        "registrator": {
+          "href": "Team({id:62404841})$registrator"
+        },
+        "matchesCalendarUrl": {
+          "href": "Team({id:62404841})$matchesCalendarUrl"
+        },
+        "leaderNames": {
+          "href": "Team({id:62404841})$leaderNames"
+        },
+        "statistics": {
+          "href": "Team({id:62404841})$statistics"
+        },
+        "shirt": {
+          "href": "Team({id:62404841})$shirt"
+        },
+        "clubLogoUrl": "",
+        "awards": {
+          "href": "Team({id:62404841})$awards"
+        },
+        "extraMatches": {
+          "href": "Team({id:62404841})$extraMatches"
+        },
+        "divisions": {
+          "href": "Team({id:62404841})$divisions"
+        },
+        "club": {
+          "href": "NameClub({id:62399252})"
+        },
+        "registrationNumber": {
+          "href": "Team({id:62404841})$registrationNumber"
+        },
+        "accommodation": {
+          "href": "Team({id:62404841})$accommodation"
+        },
+        "timelineForLeader": {
+          "href": "Team({id:62404841})$timelineForLeader"
+        }
+      },
+      "auditResolveTime": 0.014047
+    },
+    "Stage({categoryId:54663957,stageId:54663954,tournamentId:54663955})": {
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Stage",
+        "category": {
+          "href": "Category({categoryId:54663957,tournamentId:54663955})"
+        },
+        "name": "Playoff B",
+        "type": "playoff",
+        "matches": {
+          "href": "Stage({categoryId:54663957,stageId:54663954,tournamentId:54663955})$matches"
+        },
+        "id": 54663954,
+        "previousStages": {
+          "href": "Stage({categoryId:54663957,stageId:54663954,tournamentId:54663955})$previousStages"
+        },
+        "nextStages": {
+          "href": "Stage({categoryId:54663957,stageId:54663954,tournamentId:54663955})$nextStages"
+        },
+        "realTeams": {
+          "href": "Stage({categoryId:54663957,stageId:54663954,tournamentId:54663955})$realTeams"
+        },
+        "stageTeamConferences": {
+          "href": "Stage({categoryId:54663957,stageId:54663954,tournamentId:54663955})$stageTeamConferences"
+        },
+        "isSingleConference": false,
+        "periodLengths": [
+          20,
+          20
+        ],
+        "schedulePublished": true,
+        "statistics": {
+          "href": "Stage({categoryId:54663957,stageId:54663954,tournamentId:54663955})$statistics"
+        },
+        "lotPublished": true,
+        "teams": {
+          "href": "Stage({categoryId:54663957,stageId:54663954,tournamentId:54663955})$teams"
+        },
+        "rankings": {
+          "href": "Stage({categoryId:54663957,stageId:54663954,tournamentId:54663955})$rankings"
+        },
+        "categoryId": 54663957,
+        "pseudoStageTeams": {
+          "href": "Stage({categoryId:54663957,stageId:54663954,tournamentId:54663955})$pseudoStageTeams"
+        },
+        "divisions": {
+          "href": "Stage({categoryId:54663957,stageId:54663954,tournamentId:54663955})$divisions"
+        },
+        "rank": 3
+      },
+      "auditResolveTime": 0.053409
+    },
+    "Team({id:62186268})": {
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "nameClub",
+            "registrationClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Team",
+        "category": {
+          "href": "Category({categoryId:54663957,tournamentId:54663955})"
+        },
+        "description": {
+          "href": "Team({id:62186268})$description"
+        },
+        "name": {
+          "__typename": "Team$TeamName",
+          "fullName": "Toowoomba Grammar School Open Boys",
+          "suffix": "",
+          "clubName": "Toowoomba Grammar School",
+          "categoryName": "Open Boys"
+        },
+        "matches": {
+          "href": "Team({id:62186268})$matches"
+        },
+        "id": 62186268,
+        "timeline": {
+          "href": "Team({id:62186268})$timeline"
+        },
+        "matchesExcelUrl": {
+          "href": "Team({id:62186268})$matchesExcelUrl"
+        },
+        "registrator": {
+          "href": "Team({id:62186268})$registrator"
+        },
+        "matchesCalendarUrl": {
+          "href": "Team({id:62186268})$matchesCalendarUrl"
+        },
+        "leaderNames": {
+          "href": "Team({id:62186268})$leaderNames"
+        },
+        "statistics": {
+          "href": "Team({id:62186268})$statistics"
+        },
+        "shirt": {
+          "href": "Team({id:62186268})$shirt"
+        },
+        "clubLogoUrl": "",
+        "awards": {
+          "href": "Team({id:62186268})$awards"
+        },
+        "extraMatches": {
+          "href": "Team({id:62186268})$extraMatches"
+        },
+        "divisions": {
+          "href": "Team({id:62186268})$divisions"
+        },
+        "club": {
+          "href": "NameClub({id:62186049})"
+        },
+        "registrationNumber": {
+          "href": "Team({id:62186268})$registrationNumber"
+        },
+        "accommodation": {
+          "href": "Team({id:62186268})$accommodation"
+        },
+        "timelineForLeader": {
+          "href": "Team({id:62186268})$timelineForLeader"
+        }
+      },
+      "auditResolveTime": 0.016074
+    },
+    "Team({id:61962651})": {
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "nameClub",
+            "registrationClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Team",
+        "category": {
+          "href": "Category({categoryId:54663957,tournamentId:54663955})"
+        },
+        "description": {
+          "href": "Team({id:61962651})$description"
+        },
+        "name": {
+          "__typename": "Team$TeamName",
+          "fullName": "Brisbane Grammar School Open Boys",
+          "suffix": "",
+          "clubName": "Brisbane Grammar School",
+          "categoryName": "Open Boys"
+        },
+        "matches": {
+          "href": "Team({id:61962651})$matches"
+        },
+        "id": 61962651,
+        "timeline": {
+          "href": "Team({id:61962651})$timeline"
+        },
+        "matchesExcelUrl": {
+          "href": "Team({id:61962651})$matchesExcelUrl"
+        },
+        "registrator": {
+          "href": "Team({id:61962651})$registrator"
+        },
+        "matchesCalendarUrl": {
+          "href": "Team({id:61962651})$matchesCalendarUrl"
+        },
+        "leaderNames": {
+          "href": "Team({id:61962651})$leaderNames"
+        },
+        "statistics": {
+          "href": "Team({id:61962651})$statistics"
+        },
+        "shirt": {
+          "href": "Team({id:61962651})$shirt"
+        },
+        "clubLogoUrl": "",
+        "awards": {
+          "href": "Team({id:61962651})$awards"
+        },
+        "extraMatches": {
+          "href": "Team({id:61962651})$extraMatches"
+        },
+        "divisions": {
+          "href": "Team({id:61962651})$divisions"
+        },
+        "club": {
+          "href": "NameClub({id:61958609})"
+        },
+        "registrationNumber": {
+          "href": "Team({id:61962651})$registrationNumber"
+        },
+        "accommodation": {
+          "href": "Team({id:61962651})$accommodation"
+        },
+        "timelineForLeader": {
+          "href": "Team({id:61962651})$timelineForLeader"
+        }
+      },
+      "auditResolveTime": 0.009696
+    },
+    "NameClub({id:61941918})": {
+      "cachetags": [
+        {
+          "taint": [
+            "nameClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "NameClub",
+        "description": {
+          "href": "NameClub({id:61941918})$description"
+        },
+        "name": "Ipswich Grammar School",
+        "id": 61941918,
+        "address": {
+          "href": "Address({eid:61941918})"
+        },
+        "matchesExcelUrl": {
+          "href": "NameClub({id:61941918})$matchesExcelUrl"
+        },
+        "matchesCalendarUrl": {
+          "href": "NameClub({id:61941918})$matchesCalendarUrl"
+        },
+        "registeredTeams": {
+          "href": "NameClub({id:61941918})$registeredTeams"
+        },
+        "shirt": {
+          "href": "NameClub({id:61941918})$shirt"
+        },
+        "nation": {
+          "href": "Nation({id:25})"
+        }
+      },
+      "auditResolveTime": 0.014796
+    },
+    "MatchActor({actor:\"away\",id:62397445})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_actor_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397445
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "MatchActor",
+        "name": {
+          "en": "Padua College"
+        },
+        "id": 62186289,
+        "match": {
+          "href": "Match({id:62397445})"
+        },
+        "originalName": {
+          "href": "MatchActor({actor:\"away\",id:62397445})$originalName"
+        },
+        "team": {
+          "href": "Team({id:62186289})"
+        },
+        "shortName": {
+          "href": "MatchActor({actor:\"away\",id:62397445})$shortName"
+        }
+      },
+      "auditResolveTime": 0.012034
+    },
+    "NameClub({id:62186303})": {
+      "cachetags": [
+        {
+          "taint": [
+            "nameClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "NameClub",
+        "description": {
+          "href": "NameClub({id:62186303})$description"
+        },
+        "name": "Kings CC",
+        "id": 62186303,
+        "address": {
+          "href": "Address({eid:62186303})"
+        },
+        "matchesExcelUrl": {
+          "href": "NameClub({id:62186303})$matchesExcelUrl"
+        },
+        "matchesCalendarUrl": {
+          "href": "NameClub({id:62186303})$matchesCalendarUrl"
+        },
+        "registeredTeams": {
+          "href": "NameClub({id:62186303})$registeredTeams"
+        },
+        "shirt": {
+          "href": "NameClub({id:62186303})$shirt"
+        },
+        "nation": {
+          "href": "Nation({id:25})"
+        }
+      },
+      "auditResolveTime": 0.016144
+    },
+    "Match({id:62580688})$roundName": {
+      "cachetags": [
+        {
+          "taint": [
+            "match",
+            "match_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62580688
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Match$RoundName",
+        "name": {
+          "en": "5-6"
+        }
+      },
+      "auditResolveTime": 6.170263
+    },
+    "MatchActor({actor:\"away\",id:62580706})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_actor_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62580706
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "MatchActor",
+        "name": {
+          "en": "Ipswich Grammar School 9A"
+        },
+        "id": 61942105,
+        "match": {
+          "href": "Match({id:62580706})"
+        },
+        "originalName": {
+          "href": "MatchActor({actor:\"away\",id:62580706})$originalName"
+        },
+        "team": {
+          "href": "Team({id:61942105})"
+        },
+        "shortName": {
+          "href": "MatchActor({actor:\"away\",id:62580706})$shortName"
+        }
+      },
+      "auditResolveTime": 0.011577
+    },
+    "MatchActor({actor:\"away\",id:62397403})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_actor_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397403
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "MatchActor",
+        "name": {
+          "en": "Brisbane Boys College"
+        },
+        "id": 61942087,
+        "match": {
+          "href": "Match({id:62397403})"
+        },
+        "originalName": {
+          "href": "MatchActor({actor:\"away\",id:62397403})$originalName"
+        },
+        "team": {
+          "href": "Team({id:61942087})"
+        },
+        "shortName": {
+          "href": "MatchActor({actor:\"away\",id:62397403})$shortName"
+        }
+      },
+      "auditResolveTime": 0.011374
+    },
+    "MatchActor({actor:\"home\",id:62397386})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_actor_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397386
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "MatchActor",
+        "name": {
+          "en": "Wesley College"
+        },
+        "id": 61942115,
+        "match": {
+          "href": "Match({id:62397386})"
+        },
+        "originalName": {
+          "href": "MatchActor({actor:\"home\",id:62397386})$originalName"
+        },
+        "team": {
+          "href": "Team({id:61942115})"
+        },
+        "shortName": {
+          "href": "MatchActor({actor:\"home\",id:62397386})$shortName"
+        }
+      },
+      "auditResolveTime": 0.015862
+    },
+    "Match({id:62397317})$roundName": {
+      "cachetags": [
+        {
+          "taint": [
+            "match",
+            "match_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397317
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Match$RoundName",
+        "name": {
+          "de": "Finale",
+          "en": "Final",
+          "nb": "Finale",
+          "fi": "Loppuottelu"
+        }
+      },
+      "auditResolveTime": 4.290528
+    },
+    "Team({id:61942095})": {
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "nameClub",
+            "registrationClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Team",
+        "category": {
+          "href": "Category({categoryId:54663957,tournamentId:54663955})"
+        },
+        "description": {
+          "href": "Team({id:61942095})$description"
+        },
+        "name": {
+          "__typename": "Team$TeamName",
+          "fullName": "Melbourne Grammar School Open Boys MGS 1sts Soccer Team",
+          "suffix": "MGS 1sts Soccer Team",
+          "clubName": "Melbourne Grammar School MGS 1sts Soccer Team",
+          "categoryName": "Open Boys MGS 1sts Soccer Team"
+        },
+        "matches": {
+          "href": "Team({id:61942095})$matches"
+        },
+        "id": 61942095,
+        "timeline": {
+          "href": "Team({id:61942095})$timeline"
+        },
+        "matchesExcelUrl": {
+          "href": "Team({id:61942095})$matchesExcelUrl"
+        },
+        "registrator": {
+          "href": "Team({id:61942095})$registrator"
+        },
+        "matchesCalendarUrl": {
+          "href": "Team({id:61942095})$matchesCalendarUrl"
+        },
+        "leaderNames": {
+          "href": "Team({id:61942095})$leaderNames"
+        },
+        "statistics": {
+          "href": "Team({id:61942095})$statistics"
+        },
+        "shirt": {
+          "href": "Team({id:61942095})$shirt"
+        },
+        "clubLogoUrl": "",
+        "awards": {
+          "href": "Team({id:61942095})$awards"
+        },
+        "extraMatches": {
+          "href": "Team({id:61942095})$extraMatches"
+        },
+        "divisions": {
+          "href": "Team({id:61942095})$divisions"
+        },
+        "club": {
+          "href": "NameClub({id:61942069})"
+        },
+        "registrationNumber": {
+          "href": "Team({id:61942095})$registrationNumber"
+        },
+        "accommodation": {
+          "href": "Team({id:61942095})$accommodation"
+        },
+        "timelineForLeader": {
+          "href": "Team({id:61942095})$timelineForLeader"
+        }
+      },
+      "auditResolveTime": 0.020675
+    },
+    "MatchActor({actor:\"away\",id:62397328})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_actor_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397328
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "MatchActor",
+        "name": {
+          "en": "ST Aloysius College"
+        },
+        "id": 62137848,
+        "match": {
+          "href": "Match({id:62397328})"
+        },
+        "originalName": {
+          "href": "MatchActor({actor:\"away\",id:62397328})$originalName"
+        },
+        "team": {
+          "href": "Team({id:62137848})"
+        },
+        "shortName": {
+          "href": "MatchActor({actor:\"away\",id:62397328})$shortName"
+        }
+      },
+      "auditResolveTime": 0.012295
+    },
+    "MatchActor({actor:\"away\",id:62397362})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_actor_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397362
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "MatchActor",
+        "name": {
+          "en": "Kings CC"
+        },
+        "id": 62186340,
+        "match": {
+          "href": "Match({id:62397362})"
+        },
+        "originalName": {
+          "href": "MatchActor({actor:\"away\",id:62397362})$originalName"
+        },
+        "team": {
+          "href": "Team({id:62186340})"
+        },
+        "shortName": {
+          "href": "MatchActor({actor:\"away\",id:62397362})$shortName"
+        }
+      },
+      "auditResolveTime": 0.019876
+    },
+    "Team({id:62137848})": {
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "nameClub",
+            "registrationClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Team",
+        "category": {
+          "href": "Category({categoryId:54663957,tournamentId:54663955})"
+        },
+        "description": {
+          "href": "Team({id:62137848})$description"
+        },
+        "name": {
+          "__typename": "Team$TeamName",
+          "fullName": "ST Aloysius College Open Boys",
+          "suffix": "",
+          "clubName": "ST Aloysius College",
+          "categoryName": "Open Boys"
+        },
+        "matches": {
+          "href": "Team({id:62137848})$matches"
+        },
+        "id": 62137848,
+        "timeline": {
+          "href": "Team({id:62137848})$timeline"
+        },
+        "matchesExcelUrl": {
+          "href": "Team({id:62137848})$matchesExcelUrl"
+        },
+        "registrator": {
+          "href": "Team({id:62137848})$registrator"
+        },
+        "matchesCalendarUrl": {
+          "href": "Team({id:62137848})$matchesCalendarUrl"
+        },
+        "leaderNames": {
+          "href": "Team({id:62137848})$leaderNames"
+        },
+        "statistics": {
+          "href": "Team({id:62137848})$statistics"
+        },
+        "shirt": {
+          "href": "Team({id:62137848})$shirt"
+        },
+        "clubLogoUrl": "",
+        "awards": {
+          "href": "Team({id:62137848})$awards"
+        },
+        "extraMatches": {
+          "href": "Team({id:62137848})$extraMatches"
+        },
+        "divisions": {
+          "href": "Team({id:62137848})$divisions"
+        },
+        "club": {
+          "href": "NameClub({id:62137709})"
+        },
+        "registrationNumber": {
+          "href": "Team({id:62137848})$registrationNumber"
+        },
+        "accommodation": {
+          "href": "Team({id:62137848})$accommodation"
+        },
+        "timelineForLeader": {
+          "href": "Team({id:62137848})$timelineForLeader"
+        }
+      },
+      "auditResolveTime": 0.019124
+    },
+    "Match({id:62397430})$roundName": {
+      "cachetags": [
+        {
+          "taint": [
+            "match",
+            "match_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397430
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Match$RoundName",
+        "name": {
+          "en": "11-12"
+        }
+      },
+      "auditResolveTime": 8.638286
+    },
+    "Tournament({id:54663955})$lotCategories": {
+      "etag": "1749247590",
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": [
+        {
+          "href": "Category({categoryId:54663957,tournamentId:54663955})"
+        },
+        {
+          "href": "Category({categoryId:54663962,tournamentId:54663955})"
+        }
+      ],
+      "auditResolveTime": 0.062596
+    },
+    "Team({id:61942091})": {
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "nameClub",
+            "registrationClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Team",
+        "category": {
+          "href": "Category({categoryId:54663962,tournamentId:54663955})"
+        },
+        "description": {
+          "href": "Team({id:61942091})$description"
+        },
+        "name": {
+          "__typename": "Team$TeamName",
+          "fullName": "Launceston Church Grammar School U15",
+          "suffix": "",
+          "clubName": "Launceston Church Grammar School",
+          "categoryName": "U15"
+        },
+        "matches": {
+          "href": "Team({id:61942091})$matches"
+        },
+        "id": 61942091,
+        "timeline": {
+          "href": "Team({id:61942091})$timeline"
+        },
+        "matchesExcelUrl": {
+          "href": "Team({id:61942091})$matchesExcelUrl"
+        },
+        "registrator": {
+          "href": "Team({id:61942091})$registrator"
+        },
+        "matchesCalendarUrl": {
+          "href": "Team({id:61942091})$matchesCalendarUrl"
+        },
+        "leaderNames": {
+          "href": "Team({id:61942091})$leaderNames"
+        },
+        "statistics": {
+          "href": "Team({id:61942091})$statistics"
+        },
+        "shirt": {
+          "href": "Team({id:61942091})$shirt"
+        },
+        "clubLogoUrl": "",
+        "awards": {
+          "href": "Team({id:61942091})$awards"
+        },
+        "extraMatches": {
+          "href": "Team({id:61942091})$extraMatches"
+        },
+        "divisions": {
+          "href": "Team({id:61942091})$divisions"
+        },
+        "club": {
+          "href": "NameClub({id:61942036})"
+        },
+        "registrationNumber": {
+          "href": "Team({id:61942091})$registrationNumber"
+        },
+        "accommodation": {
+          "href": "Team({id:61942091})$accommodation"
+        },
+        "timelineForLeader": {
+          "href": "Team({id:61942091})$timelineForLeader"
+        }
+      },
+      "auditResolveTime": 0.020015
+    },
+    "Match({id:62397463})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397463
+          ],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "match",
+            "match_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397463
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Match",
+        "home": {
+          "href": "MatchActor({actor:\"home\",id:62397463})"
+        },
+        "duration": 3000000,
+        "day": {
+          "href": "EditionDay({id:58690445})"
+        },
+        "finished": false,
+        "result": {
+          "href": "MatchResult({id:62397463})"
+        },
+        "end": 1744861800000,
+        "id": 62397463,
+        "start": 1744858800000,
+        "round": {
+          "href": "Round({id:62397462})"
+        },
+        "liveStart": {
+          "href": "Match({id:62397463})$liveStart"
+        },
+        "nextMatchWinner": {
+          "href": "Match({id:62397463})$nextMatchWinner"
+        },
+        "loser": {
+          "href": "Match({id:62397463})$loser"
+        },
+        "nextMatchLoser": {
+          "href": "Match({id:62397463})$nextMatchLoser"
+        },
+        "protests": {
+          "href": "Match({id:62397463})$protests"
+        },
+        "matchNr": "17040404",
+        "roundName": {
+          "href": "Match({id:62397463})$roundName"
+        },
+        "roundRank": {
+          "href": "Match({id:62397463})$roundRank"
+        },
+        "winner": {
+          "href": "Match({id:62397463})$winner"
+        },
+        "referees": {
+          "href": "Match({id:62397463})$referees"
+        },
+        "division": {
+          "href": "Division({id:62397461})"
+        },
+        "live": false,
+        "arena": {
+          "href": "Arena({id:51182648,tid:54663955})"
+        },
+        "stage": {
+          "href": "Stage({categoryId:54663957,stageId:54663954,tournamentId:54663955})"
+        },
+        "extraMatches": {
+          "href": "Match({id:62397463})$extraMatches"
+        },
+        "away": {
+          "href": "MatchActor({actor:\"away\",id:62397463})"
+        },
+        "feed": {
+          "href": "MatchFeed({id:62397463})"
+        },
+        "isScheduled": true
+      },
+      "auditResolveTime": 0.011524
+    },
+    "MatchActor({actor:\"away\",id:62397430})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_actor_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397430
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "MatchActor",
+        "name": {
+          "en": "Chanel Catholic College"
+        },
+        "id": 61529466,
+        "match": {
+          "href": "Match({id:62397430})"
+        },
+        "originalName": {
+          "href": "MatchActor({actor:\"away\",id:62397430})$originalName"
+        },
+        "team": {
+          "href": "Team({id:61529466})"
+        },
+        "shortName": {
+          "href": "MatchActor({actor:\"away\",id:62397430})$shortName"
+        }
+      },
+      "auditResolveTime": 0.014153
+    },
+    "MatchActor({actor:\"away\",id:62580688})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_actor_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62580688
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "MatchActor",
+        "name": {
+          "en": "The Southport School 1"
+        },
+        "id": 62186333,
+        "match": {
+          "href": "Match({id:62580688})"
+        },
+        "originalName": {
+          "href": "MatchActor({actor:\"away\",id:62580688})$originalName"
+        },
+        "team": {
+          "href": "Team({id:62186333})"
+        },
+        "shortName": {
+          "href": "MatchActor({actor:\"away\",id:62580688})$shortName"
+        }
+      },
+      "auditResolveTime": 0.013598
+    },
+    "Stage({categoryId:54663962,stageId:54663954,tournamentId:54663955})": {
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Stage",
+        "category": {
+          "href": "Category({categoryId:54663962,tournamentId:54663955})"
+        },
+        "name": "Playoff B",
+        "type": "playoff",
+        "matches": {
+          "href": "Stage({categoryId:54663962,stageId:54663954,tournamentId:54663955})$matches"
+        },
+        "id": 54663954,
+        "previousStages": {
+          "href": "Stage({categoryId:54663962,stageId:54663954,tournamentId:54663955})$previousStages"
+        },
+        "nextStages": {
+          "href": "Stage({categoryId:54663962,stageId:54663954,tournamentId:54663955})$nextStages"
+        },
+        "realTeams": {
+          "href": "Stage({categoryId:54663962,stageId:54663954,tournamentId:54663955})$realTeams"
+        },
+        "stageTeamConferences": {
+          "href": "Stage({categoryId:54663962,stageId:54663954,tournamentId:54663955})$stageTeamConferences"
+        },
+        "isSingleConference": true,
+        "periodLengths": [
+          20,
+          20
+        ],
+        "schedulePublished": true,
+        "statistics": {
+          "href": "Stage({categoryId:54663962,stageId:54663954,tournamentId:54663955})$statistics"
+        },
+        "lotPublished": true,
+        "teams": {
+          "href": "Stage({categoryId:54663962,stageId:54663954,tournamentId:54663955})$teams"
+        },
+        "rankings": {
+          "href": "Stage({categoryId:54663962,stageId:54663954,tournamentId:54663955})$rankings"
+        },
+        "categoryId": 54663962,
+        "pseudoStageTeams": {
+          "href": "Stage({categoryId:54663962,stageId:54663954,tournamentId:54663955})$pseudoStageTeams"
+        },
+        "divisions": {
+          "href": "Stage({categoryId:54663962,stageId:54663954,tournamentId:54663955})$divisions"
+        },
+        "rank": 3
+      },
+      "auditResolveTime": 0.054429
+    },
+    "MatchActor({actor:\"home\",id:62580677})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_actor_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62580677
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "MatchActor",
+        "name": {
+          "en": "Ipswich Grammar School 10A"
+        },
+        "id": 61942104,
+        "match": {
+          "href": "Match({id:62580677})"
+        },
+        "originalName": {
+          "href": "MatchActor({actor:\"home\",id:62580677})$originalName"
+        },
+        "team": {
+          "href": "Team({id:61942104})"
+        },
+        "shortName": {
+          "href": "MatchActor({actor:\"home\",id:62580677})$shortName"
+        }
+      },
+      "auditResolveTime": 0.01159
+    },
+    "Stage({categoryId:54663962,stageId:54663954,tournamentId:54663955})$rankings": {
+      "cachetags": [],
+      "entity": [],
+      "auditResolveTime": 0.00115
+    },
+    "Match({id:62397463})$roundName": {
+      "cachetags": [
+        {
+          "taint": [
+            "match",
+            "match_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397463
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Match$RoundName",
+        "name": {
+          "en": "15-16"
+        }
+      },
+      "auditResolveTime": 4.817749
+    },
+    "NameClub({id:61958609})": {
+      "cachetags": [
+        {
+          "taint": [
+            "nameClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "NameClub",
+        "description": {
+          "href": "NameClub({id:61958609})$description"
+        },
+        "name": "Brisbane Grammar School",
+        "id": 61958609,
+        "address": {
+          "href": "Address({eid:61958609})"
+        },
+        "matchesExcelUrl": {
+          "href": "NameClub({id:61958609})$matchesExcelUrl"
+        },
+        "matchesCalendarUrl": {
+          "href": "NameClub({id:61958609})$matchesCalendarUrl"
+        },
+        "registeredTeams": {
+          "href": "NameClub({id:61958609})$registeredTeams"
+        },
+        "shirt": {
+          "href": "NameClub({id:61958609})$shirt"
+        },
+        "nation": {
+          "href": "Nation({id:25})"
+        }
+      },
+      "auditResolveTime": 0.010628
+    },
+    "Team({id:62186328})": {
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "nameClub",
+            "registrationClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Team",
+        "category": {
+          "href": "Category({categoryId:54663957,tournamentId:54663955})"
+        },
+        "description": {
+          "href": "Team({id:62186328})$description"
+        },
+        "name": {
+          "__typename": "Team$TeamName",
+          "fullName": "The Southport School Open Boys",
+          "suffix": "",
+          "clubName": "The Southport School",
+          "categoryName": "Open Boys"
+        },
+        "matches": {
+          "href": "Team({id:62186328})$matches"
+        },
+        "id": 62186328,
+        "timeline": {
+          "href": "Team({id:62186328})$timeline"
+        },
+        "matchesExcelUrl": {
+          "href": "Team({id:62186328})$matchesExcelUrl"
+        },
+        "registrator": {
+          "href": "Team({id:62186328})$registrator"
+        },
+        "matchesCalendarUrl": {
+          "href": "Team({id:62186328})$matchesCalendarUrl"
+        },
+        "leaderNames": {
+          "href": "Team({id:62186328})$leaderNames"
+        },
+        "statistics": {
+          "href": "Team({id:62186328})$statistics"
+        },
+        "shirt": {
+          "href": "Team({id:62186328})$shirt"
+        },
+        "clubLogoUrl": "",
+        "awards": {
+          "href": "Team({id:62186328})$awards"
+        },
+        "extraMatches": {
+          "href": "Team({id:62186328})$extraMatches"
+        },
+        "divisions": {
+          "href": "Team({id:62186328})$divisions"
+        },
+        "club": {
+          "href": "NameClub({id:62186313})"
+        },
+        "registrationNumber": {
+          "href": "Team({id:62186328})$registrationNumber"
+        },
+        "accommodation": {
+          "href": "Team({id:62186328})$accommodation"
+        },
+        "timelineForLeader": {
+          "href": "Team({id:62186328})$timelineForLeader"
+        }
+      },
+      "auditResolveTime": 0.024354
+    },
+    "Stage({categoryId:54663962,stageId:54663952,tournamentId:54663955})$rankings": {
+      "cachetags": [],
+      "entity": [],
+      "auditResolveTime": 0.001775
+    },
+    "Match({id:62580677})$roundName": {
+      "cachetags": [
+        {
+          "taint": [
+            "match",
+            "match_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62580677
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Match$RoundName",
+        "name": {
+          "en": "3-4"
+        }
+      },
+      "auditResolveTime": 6.010752
+    },
+    "Team({id:62137435})": {
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "nameClub",
+            "registrationClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Team",
+        "category": {
+          "href": "Category({categoryId:54663957,tournamentId:54663955})"
+        },
+        "description": {
+          "href": "Team({id:62137435})$description"
+        },
+        "name": {
+          "__typename": "Team$TeamName",
+          "fullName": "Iona College Open Boys",
+          "suffix": "",
+          "clubName": "Iona College",
+          "categoryName": "Open Boys"
+        },
+        "matches": {
+          "href": "Team({id:62137435})$matches"
+        },
+        "id": 62137435,
+        "timeline": {
+          "href": "Team({id:62137435})$timeline"
+        },
+        "matchesExcelUrl": {
+          "href": "Team({id:62137435})$matchesExcelUrl"
+        },
+        "registrator": {
+          "href": "Team({id:62137435})$registrator"
+        },
+        "matchesCalendarUrl": {
+          "href": "Team({id:62137435})$matchesCalendarUrl"
+        },
+        "leaderNames": {
+          "href": "Team({id:62137435})$leaderNames"
+        },
+        "statistics": {
+          "href": "Team({id:62137435})$statistics"
+        },
+        "shirt": {
+          "href": "Team({id:62137435})$shirt"
+        },
+        "clubLogoUrl": "",
+        "awards": {
+          "href": "Team({id:62137435})$awards"
+        },
+        "extraMatches": {
+          "href": "Team({id:62137435})$extraMatches"
+        },
+        "divisions": {
+          "href": "Team({id:62137435})$divisions"
+        },
+        "club": {
+          "href": "NameClub({id:62137385})"
+        },
+        "registrationNumber": {
+          "href": "Team({id:62137435})$registrationNumber"
+        },
+        "accommodation": {
+          "href": "Team({id:62137435})$accommodation"
+        },
+        "timelineForLeader": {
+          "href": "Team({id:62137435})$timelineForLeader"
+        }
+      },
+      "auditResolveTime": 0.016144
+    },
+    "Match({id:62397328})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397328
+          ],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "match",
+            "match_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397328
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Match",
+        "home": {
+          "href": "MatchActor({actor:\"home\",id:62397328})"
+        },
+        "duration": 3000000,
+        "day": {
+          "href": "EditionDay({id:58690445})"
+        },
+        "finished": false,
+        "result": {
+          "href": "MatchResult({id:62397328})"
+        },
+        "end": 1744861800000,
+        "id": 62397328,
+        "start": 1744858800000,
+        "round": {
+          "href": "Round({id:62397325})"
+        },
+        "liveStart": {
+          "href": "Match({id:62397328})$liveStart"
+        },
+        "nextMatchWinner": {
+          "href": "Match({id:62397328})$nextMatchWinner"
+        },
+        "loser": {
+          "href": "Match({id:62397328})$loser"
+        },
+        "nextMatchLoser": {
+          "href": "Match({id:62397328})$nextMatchLoser"
+        },
+        "protests": {
+          "href": "Match({id:62397328})$protests"
+        },
+        "matchNr": "17040104",
+        "roundName": {
+          "href": "Match({id:62397328})$roundName"
+        },
+        "roundRank": {
+          "href": "Match({id:62397328})$roundRank"
+        },
+        "winner": {
+          "href": "Match({id:62397328})$winner"
+        },
+        "referees": {
+          "href": "Match({id:62397328})$referees"
+        },
+        "division": {
+          "href": "Division({id:62397324})"
+        },
+        "live": false,
+        "arena": {
+          "href": "Arena({id:51182644,tid:54663955})"
+        },
+        "stage": {
+          "href": "Stage({categoryId:54663957,stageId:54663954,tournamentId:54663955})"
+        },
+        "extraMatches": {
+          "href": "Match({id:62397328})$extraMatches"
+        },
+        "away": {
+          "href": "MatchActor({actor:\"away\",id:62397328})"
+        },
+        "feed": {
+          "href": "MatchFeed({id:62397328})"
+        },
+        "isScheduled": true
+      },
+      "auditResolveTime": 0.013031
+    },
+    "NameClub({id:62186049})": {
+      "cachetags": [
+        {
+          "taint": [
+            "nameClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "NameClub",
+        "description": {
+          "href": "NameClub({id:62186049})$description"
+        },
+        "name": "Toowoomba Grammar School",
+        "id": 62186049,
+        "address": {
+          "href": "Address({eid:62186049})"
+        },
+        "matchesExcelUrl": {
+          "href": "NameClub({id:62186049})$matchesExcelUrl"
+        },
+        "matchesCalendarUrl": {
+          "href": "NameClub({id:62186049})$matchesCalendarUrl"
+        },
+        "registeredTeams": {
+          "href": "NameClub({id:62186049})$registeredTeams"
+        },
+        "shirt": {
+          "href": "NameClub({id:62186049})$shirt"
+        },
+        "nation": {
+          "href": "Nation({id:25})"
+        }
+      },
+      "auditResolveTime": 0.015247
+    },
+    "Match({id:62397403})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397403
+          ],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "match",
+            "match_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397403
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Match",
+        "home": {
+          "href": "MatchActor({actor:\"home\",id:62397403})"
+        },
+        "duration": 3000000,
+        "day": {
+          "href": "EditionDay({id:58690445})"
+        },
+        "finished": true,
+        "result": {
+          "href": "MatchResult({id:62397403})"
+        },
+        "end": 1744865400000,
+        "id": 62397403,
+        "start": 1744862400000,
+        "round": {
+          "href": "Round({id:62397402})"
+        },
+        "liveStart": {
+          "href": "Match({id:62397403})$liveStart"
+        },
+        "nextMatchWinner": {
+          "href": "Match({id:62397403})$nextMatchWinner"
+        },
+        "loser": {
+          "href": "Match({id:62397403})$loser"
+        },
+        "nextMatchLoser": {
+          "href": "Match({id:62397403})$nextMatchLoser"
+        },
+        "protests": {
+          "href": "Match({id:62397403})$protests"
+        },
+        "matchNr": "17040405",
+        "roundName": {
+          "href": "Match({id:62397403})$roundName"
+        },
+        "roundRank": {
+          "href": "Match({id:62397403})$roundRank"
+        },
+        "winner": {
+          "href": "Match({id:62397403})$winner"
+        },
+        "referees": {
+          "href": "Match({id:62397403})$referees"
+        },
+        "division": {
+          "href": "Division({id:62397397})"
+        },
+        "live": false,
+        "arena": {
+          "href": "Arena({id:51182648,tid:54663955})"
+        },
+        "stage": {
+          "href": "Stage({categoryId:54663957,stageId:54663953,tournamentId:54663955})"
+        },
+        "extraMatches": {
+          "href": "Match({id:62397403})$extraMatches"
+        },
+        "away": {
+          "href": "MatchActor({actor:\"away\",id:62397403})"
+        },
+        "feed": {
+          "href": "MatchFeed({id:62397403})"
+        },
+        "isScheduled": true
+      },
+      "auditResolveTime": 0.014807
+    },
+    "Match({id:62397445})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397445
+          ],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "match",
+            "match_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397445
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Match",
+        "home": {
+          "href": "MatchActor({actor:\"home\",id:62397445})"
+        },
+        "duration": 3000000,
+        "day": {
+          "href": "EditionDay({id:58690445})"
+        },
+        "finished": false,
+        "result": {
+          "href": "MatchResult({id:62397445})"
+        },
+        "end": 1744861800000,
+        "id": 62397445,
+        "start": 1744858800000,
+        "round": {
+          "href": "Round({id:62397441})"
+        },
+        "liveStart": {
+          "href": "Match({id:62397445})$liveStart"
+        },
+        "nextMatchWinner": {
+          "href": "Match({id:62397445})$nextMatchWinner"
+        },
+        "loser": {
+          "href": "Match({id:62397445})$loser"
+        },
+        "nextMatchLoser": {
+          "href": "Match({id:62397445})$nextMatchLoser"
+        },
+        "protests": {
+          "href": "Match({id:62397445})$protests"
+        },
+        "matchNr": "17040304",
+        "roundName": {
+          "href": "Match({id:62397445})$roundName"
+        },
+        "roundRank": {
+          "href": "Match({id:62397445})$roundRank"
+        },
+        "winner": {
+          "href": "Match({id:62397445})$winner"
+        },
+        "referees": {
+          "href": "Match({id:62397445})$referees"
+        },
+        "division": {
+          "href": "Division({id:62397437})"
+        },
+        "live": false,
+        "arena": {
+          "href": "Arena({id:51182647,tid:54663955})"
+        },
+        "stage": {
+          "href": "Stage({categoryId:54663957,stageId:54663954,tournamentId:54663955})"
+        },
+        "extraMatches": {
+          "href": "Match({id:62397445})$extraMatches"
+        },
+        "away": {
+          "href": "MatchActor({actor:\"away\",id:62397445})"
+        },
+        "feed": {
+          "href": "MatchFeed({id:62397445})"
+        },
+        "isScheduled": true
+      },
+      "auditResolveTime": 0.018561
+    },
+    "NameClub({id:62186256})": {
+      "cachetags": [
+        {
+          "taint": [
+            "nameClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "NameClub",
+        "description": {
+          "href": "NameClub({id:62186256})$description"
+        },
+        "name": "Padua College",
+        "id": 62186256,
+        "address": {
+          "href": "Address({eid:62186256})"
+        },
+        "matchesExcelUrl": {
+          "href": "NameClub({id:62186256})$matchesExcelUrl"
+        },
+        "matchesCalendarUrl": {
+          "href": "NameClub({id:62186256})$matchesCalendarUrl"
+        },
+        "registeredTeams": {
+          "href": "NameClub({id:62186256})$registeredTeams"
+        },
+        "shirt": {
+          "href": "NameClub({id:62186256})$shirt"
+        },
+        "nation": {
+          "href": "Nation({id:25})"
+        }
+      },
+      "auditResolveTime": 0.017829
+    },
+    "MatchActor({actor:\"home\",id:62397317})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_actor_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397317
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "MatchActor",
+        "name": {
+          "en": "Brisbane Grammar School"
+        },
+        "id": 61962651,
+        "match": {
+          "href": "Match({id:62397317})"
+        },
+        "originalName": {
+          "href": "MatchActor({actor:\"home\",id:62397317})$originalName"
+        },
+        "team": {
+          "href": "Team({id:61962651})"
+        },
+        "shortName": {
+          "href": "MatchActor({actor:\"home\",id:62397317})$shortName"
+        }
+      },
+      "auditResolveTime": 0.011407
+    },
+    "NameClub({id:62399252})": {
+      "cachetags": [
+        {
+          "taint": [
+            "nameClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "NameClub",
+        "description": {
+          "href": "NameClub({id:62399252})$description"
+        },
+        "name": "Marist College Ashgrove",
+        "id": 62399252,
+        "address": {
+          "href": "Address({eid:62399252})"
+        },
+        "matchesExcelUrl": {
+          "href": "NameClub({id:62399252})$matchesExcelUrl"
+        },
+        "matchesCalendarUrl": {
+          "href": "NameClub({id:62399252})$matchesCalendarUrl"
+        },
+        "registeredTeams": {
+          "href": "NameClub({id:62399252})$registeredTeams"
+        },
+        "shirt": {
+          "href": "NameClub({id:62399252})$shirt"
+        },
+        "nation": {
+          "href": "Nation({id:25})"
+        }
+      },
+      "auditResolveTime": 0.012638
+    },
+    "Team({id:61529466})": {
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "nameClub",
+            "registrationClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Team",
+        "category": {
+          "href": "Category({categoryId:54663957,tournamentId:54663955})"
+        },
+        "description": {
+          "href": "Team({id:61529466})$description"
+        },
+        "name": {
+          "__typename": "Team$TeamName",
+          "fullName": "Chanel Catholic College Open Boys",
+          "suffix": "",
+          "clubName": "Chanel Catholic College",
+          "categoryName": "Open Boys"
+        },
+        "matches": {
+          "href": "Team({id:61529466})$matches"
+        },
+        "id": 61529466,
+        "timeline": {
+          "href": "Team({id:61529466})$timeline"
+        },
+        "matchesExcelUrl": {
+          "href": "Team({id:61529466})$matchesExcelUrl"
+        },
+        "registrator": {
+          "href": "Team({id:61529466})$registrator"
+        },
+        "matchesCalendarUrl": {
+          "href": "Team({id:61529466})$matchesCalendarUrl"
+        },
+        "leaderNames": {
+          "href": "Team({id:61529466})$leaderNames"
+        },
+        "statistics": {
+          "href": "Team({id:61529466})$statistics"
+        },
+        "shirt": {
+          "href": "Team({id:61529466})$shirt"
+        },
+        "clubLogoUrl": "",
+        "awards": {
+          "href": "Team({id:61529466})$awards"
+        },
+        "extraMatches": {
+          "href": "Team({id:61529466})$extraMatches"
+        },
+        "divisions": {
+          "href": "Team({id:61529466})$divisions"
+        },
+        "club": {
+          "href": "NameClub({id:58966290})"
+        },
+        "registrationNumber": {
+          "href": "Team({id:61529466})$registrationNumber"
+        },
+        "accommodation": {
+          "href": "Team({id:61529466})$accommodation"
+        },
+        "timelineForLeader": {
+          "href": "Team({id:61529466})$timelineForLeader"
+        }
+      },
+      "auditResolveTime": 0.014185
+    },
+    "Stage({categoryId:54663962,stageId:54663952,tournamentId:54663955})": {
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Stage",
+        "category": {
+          "href": "Category({categoryId:54663962,tournamentId:54663955})"
+        },
+        "name": "Group play",
+        "type": "conference",
+        "matches": {
+          "href": "Stage({categoryId:54663962,stageId:54663952,tournamentId:54663955})$matches"
+        },
+        "id": 54663952,
+        "previousStages": {
+          "href": "Stage({categoryId:54663962,stageId:54663952,tournamentId:54663955})$previousStages"
+        },
+        "nextStages": {
+          "href": "Stage({categoryId:54663962,stageId:54663952,tournamentId:54663955})$nextStages"
+        },
+        "realTeams": {
+          "href": "Stage({categoryId:54663962,stageId:54663952,tournamentId:54663955})$realTeams"
+        },
+        "stageTeamConferences": {
+          "href": "Stage({categoryId:54663962,stageId:54663952,tournamentId:54663955})$stageTeamConferences"
+        },
+        "isSingleConference": false,
+        "periodLengths": [
+          20,
+          20
+        ],
+        "schedulePublished": true,
+        "statistics": {
+          "href": "Stage({categoryId:54663962,stageId:54663952,tournamentId:54663955})$statistics"
+        },
+        "lotPublished": true,
+        "teams": {
+          "href": "Stage({categoryId:54663962,stageId:54663952,tournamentId:54663955})$teams"
+        },
+        "rankings": {
+          "href": "Stage({categoryId:54663962,stageId:54663952,tournamentId:54663955})$rankings"
+        },
+        "categoryId": 54663962,
+        "pseudoStageTeams": {
+          "href": "Stage({categoryId:54663962,stageId:54663952,tournamentId:54663955})$pseudoStageTeams"
+        },
+        "divisions": {
+          "href": "Stage({categoryId:54663962,stageId:54663952,tournamentId:54663955})$divisions"
+        },
+        "rank": 1
+      },
+      "auditResolveTime": 0.115901
+    },
+    "MatchActor({actor:\"away\",id:62580677})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_actor_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62580677
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "MatchActor",
+        "name": {
+          "en": "Takapuna Grammar School TGS Boys Development"
+        },
+        "id": 61962642,
+        "match": {
+          "href": "Match({id:62580677})"
+        },
+        "originalName": {
+          "href": "MatchActor({actor:\"away\",id:62580677})$originalName"
+        },
+        "team": {
+          "href": "Team({id:61962642})"
+        },
+        "shortName": {
+          "href": "MatchActor({actor:\"away\",id:62580677})$shortName"
+        }
+      },
+      "auditResolveTime": 0.01311
+    },
+    "MatchActor({actor:\"home\",id:62397430})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_actor_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397430
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "MatchActor",
+        "name": {
+          "en": "Toowoomba Grammar School"
+        },
+        "id": 62186268,
+        "match": {
+          "href": "Match({id:62397430})"
+        },
+        "originalName": {
+          "href": "MatchActor({actor:\"home\",id:62397430})$originalName"
+        },
+        "team": {
+          "href": "Team({id:62186268})"
+        },
+        "shortName": {
+          "href": "MatchActor({actor:\"home\",id:62397430})$shortName"
+        }
+      },
+      "auditResolveTime": 0.021362
+    },
+    "MatchActor({actor:\"home\",id:62580688})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_actor_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62580688
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "MatchActor",
+        "name": {
+          "en": "Toowoomba Grammar School"
+        },
+        "id": 62186272,
+        "match": {
+          "href": "Match({id:62580688})"
+        },
+        "originalName": {
+          "href": "MatchActor({actor:\"home\",id:62580688})$originalName"
+        },
+        "team": {
+          "href": "Team({id:62186272})"
+        },
+        "shortName": {
+          "href": "MatchActor({actor:\"home\",id:62580688})$shortName"
+        }
+      },
+      "auditResolveTime": 0.011691
+    },
+    "NameClub({id:61942036})": {
+      "cachetags": [
+        {
+          "taint": [
+            "nameClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "NameClub",
+        "description": {
+          "href": "NameClub({id:61942036})$description"
+        },
+        "name": "Launceston Church Grammar School",
+        "id": 61942036,
+        "address": {
+          "href": "Address({eid:61942036})"
+        },
+        "matchesExcelUrl": {
+          "href": "NameClub({id:61942036})$matchesExcelUrl"
+        },
+        "matchesCalendarUrl": {
+          "href": "NameClub({id:61942036})$matchesCalendarUrl"
+        },
+        "registeredTeams": {
+          "href": "NameClub({id:61942036})$registeredTeams"
+        },
+        "shirt": {
+          "href": "NameClub({id:61942036})$shirt"
+        },
+        "nation": {
+          "href": "Nation({id:127})"
+        }
+      },
+      "auditResolveTime": 0.021025
+    },
+    "Nation({id:127})": {
+      "cachetags": [
+        {
+          "taint": [
+            "constant"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Nation",
+        "name": {
+          "en": "Common.Nation.LA"
+        },
+        "code": "LA",
+        "id": 127
+      },
+      "auditResolveTime": 0.015596
+    },
+    "Team({id:61962652})": {
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "nameClub",
+            "registrationClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Team",
+        "category": {
+          "href": "Category({categoryId:54663962,tournamentId:54663955})"
+        },
+        "description": {
+          "href": "Team({id:61962652})$description"
+        },
+        "name": {
+          "__typename": "Team$TeamName",
+          "fullName": "Brisbane Grammar School U15",
+          "suffix": "",
+          "clubName": "Brisbane Grammar School",
+          "categoryName": "U15"
+        },
+        "matches": {
+          "href": "Team({id:61962652})$matches"
+        },
+        "id": 61962652,
+        "timeline": {
+          "href": "Team({id:61962652})$timeline"
+        },
+        "matchesExcelUrl": {
+          "href": "Team({id:61962652})$matchesExcelUrl"
+        },
+        "registrator": {
+          "href": "Team({id:61962652})$registrator"
+        },
+        "matchesCalendarUrl": {
+          "href": "Team({id:61962652})$matchesCalendarUrl"
+        },
+        "leaderNames": {
+          "href": "Team({id:61962652})$leaderNames"
+        },
+        "statistics": {
+          "href": "Team({id:61962652})$statistics"
+        },
+        "shirt": {
+          "href": "Team({id:61962652})$shirt"
+        },
+        "clubLogoUrl": "",
+        "awards": {
+          "href": "Team({id:61962652})$awards"
+        },
+        "extraMatches": {
+          "href": "Team({id:61962652})$extraMatches"
+        },
+        "divisions": {
+          "href": "Team({id:61962652})$divisions"
+        },
+        "club": {
+          "href": "NameClub({id:61958609})"
+        },
+        "registrationNumber": {
+          "href": "Team({id:61962652})$registrationNumber"
+        },
+        "accommodation": {
+          "href": "Team({id:61962652})$accommodation"
+        },
+        "timelineForLeader": {
+          "href": "Team({id:61962652})$timelineForLeader"
+        }
+      },
+      "auditResolveTime": 0.016535
+    },
+    "Match({id:62397362})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397362
+          ],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "match",
+            "match_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397362
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Match",
+        "home": {
+          "href": "MatchActor({actor:\"home\",id:62397362})"
+        },
+        "duration": 3000000,
+        "day": {
+          "href": "EditionDay({id:58690445})"
+        },
+        "finished": true,
+        "result": {
+          "href": "MatchResult({id:62397362})"
+        },
+        "end": 1744865400000,
+        "id": 62397362,
+        "start": 1744862400000,
+        "round": {
+          "href": "Round({id:62397361})"
+        },
+        "liveStart": {
+          "href": "Match({id:62397362})$liveStart"
+        },
+        "nextMatchWinner": {
+          "href": "Match({id:62397362})$nextMatchWinner"
+        },
+        "loser": {
+          "href": "Match({id:62397362})$loser"
+        },
+        "nextMatchLoser": {
+          "href": "Match({id:62397362})$nextMatchLoser"
+        },
+        "protests": {
+          "href": "Match({id:62397362})$protests"
+        },
+        "matchNr": "17040205",
+        "roundName": {
+          "href": "Match({id:62397362})$roundName"
+        },
+        "roundRank": {
+          "href": "Match({id:62397362})$roundRank"
+        },
+        "winner": {
+          "href": "Match({id:62397362})$winner"
+        },
+        "referees": {
+          "href": "Match({id:62397362})$referees"
+        },
+        "division": {
+          "href": "Division({id:62397360})"
+        },
+        "live": false,
+        "arena": {
+          "href": "Arena({id:51182646,tid:54663955})"
+        },
+        "stage": {
+          "href": "Stage({categoryId:54663957,stageId:54663953,tournamentId:54663955})"
+        },
+        "extraMatches": {
+          "href": "Match({id:62397362})$extraMatches"
+        },
+        "away": {
+          "href": "MatchActor({actor:\"away\",id:62397362})"
+        },
+        "feed": {
+          "href": "MatchFeed({id:62397362})"
+        },
+        "isScheduled": true
+      },
+      "auditResolveTime": 0.015995
+    },
+    "Stage({categoryId:54663962,stageId:54663953,tournamentId:54663955})": {
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Stage",
+        "category": {
+          "href": "Category({categoryId:54663962,tournamentId:54663955})"
+        },
+        "name": "Playoff A",
+        "type": "playoff",
+        "matches": {
+          "href": "Stage({categoryId:54663962,stageId:54663953,tournamentId:54663955})$matches"
+        },
+        "id": 54663953,
+        "previousStages": {
+          "href": "Stage({categoryId:54663962,stageId:54663953,tournamentId:54663955})$previousStages"
+        },
+        "nextStages": {
+          "href": "Stage({categoryId:54663962,stageId:54663953,tournamentId:54663955})$nextStages"
+        },
+        "realTeams": {
+          "href": "Stage({categoryId:54663962,stageId:54663953,tournamentId:54663955})$realTeams"
+        },
+        "stageTeamConferences": {
+          "href": "Stage({categoryId:54663962,stageId:54663953,tournamentId:54663955})$stageTeamConferences"
+        },
+        "isSingleConference": false,
+        "periodLengths": [
+          20,
+          20
+        ],
+        "schedulePublished": true,
+        "statistics": {
+          "href": "Stage({categoryId:54663962,stageId:54663953,tournamentId:54663955})$statistics"
+        },
+        "lotPublished": true,
+        "teams": {
+          "href": "Stage({categoryId:54663962,stageId:54663953,tournamentId:54663955})$teams"
+        },
+        "rankings": {
+          "href": "Stage({categoryId:54663962,stageId:54663953,tournamentId:54663955})$rankings"
+        },
+        "categoryId": 54663962,
+        "pseudoStageTeams": {
+          "href": "Stage({categoryId:54663962,stageId:54663953,tournamentId:54663955})$pseudoStageTeams"
+        },
+        "divisions": {
+          "href": "Stage({categoryId:54663962,stageId:54663953,tournamentId:54663955})$divisions"
+        },
+        "rank": 2
+      },
+      "auditResolveTime": 0.070107
+    },
+    "Match({id:62580531})$roundName": {
+      "cachetags": [
+        {
+          "taint": [
+            "match",
+            "match_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62580531
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Match$RoundName",
+        "name": {
+          "de": "Finale",
+          "en": "Final",
+          "nb": "Finale",
+          "fi": "Loppuottelu"
+        }
+      },
+      "auditResolveTime": 4.678647
+    },
+    "MatchActor({actor:\"home\",id:62397362})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_actor_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397362
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "MatchActor",
+        "name": {
+          "en": "Ipswich Grammar School First XI"
+        },
+        "id": 61942102,
+        "match": {
+          "href": "Match({id:62397362})"
+        },
+        "originalName": {
+          "href": "MatchActor({actor:\"home\",id:62397362})$originalName"
+        },
+        "team": {
+          "href": "Team({id:61942102})"
+        },
+        "shortName": {
+          "href": "MatchActor({actor:\"home\",id:62397362})$shortName"
+        }
+      },
+      "auditResolveTime": 0.034655
+    },
+    "MatchActor({actor:\"home\",id:62397403})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_actor_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397403
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "MatchActor",
+        "name": {
+          "en": "Marist College Ashgrove"
+        },
+        "id": 62404841,
+        "match": {
+          "href": "Match({id:62397403})"
+        },
+        "originalName": {
+          "href": "MatchActor({actor:\"home\",id:62397403})$originalName"
+        },
+        "team": {
+          "href": "Team({id:62404841})"
+        },
+        "shortName": {
+          "href": "MatchActor({actor:\"home\",id:62397403})$shortName"
+        }
+      },
+      "auditResolveTime": 0.015702
+    },
+    "Team({id:62186334})": {
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "nameClub",
+            "registrationClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Team",
+        "category": {
+          "href": "Category({categoryId:54663962,tournamentId:54663955})"
+        },
+        "description": {
+          "href": "Team({id:62186334})$description"
+        },
+        "name": {
+          "__typename": "Team$TeamName",
+          "fullName": "The Southport School U15 2",
+          "suffix": "",
+          "clubName": "The Southport School 2",
+          "categoryName": "U15 2"
+        },
+        "matches": {
+          "href": "Team({id:62186334})$matches"
+        },
+        "id": 62186334,
+        "timeline": {
+          "href": "Team({id:62186334})$timeline"
+        },
+        "matchesExcelUrl": {
+          "href": "Team({id:62186334})$matchesExcelUrl"
+        },
+        "registrator": {
+          "href": "Team({id:62186334})$registrator"
+        },
+        "matchesCalendarUrl": {
+          "href": "Team({id:62186334})$matchesCalendarUrl"
+        },
+        "leaderNames": {
+          "href": "Team({id:62186334})$leaderNames"
+        },
+        "statistics": {
+          "href": "Team({id:62186334})$statistics"
+        },
+        "shirt": {
+          "href": "Team({id:62186334})$shirt"
+        },
+        "clubLogoUrl": "",
+        "awards": {
+          "href": "Team({id:62186334})$awards"
+        },
+        "extraMatches": {
+          "href": "Team({id:62186334})$extraMatches"
+        },
+        "divisions": {
+          "href": "Team({id:62186334})$divisions"
+        },
+        "club": {
+          "href": "NameClub({id:62186313})"
+        },
+        "registrationNumber": {
+          "href": "Team({id:62186334})$registrationNumber"
+        },
+        "accommodation": {
+          "href": "Team({id:62186334})$accommodation"
+        },
+        "timelineForLeader": {
+          "href": "Team({id:62186334})$timelineForLeader"
+        }
+      },
+      "auditResolveTime": 0.023727
+    },
+    "MatchActor({actor:\"away\",id:62397386})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_actor_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397386
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "MatchActor",
+        "name": {
+          "en": "Melbourne Grammar School MGS 1sts Soccer Team"
+        },
+        "id": 61942095,
+        "match": {
+          "href": "Match({id:62397386})"
+        },
+        "originalName": {
+          "href": "MatchActor({actor:\"away\",id:62397386})$originalName"
+        },
+        "team": {
+          "href": "Team({id:61942095})"
+        },
+        "shortName": {
+          "href": "MatchActor({actor:\"away\",id:62397386})$shortName"
+        }
+      },
+      "auditResolveTime": 0.011812
+    },
+    "MatchActor({actor:\"home\",id:62397328})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_actor_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397328
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "MatchActor",
+        "name": {
+          "en": "St Pius X College"
+        },
+        "id": 61962646,
+        "match": {
+          "href": "Match({id:62397328})"
+        },
+        "originalName": {
+          "href": "MatchActor({actor:\"home\",id:62397328})$originalName"
+        },
+        "team": {
+          "href": "Team({id:61962646})"
+        },
+        "shortName": {
+          "href": "MatchActor({actor:\"home\",id:62397328})$shortName"
+        }
+      },
+      "auditResolveTime": 0.011139
+    },
+    "Arena({id:51182647,tid:54663955})": {
+      "cachetags": [
+        {
+          "taint": [
+            "location"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Arena",
+        "days": {
+          "href": "Arena({id:51182647,tid:54663955})$days"
+        },
+        "fieldName": "3",
+        "id": 51182647,
+        "location": {
+          "href": "Location({id:51182643,tid:54663955})"
+        },
+        "liveMatch": {
+          "href": "Arena({id:51182647,tid:54663955})$liveMatch"
+        },
+        "completeName": "The Southport School 3",
+        "liveScreenUrl": "https://tssfootballtournament.cupmanager.net/54663946,wrap=clean/result/matchWidget/51182647"
+      },
+      "auditResolveTime": 0.016958
+    },
+    "MatchActor({actor:\"home\",id:62580706})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_actor_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62580706
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "MatchActor",
+        "name": {
+          "en": "Launceston Church Grammar School"
+        },
+        "id": 61942091,
+        "match": {
+          "href": "Match({id:62580706})"
+        },
+        "originalName": {
+          "href": "MatchActor({actor:\"home\",id:62580706})$originalName"
+        },
+        "team": {
+          "href": "Team({id:61942091})"
+        },
+        "shortName": {
+          "href": "MatchActor({actor:\"home\",id:62580706})$shortName"
+        }
+      },
+      "auditResolveTime": 0.019706
+    },
+    "MatchActor({actor:\"home\",id:62397445})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_actor_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397445
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "MatchActor",
+        "name": {
+          "en": "Nazareth Catholic College"
+        },
+        "id": 61942123,
+        "match": {
+          "href": "Match({id:62397445})"
+        },
+        "originalName": {
+          "href": "MatchActor({actor:\"home\",id:62397445})$originalName"
+        },
+        "team": {
+          "href": "Team({id:61942123})"
+        },
+        "shortName": {
+          "href": "MatchActor({actor:\"home\",id:62397445})$shortName"
+        }
+      },
+      "auditResolveTime": 0.017905
+    },
+    "Category({categoryId:54663957,tournamentId:54663955})$stages": {
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": [
+        {
+          "href": "Stage({categoryId:54663957,stageId:54663952,tournamentId:54663955})"
+        },
+        {
+          "href": "Stage({categoryId:54663957,stageId:54663953,tournamentId:54663955})"
+        },
+        {
+          "href": "Stage({categoryId:54663957,stageId:54663954,tournamentId:54663955})"
+        }
+      ],
+      "auditResolveTime": 10.699639
+    },
+    "NameClub({id:62186313})": {
+      "cachetags": [
+        {
+          "taint": [
+            "nameClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "NameClub",
+        "description": {
+          "href": "NameClub({id:62186313})$description"
+        },
+        "name": "The Southport School",
+        "id": 62186313,
+        "address": {
+          "href": "Address({eid:62186313})"
+        },
+        "matchesExcelUrl": {
+          "href": "NameClub({id:62186313})$matchesExcelUrl"
+        },
+        "matchesCalendarUrl": {
+          "href": "NameClub({id:62186313})$matchesCalendarUrl"
+        },
+        "registeredTeams": {
+          "href": "NameClub({id:62186313})$registeredTeams"
+        },
+        "shirt": {
+          "href": "NameClub({id:62186313})$shirt"
+        },
+        "nation": {
+          "href": "Nation({id:25})"
+        }
+      },
+      "auditResolveTime": 0.012951
+    },
+    "Stage({categoryId:54663957,stageId:54663954,tournamentId:54663955})$rankings": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397328
+          ],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397328
+          ],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397430
+          ],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397430
+          ],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397445
+          ],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397445
+          ],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397463
+          ],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397463
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": [
+        {
+          "__typename": "Stage$StageRankingPlace_MatchStatus",
+          "rank": 9,
+          "match": {
+            "href": "Match({id:62397328})"
+          },
+          "status": "win"
+        },
+        {
+          "__typename": "Stage$StageRankingPlace_MatchStatus",
+          "rank": 10,
+          "match": {
+            "href": "Match({id:62397328})"
+          },
+          "status": "loss"
+        },
+        {
+          "__typename": "Stage$StageRankingPlace_MatchStatus",
+          "rank": 11,
+          "match": {
+            "href": "Match({id:62397430})"
+          },
+          "status": "win"
+        },
+        {
+          "__typename": "Stage$StageRankingPlace_MatchStatus",
+          "rank": 12,
+          "match": {
+            "href": "Match({id:62397430})"
+          },
+          "status": "loss"
+        },
+        {
+          "__typename": "Stage$StageRankingPlace_MatchStatus",
+          "rank": 13,
+          "match": {
+            "href": "Match({id:62397445})"
+          },
+          "status": "win"
+        },
+        {
+          "__typename": "Stage$StageRankingPlace_MatchStatus",
+          "rank": 14,
+          "match": {
+            "href": "Match({id:62397445})"
+          },
+          "status": "loss"
+        },
+        {
+          "__typename": "Stage$StageRankingPlace_MatchStatus",
+          "rank": 15,
+          "match": {
+            "href": "Match({id:62397463})"
+          },
+          "status": "win"
+        },
+        {
+          "__typename": "Stage$StageRankingPlace_MatchStatus",
+          "rank": 16,
+          "match": {
+            "href": "Match({id:62397463})"
+          },
+          "status": "loss"
+        }
+      ],
+      "auditResolveTime": 0.001722
+    },
+    "Nation({id:25})": {
+      "cachetags": [
+        {
+          "taint": [
+            "constant"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Nation",
+        "name": {
+          "da": "Australien",
+          "zh": "澳大利亚",
+          "sv": "Australien",
+          "en": "Australia",
+          "fr": "Australie"
+        },
+        "code": "AU",
+        "id": 25
+      },
+      "auditResolveTime": 0.01741
+    },
+    "NameClub({id:58966290})": {
+      "cachetags": [
+        {
+          "taint": [
+            "nameClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "NameClub",
+        "description": {
+          "href": "NameClub({id:58966290})$description"
+        },
+        "name": "Chanel Catholic College",
+        "id": 58966290,
+        "address": {
+          "href": "Address({eid:58966290})"
+        },
+        "matchesExcelUrl": {
+          "href": "NameClub({id:58966290})$matchesExcelUrl"
+        },
+        "matchesCalendarUrl": {
+          "href": "NameClub({id:58966290})$matchesCalendarUrl"
+        },
+        "registeredTeams": {
+          "href": "NameClub({id:58966290})$registeredTeams"
+        },
+        "shirt": {
+          "href": "NameClub({id:58966290})$shirt"
+        },
+        "nation": {
+          "href": "Nation({id:25})"
+        }
+      },
+      "auditResolveTime": 0.015895
+    },
+    "Team({id:61942123})": {
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "nameClub",
+            "registrationClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Team",
+        "category": {
+          "href": "Category({categoryId:54663957,tournamentId:54663955})"
+        },
+        "description": {
+          "href": "Team({id:61942123})$description"
+        },
+        "name": {
+          "__typename": "Team$TeamName",
+          "fullName": "Nazareth Catholic College Open Boys",
+          "suffix": "",
+          "clubName": "Nazareth Catholic College",
+          "categoryName": "Open Boys"
+        },
+        "matches": {
+          "href": "Team({id:61942123})$matches"
+        },
+        "id": 61942123,
+        "timeline": {
+          "href": "Team({id:61942123})$timeline"
+        },
+        "matchesExcelUrl": {
+          "href": "Team({id:61942123})$matchesExcelUrl"
+        },
+        "registrator": {
+          "href": "Team({id:61942123})$registrator"
+        },
+        "matchesCalendarUrl": {
+          "href": "Team({id:61942123})$matchesCalendarUrl"
+        },
+        "leaderNames": {
+          "href": "Team({id:61942123})$leaderNames"
+        },
+        "statistics": {
+          "href": "Team({id:61942123})$statistics"
+        },
+        "shirt": {
+          "href": "Team({id:61942123})$shirt"
+        },
+        "clubLogoUrl": "",
+        "awards": {
+          "href": "Team({id:61942123})$awards"
+        },
+        "extraMatches": {
+          "href": "Team({id:61942123})$extraMatches"
+        },
+        "divisions": {
+          "href": "Team({id:61942123})$divisions"
+        },
+        "club": {
+          "href": "NameClub({id:61941971})"
+        },
+        "registrationNumber": {
+          "href": "Team({id:61942123})$registrationNumber"
+        },
+        "accommodation": {
+          "href": "Team({id:61942123})$accommodation"
+        },
+        "timelineForLeader": {
+          "href": "Team({id:61942123})$timelineForLeader"
+        }
+      },
+      "auditResolveTime": 0.01802
+    },
+    "Arena({id:51182644,tid:54663955})": {
+      "cachetags": [
+        {
+          "taint": [
+            "location"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Arena",
+        "days": {
+          "href": "Arena({id:51182644,tid:54663955})$days"
+        },
+        "fieldName": "1",
+        "id": 51182644,
+        "location": {
+          "href": "Location({id:51182643,tid:54663955})"
+        },
+        "liveMatch": {
+          "href": "Arena({id:51182644,tid:54663955})$liveMatch"
+        },
+        "completeName": "The Southport School 1",
+        "liveScreenUrl": "https://tssfootballtournament.cupmanager.net/54663946,wrap=clean/result/matchWidget/51182644"
+      },
+      "auditResolveTime": 0.017995
+    },
+    "Team({id:61942104})": {
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "nameClub",
+            "registrationClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Team",
+        "category": {
+          "href": "Category({categoryId:54663962,tournamentId:54663955})"
+        },
+        "description": {
+          "href": "Team({id:61942104})$description"
+        },
+        "name": {
+          "__typename": "Team$TeamName",
+          "fullName": "Ipswich Grammar School U15 10A",
+          "suffix": "10A",
+          "clubName": "Ipswich Grammar School 10A",
+          "categoryName": "U15 10A"
+        },
+        "matches": {
+          "href": "Team({id:61942104})$matches"
+        },
+        "id": 61942104,
+        "timeline": {
+          "href": "Team({id:61942104})$timeline"
+        },
+        "matchesExcelUrl": {
+          "href": "Team({id:61942104})$matchesExcelUrl"
+        },
+        "registrator": {
+          "href": "Team({id:61942104})$registrator"
+        },
+        "matchesCalendarUrl": {
+          "href": "Team({id:61942104})$matchesCalendarUrl"
+        },
+        "leaderNames": {
+          "href": "Team({id:61942104})$leaderNames"
+        },
+        "statistics": {
+          "href": "Team({id:61942104})$statistics"
+        },
+        "shirt": {
+          "href": "Team({id:61942104})$shirt"
+        },
+        "clubLogoUrl": "",
+        "awards": {
+          "href": "Team({id:61942104})$awards"
+        },
+        "extraMatches": {
+          "href": "Team({id:61942104})$extraMatches"
+        },
+        "divisions": {
+          "href": "Team({id:61942104})$divisions"
+        },
+        "club": {
+          "href": "NameClub({id:61941918})"
+        },
+        "registrationNumber": {
+          "href": "Team({id:61942104})$registrationNumber"
+        },
+        "accommodation": {
+          "href": "Team({id:61942104})$accommodation"
+        },
+        "timelineForLeader": {
+          "href": "Team({id:61942104})$timelineForLeader"
+        }
+      },
+      "auditResolveTime": 0.011253
+    },
+    "NameClub({id:62137709})": {
+      "cachetags": [
+        {
+          "taint": [
+            "nameClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "NameClub",
+        "description": {
+          "href": "NameClub({id:62137709})$description"
+        },
+        "name": "ST Aloysius College",
+        "id": 62137709,
+        "address": {
+          "href": "Address({eid:62137709})"
+        },
+        "matchesExcelUrl": {
+          "href": "NameClub({id:62137709})$matchesExcelUrl"
+        },
+        "matchesCalendarUrl": {
+          "href": "NameClub({id:62137709})$matchesCalendarUrl"
+        },
+        "registeredTeams": {
+          "href": "NameClub({id:62137709})$registeredTeams"
+        },
+        "shirt": {
+          "href": "NameClub({id:62137709})$shirt"
+        },
+        "nation": {
+          "href": "Nation({id:25})"
+        }
+      },
+      "auditResolveTime": 0.014469
+    },
+    "Match({id:62580706})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62580706
+          ],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "match",
+            "match_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62580706
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Match",
+        "home": {
+          "href": "MatchActor({actor:\"home\",id:62580706})"
+        },
+        "duration": 3000000,
+        "day": {
+          "href": "EditionDay({id:58690445})"
+        },
+        "finished": false,
+        "result": {
+          "href": "MatchResult({id:62580706})"
+        },
+        "end": 1744858200000,
+        "id": 62580706,
+        "start": 1744855200000,
+        "round": {
+          "href": "Round({id:62580705})"
+        },
+        "liveStart": {
+          "href": "Match({id:62580706})$liveStart"
+        },
+        "nextMatchWinner": {
+          "href": "Match({id:62580706})$nextMatchWinner"
+        },
+        "loser": {
+          "href": "Match({id:62580706})$loser"
+        },
+        "nextMatchLoser": {
+          "href": "Match({id:62580706})$nextMatchLoser"
+        },
+        "protests": {
+          "href": "Match({id:62580706})$protests"
+        },
+        "matchNr": "17040403",
+        "roundName": {
+          "href": "Match({id:62580706})$roundName"
+        },
+        "roundRank": {
+          "href": "Match({id:62580706})$roundRank"
+        },
+        "winner": {
+          "href": "Match({id:62580706})$winner"
+        },
+        "referees": {
+          "href": "Match({id:62580706})$referees"
+        },
+        "division": {
+          "href": "Division({id:62580704})"
+        },
+        "live": false,
+        "arena": {
+          "href": "Arena({id:51182648,tid:54663955})"
+        },
+        "stage": {
+          "href": "Stage({categoryId:54663962,stageId:54663953,tournamentId:54663955})"
+        },
+        "extraMatches": {
+          "href": "Match({id:62580706})$extraMatches"
+        },
+        "away": {
+          "href": "MatchActor({actor:\"away\",id:62580706})"
+        },
+        "feed": {
+          "href": "MatchFeed({id:62580706})"
+        },
+        "isScheduled": true
+      },
+      "auditResolveTime": 0.01351
+    },
+    "Nation({id:164})": {
+      "cachetags": [
+        {
+          "taint": [
+            "constant"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Nation",
+        "name": {
+          "en": "Common.Nation.NZ"
+        },
+        "code": "NZ",
+        "id": 164
+      },
+      "auditResolveTime": 0.015677
+    },
+    "Team({id:61962638})": {
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "nameClub",
+            "registrationClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Team",
+        "category": {
+          "href": "Category({categoryId:54663957,tournamentId:54663955})"
+        },
+        "description": {
+          "href": "Team({id:61962638})$description"
+        },
+        "name": {
+          "__typename": "Team$TeamName",
+          "fullName": "Takapuna Grammar School Open Boys TGS Boys First XI",
+          "suffix": "TGS Boys First XI",
+          "clubName": "Takapuna Grammar School TGS Boys First XI",
+          "categoryName": "Open Boys TGS Boys First XI"
+        },
+        "matches": {
+          "href": "Team({id:61962638})$matches"
+        },
+        "id": 61962638,
+        "timeline": {
+          "href": "Team({id:61962638})$timeline"
+        },
+        "matchesExcelUrl": {
+          "href": "Team({id:61962638})$matchesExcelUrl"
+        },
+        "registrator": {
+          "href": "Team({id:61962638})$registrator"
+        },
+        "matchesCalendarUrl": {
+          "href": "Team({id:61962638})$matchesCalendarUrl"
+        },
+        "leaderNames": {
+          "href": "Team({id:61962638})$leaderNames"
+        },
+        "statistics": {
+          "href": "Team({id:61962638})$statistics"
+        },
+        "shirt": {
+          "href": "Team({id:61962638})$shirt"
+        },
+        "clubLogoUrl": "",
+        "awards": {
+          "href": "Team({id:61962638})$awards"
+        },
+        "extraMatches": {
+          "href": "Team({id:61962638})$extraMatches"
+        },
+        "divisions": {
+          "href": "Team({id:61962638})$divisions"
+        },
+        "club": {
+          "href": "NameClub({id:61961863})"
+        },
+        "registrationNumber": {
+          "href": "Team({id:61962638})$registrationNumber"
+        },
+        "accommodation": {
+          "href": "Team({id:61962638})$accommodation"
+        },
+        "timelineForLeader": {
+          "href": "Team({id:61962638})$timelineForLeader"
+        }
+      },
+      "auditResolveTime": 0.009482
+    },
+    "Team({id:62186289})": {
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "nameClub",
+            "registrationClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Team",
+        "category": {
+          "href": "Category({categoryId:54663957,tournamentId:54663955})"
+        },
+        "description": {
+          "href": "Team({id:62186289})$description"
+        },
+        "name": {
+          "__typename": "Team$TeamName",
+          "fullName": "Padua College Open Boys",
+          "suffix": "",
+          "clubName": "Padua College",
+          "categoryName": "Open Boys"
+        },
+        "matches": {
+          "href": "Team({id:62186289})$matches"
+        },
+        "id": 62186289,
+        "timeline": {
+          "href": "Team({id:62186289})$timeline"
+        },
+        "matchesExcelUrl": {
+          "href": "Team({id:62186289})$matchesExcelUrl"
+        },
+        "registrator": {
+          "href": "Team({id:62186289})$registrator"
+        },
+        "matchesCalendarUrl": {
+          "href": "Team({id:62186289})$matchesCalendarUrl"
+        },
+        "leaderNames": {
+          "href": "Team({id:62186289})$leaderNames"
+        },
+        "statistics": {
+          "href": "Team({id:62186289})$statistics"
+        },
+        "shirt": {
+          "href": "Team({id:62186289})$shirt"
+        },
+        "clubLogoUrl": "",
+        "awards": {
+          "href": "Team({id:62186289})$awards"
+        },
+        "extraMatches": {
+          "href": "Team({id:62186289})$extraMatches"
+        },
+        "divisions": {
+          "href": "Team({id:62186289})$divisions"
+        },
+        "club": {
+          "href": "NameClub({id:62186256})"
+        },
+        "registrationNumber": {
+          "href": "Team({id:62186289})$registrationNumber"
+        },
+        "accommodation": {
+          "href": "Team({id:62186289})$accommodation"
+        },
+        "timelineForLeader": {
+          "href": "Team({id:62186289})$timelineForLeader"
+        }
+      },
+      "auditResolveTime": 0.017489
+    },
+    "Match({id:62397386})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397386
+          ],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "match",
+            "match_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397386
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Match",
+        "home": {
+          "href": "MatchActor({actor:\"home\",id:62397386})"
+        },
+        "duration": 3000000,
+        "day": {
+          "href": "EditionDay({id:58690445})"
+        },
+        "finished": true,
+        "result": {
+          "href": "MatchResult({id:62397386})"
+        },
+        "end": 1744865400000,
+        "id": 62397386,
+        "start": 1744862400000,
+        "round": {
+          "href": "Round({id:62397384})"
+        },
+        "liveStart": {
+          "href": "Match({id:62397386})$liveStart"
+        },
+        "nextMatchWinner": {
+          "href": "Match({id:62397386})$nextMatchWinner"
+        },
+        "loser": {
+          "href": "Match({id:62397386})$loser"
+        },
+        "nextMatchLoser": {
+          "href": "Match({id:62397386})$nextMatchLoser"
+        },
+        "protests": {
+          "href": "Match({id:62397386})$protests"
+        },
+        "matchNr": "17040305",
+        "roundName": {
+          "href": "Match({id:62397386})$roundName"
+        },
+        "roundRank": {
+          "href": "Match({id:62397386})$roundRank"
+        },
+        "winner": {
+          "href": "Match({id:62397386})$winner"
+        },
+        "referees": {
+          "href": "Match({id:62397386})$referees"
+        },
+        "division": {
+          "href": "Division({id:62397383})"
+        },
+        "live": false,
+        "arena": {
+          "href": "Arena({id:51182647,tid:54663955})"
+        },
+        "stage": {
+          "href": "Stage({categoryId:54663957,stageId:54663953,tournamentId:54663955})"
+        },
+        "extraMatches": {
+          "href": "Match({id:62397386})$extraMatches"
+        },
+        "away": {
+          "href": "MatchActor({actor:\"away\",id:62397386})"
+        },
+        "feed": {
+          "href": "MatchFeed({id:62397386})"
+        },
+        "isScheduled": true
+      },
+      "auditResolveTime": 0.012732
+    },
+    "Match({id:62580688})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62580688
+          ],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "match",
+            "match_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62580688
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Match",
+        "home": {
+          "href": "MatchActor({actor:\"home\",id:62580688})"
+        },
+        "duration": 3000000,
+        "day": {
+          "href": "EditionDay({id:58690445})"
+        },
+        "finished": true,
+        "result": {
+          "href": "MatchResult({id:62580688})"
+        },
+        "end": 1744858200000,
+        "id": 62580688,
+        "start": 1744855200000,
+        "round": {
+          "href": "Round({id:62580685})"
+        },
+        "liveStart": {
+          "href": "Match({id:62580688})$liveStart"
+        },
+        "nextMatchWinner": {
+          "href": "Match({id:62580688})$nextMatchWinner"
+        },
+        "loser": {
+          "href": "Match({id:62580688})$loser"
+        },
+        "nextMatchLoser": {
+          "href": "Match({id:62580688})$nextMatchLoser"
+        },
+        "protests": {
+          "href": "Match({id:62580688})$protests"
+        },
+        "matchNr": "17040303",
+        "roundName": {
+          "href": "Match({id:62580688})$roundName"
+        },
+        "roundRank": {
+          "href": "Match({id:62580688})$roundRank"
+        },
+        "winner": {
+          "href": "Match({id:62580688})$winner"
+        },
+        "referees": {
+          "href": "Match({id:62580688})$referees"
+        },
+        "division": {
+          "href": "Division({id:62580684})"
+        },
+        "live": false,
+        "arena": {
+          "href": "Arena({id:51182647,tid:54663955})"
+        },
+        "stage": {
+          "href": "Stage({categoryId:54663962,stageId:54663953,tournamentId:54663955})"
+        },
+        "extraMatches": {
+          "href": "Match({id:62580688})$extraMatches"
+        },
+        "away": {
+          "href": "MatchActor({actor:\"away\",id:62580688})"
+        },
+        "feed": {
+          "href": "MatchFeed({id:62580688})"
+        },
+        "isScheduled": true
+      },
+      "auditResolveTime": 0.019964
+    },
+    "Team({id:61942115})": {
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "nameClub",
+            "registrationClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Team",
+        "category": {
+          "href": "Category({categoryId:54663957,tournamentId:54663955})"
+        },
+        "description": {
+          "href": "Team({id:61942115})$description"
+        },
+        "name": {
+          "__typename": "Team$TeamName",
+          "fullName": "Wesley College Open Boys",
+          "suffix": "",
+          "clubName": "Wesley College",
+          "categoryName": "Open Boys"
+        },
+        "matches": {
+          "href": "Team({id:61942115})$matches"
+        },
+        "id": 61942115,
+        "timeline": {
+          "href": "Team({id:61942115})$timeline"
+        },
+        "matchesExcelUrl": {
+          "href": "Team({id:61942115})$matchesExcelUrl"
+        },
+        "registrator": {
+          "href": "Team({id:61942115})$registrator"
+        },
+        "matchesCalendarUrl": {
+          "href": "Team({id:61942115})$matchesCalendarUrl"
+        },
+        "leaderNames": {
+          "href": "Team({id:61942115})$leaderNames"
+        },
+        "statistics": {
+          "href": "Team({id:61942115})$statistics"
+        },
+        "shirt": {
+          "href": "Team({id:61942115})$shirt"
+        },
+        "clubLogoUrl": "",
+        "awards": {
+          "href": "Team({id:61942115})$awards"
+        },
+        "extraMatches": {
+          "href": "Team({id:61942115})$extraMatches"
+        },
+        "divisions": {
+          "href": "Team({id:61942115})$divisions"
+        },
+        "club": {
+          "href": "NameClub({id:61941853})"
+        },
+        "registrationNumber": {
+          "href": "Team({id:61942115})$registrationNumber"
+        },
+        "accommodation": {
+          "href": "Team({id:61942115})$accommodation"
+        },
+        "timelineForLeader": {
+          "href": "Team({id:61942115})$timelineForLeader"
+        }
+      },
+      "auditResolveTime": 0.033512
+    },
+    "NameClub({id:61941853})": {
+      "cachetags": [
+        {
+          "taint": [
+            "nameClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "NameClub",
+        "description": {
+          "href": "NameClub({id:61941853})$description"
+        },
+        "name": "Wesley College",
+        "id": 61941853,
+        "address": {
+          "href": "Address({eid:61941853})"
+        },
+        "matchesExcelUrl": {
+          "href": "NameClub({id:61941853})$matchesExcelUrl"
+        },
+        "matchesCalendarUrl": {
+          "href": "NameClub({id:61941853})$matchesCalendarUrl"
+        },
+        "registeredTeams": {
+          "href": "NameClub({id:61941853})$registeredTeams"
+        },
+        "shirt": {
+          "href": "NameClub({id:61941853})$shirt"
+        },
+        "nation": {
+          "href": "Nation({id:25})"
+        }
+      },
+      "auditResolveTime": 0.015678
+    },
+    "Category({categoryId:54663962,tournamentId:54663955})": {
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Category",
+        "name": "Under 15's ",
+        "id": 54663962,
+        "teamGreenCards": {
+          "href": "Category({categoryId:54663962,tournamentId:54663955})$teamGreenCards"
+        },
+        "stageResultOrder": [
+          {
+            "nb": "Poeng",
+            "de": "Punkte",
+            "zh": "积分",
+            "es": "Puntos",
+            "sv": "Poäng",
+            "en": "Points"
+          },
+          {
+            "nb": "Målforskjell",
+            "de": "Tordifferenz",
+            "da": "Målforskel",
+            "zh": "净胜球",
+            "es": "Diferencia de goles",
+            "sv": "Målskillnad",
+            "en": "Goal difference",
+            "fr": "Écarts total buts"
+          },
+          {
+            "nb": "Scorede mål",
+            "de": "Erzielte Tore",
+            "da": "Scorede mål",
+            "zh": "进球",
+            "es": "Goles anotados",
+            "sv": "Gjorda mål",
+            "en": "Scored goals"
+          }
+        ],
+        "teamHighscore": {
+          "href": "Category({categoryId:54663962,tournamentId:54663955})$teamHighscore"
+        },
+        "hidePlayers": false,
+        "registerYellowCards": false,
+        "useRefereeReports": false,
+        "registerRedCards": false,
+        "hideConferenceResults": false,
+        "onlyFirstStage": false,
+        "topPlayers": {
+          "href": "Category({categoryId:54663962,tournamentId:54663955})$topPlayers"
+        },
+        "hideMatchResults": false,
+        "resultOrder": [
+          {
+            "nb": "Poeng",
+            "de": "Punkte",
+            "zh": "积分",
+            "es": "Puntos",
+            "sv": "Poäng",
+            "en": "Points"
+          },
+          {
+            "nb": "Målforskjell",
+            "de": "Tordifferenz",
+            "da": "Målforskel",
+            "zh": "净胜球",
+            "es": "Diferencia de goles",
+            "sv": "Målskillnad",
+            "en": "Goal difference",
+            "fr": "Écarts total buts"
+          },
+          {
+            "nb": "Scorede mål",
+            "de": "Erzielte Tore",
+            "da": "Scorede mål",
+            "zh": "进球",
+            "es": "Goles anotados",
+            "sv": "Gjorda mål",
+            "en": "Scored goals"
+          },
+          {
+            "nb": "Poeng (innbyrdes)",
+            "de": "Punkte (Direktvergleich)",
+            "da": "Points (indbyrdes møder)",
+            "zh": "相互比赛积分多者",
+            "es": "Puntos  (head-to-head)",
+            "sv": "Poäng (inbördes möten)",
+            "en": "Points (head-to-head)"
+          },
+          {
+            "nb": "Målforskjell (innbyrdes)",
+            "de": "Tordifferenz (Direktvergleich)",
+            "da": "Målforskel (indbyrdes møder)",
+            "zh": "相互比赛净胜球多者",
+            "es": "Diferencia de goles (head-to-head)",
+            "sv": "Målskillnad (inbördes möten)",
+            "en": "Goal difference (head-to-head)"
+          },
+          {
+            "nb": "Scorede mål (innbyrdes)",
+            "de": "Erzielte Tore (Direktvergleich)",
+            "da": "Scorede mål (indbyrdes møder)",
+            "zh": "相互比赛进球数多者",
+            "es": "Goles anotados (head-to-head)",
+            "sv": "Gjorda mål (inbördes möten)",
+            "en": "Scored goals (head-to-head)"
+          }
+        ],
+        "stageTeamStrategy": "scorePerMatch",
+        "registerAssists": false,
+        "registerShots": false,
+        "registerGreenCards": false,
+        "singleConference": false,
+        "hideGoalResults": false,
+        "registerRebounds": false,
+        "registerSteals": false,
+        "registerBlocks": false,
+        "countdownLiveClock": false,
+        "showLivePauseLength": false,
+        "matchesCanTie": true,
+        "schedulePublished": true,
+        "statistics": {
+          "href": "Category({categoryId:54663962,tournamentId:54663955})$statistics"
+        },
+        "lotPublished": true,
+        "stages": {
+          "href": "Category({categoryId:54663962,tournamentId:54663955})$stages"
+        },
+        "teamLimit": 0,
+        "teams": {
+          "href": "Category({categoryId:54663962,tournamentId:54663955})$teams"
+        },
+        "gender": "mixed",
+        "shortName": "U15",
+        "age": 15
+      },
+      "auditResolveTime": 0.080997
+    },
+    "Match({id:62397328})$roundName": {
+      "cachetags": [
+        {
+          "taint": [
+            "match",
+            "match_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397328
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Match$RoundName",
+        "name": {
+          "en": "9-10"
+        }
+      },
+      "auditResolveTime": 4.25601
+    },
+    "MatchActor({actor:\"home\",id:62580531})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_actor_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62580531
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "MatchActor",
+        "name": {
+          "en": "Brisbane Grammar School"
+        },
+        "id": 61962652,
+        "match": {
+          "href": "Match({id:62580531})"
+        },
+        "originalName": {
+          "href": "MatchActor({actor:\"home\",id:62580531})$originalName"
+        },
+        "team": {
+          "href": "Team({id:61962652})"
+        },
+        "shortName": {
+          "href": "MatchActor({actor:\"home\",id:62580531})$shortName"
+        }
+      },
+      "auditResolveTime": 0.06786
+    },
+    "NameClub({id:61960724})": {
+      "cachetags": [
+        {
+          "taint": [
+            "nameClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "NameClub",
+        "description": {
+          "href": "NameClub({id:61960724})$description"
+        },
+        "name": "St Pius X College",
+        "id": 61960724,
+        "address": {
+          "href": "Address({eid:61960724})"
+        },
+        "matchesExcelUrl": {
+          "href": "NameClub({id:61960724})$matchesExcelUrl"
+        },
+        "matchesCalendarUrl": {
+          "href": "NameClub({id:61960724})$matchesCalendarUrl"
+        },
+        "registeredTeams": {
+          "href": "NameClub({id:61960724})$registeredTeams"
+        },
+        "shirt": {
+          "href": "NameClub({id:61960724})$shirt"
+        },
+        "nation": {
+          "href": "Nation({id:25})"
+        }
+      },
+      "auditResolveTime": 0.013531
+    },
+    "Team({id:62186333})": {
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "nameClub",
+            "registrationClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Team",
+        "category": {
+          "href": "Category({categoryId:54663962,tournamentId:54663955})"
+        },
+        "description": {
+          "href": "Team({id:62186333})$description"
+        },
+        "name": {
+          "__typename": "Team$TeamName",
+          "fullName": "The Southport School U15 1",
+          "suffix": "",
+          "clubName": "The Southport School 1",
+          "categoryName": "U15 1"
+        },
+        "matches": {
+          "href": "Team({id:62186333})$matches"
+        },
+        "id": 62186333,
+        "timeline": {
+          "href": "Team({id:62186333})$timeline"
+        },
+        "matchesExcelUrl": {
+          "href": "Team({id:62186333})$matchesExcelUrl"
+        },
+        "registrator": {
+          "href": "Team({id:62186333})$registrator"
+        },
+        "matchesCalendarUrl": {
+          "href": "Team({id:62186333})$matchesCalendarUrl"
+        },
+        "leaderNames": {
+          "href": "Team({id:62186333})$leaderNames"
+        },
+        "statistics": {
+          "href": "Team({id:62186333})$statistics"
+        },
+        "shirt": {
+          "href": "Team({id:62186333})$shirt"
+        },
+        "clubLogoUrl": "",
+        "awards": {
+          "href": "Team({id:62186333})$awards"
+        },
+        "extraMatches": {
+          "href": "Team({id:62186333})$extraMatches"
+        },
+        "divisions": {
+          "href": "Team({id:62186333})$divisions"
+        },
+        "club": {
+          "href": "NameClub({id:62186313})"
+        },
+        "registrationNumber": {
+          "href": "Team({id:62186333})$registrationNumber"
+        },
+        "accommodation": {
+          "href": "Team({id:62186333})$accommodation"
+        },
+        "timelineForLeader": {
+          "href": "Team({id:62186333})$timelineForLeader"
+        }
+      },
+      "auditResolveTime": 0.016284
+    },
+    "Match({id:62580706})$roundName": {
+      "cachetags": [
+        {
+          "taint": [
+            "match",
+            "match_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62580706
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Match$RoundName",
+        "name": {
+          "en": "7-8"
+        }
+      },
+      "auditResolveTime": 5.23281
+    },
+    "Match({id:62397317})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397317
+          ],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "match",
+            "match_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397317
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Match",
+        "home": {
+          "href": "MatchActor({actor:\"home\",id:62397317})"
+        },
+        "duration": 3000000,
+        "day": {
+          "href": "EditionDay({id:58690445})"
+        },
+        "finished": true,
+        "result": {
+          "href": "MatchResult({id:62397317})"
+        },
+        "end": 1744865400000,
+        "id": 62397317,
+        "start": 1744862400000,
+        "round": {
+          "href": "Round({id:62397314})"
+        },
+        "liveStart": {
+          "href": "Match({id:62397317})$liveStart"
+        },
+        "nextMatchWinner": {
+          "href": "Match({id:62397317})$nextMatchWinner"
+        },
+        "loser": {
+          "href": "Match({id:62397317})$loser"
+        },
+        "nextMatchLoser": {
+          "href": "Match({id:62397317})$nextMatchLoser"
+        },
+        "protests": {
+          "href": "Match({id:62397317})$protests"
+        },
+        "matchNr": "17040105",
+        "roundName": {
+          "href": "Match({id:62397317})$roundName"
+        },
+        "roundRank": {
+          "href": "Match({id:62397317})$roundRank"
+        },
+        "winner": {
+          "href": "Match({id:62397317})$winner"
+        },
+        "referees": {
+          "href": "Match({id:62397317})$referees"
+        },
+        "division": {
+          "href": "Division({id:62397313})"
+        },
+        "live": false,
+        "arena": {
+          "href": "Arena({id:51182644,tid:54663955})"
+        },
+        "stage": {
+          "href": "Stage({categoryId:54663957,stageId:54663953,tournamentId:54663955})"
+        },
+        "extraMatches": {
+          "href": "Match({id:62397317})$extraMatches"
+        },
+        "away": {
+          "href": "MatchActor({actor:\"away\",id:62397317})"
+        },
+        "feed": {
+          "href": "MatchFeed({id:62397317})"
+        },
+        "isScheduled": true
+      },
+      "auditResolveTime": 0.010154
+    },
+    "NameClub({id:62137385})": {
+      "cachetags": [
+        {
+          "taint": [
+            "nameClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "NameClub",
+        "description": {
+          "href": "NameClub({id:62137385})$description"
+        },
+        "name": "Iona College",
+        "id": 62137385,
+        "address": {
+          "href": "Address({eid:62137385})"
+        },
+        "matchesExcelUrl": {
+          "href": "NameClub({id:62137385})$matchesExcelUrl"
+        },
+        "matchesCalendarUrl": {
+          "href": "NameClub({id:62137385})$matchesCalendarUrl"
+        },
+        "registeredTeams": {
+          "href": "NameClub({id:62137385})$registeredTeams"
+        },
+        "shirt": {
+          "href": "NameClub({id:62137385})$shirt"
+        },
+        "nation": {
+          "href": "Nation({id:25})"
+        }
+      },
+      "auditResolveTime": 0.022887
+    },
+    "Match({id:62397430})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397430
+          ],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "match",
+            "match_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397430
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Match",
+        "home": {
+          "href": "MatchActor({actor:\"home\",id:62397430})"
+        },
+        "duration": 3000000,
+        "day": {
+          "href": "EditionDay({id:58690445})"
+        },
+        "finished": false,
+        "result": {
+          "href": "MatchResult({id:62397430})"
+        },
+        "end": 1744861800000,
+        "id": 62397430,
+        "start": 1744858800000,
+        "round": {
+          "href": "Round({id:62397429})"
+        },
+        "liveStart": {
+          "href": "Match({id:62397430})$liveStart"
+        },
+        "nextMatchWinner": {
+          "href": "Match({id:62397430})$nextMatchWinner"
+        },
+        "loser": {
+          "href": "Match({id:62397430})$loser"
+        },
+        "nextMatchLoser": {
+          "href": "Match({id:62397430})$nextMatchLoser"
+        },
+        "protests": {
+          "href": "Match({id:62397430})$protests"
+        },
+        "matchNr": "17040204",
+        "roundName": {
+          "href": "Match({id:62397430})$roundName"
+        },
+        "roundRank": {
+          "href": "Match({id:62397430})$roundRank"
+        },
+        "winner": {
+          "href": "Match({id:62397430})$winner"
+        },
+        "referees": {
+          "href": "Match({id:62397430})$referees"
+        },
+        "division": {
+          "href": "Division({id:62397422})"
+        },
+        "live": false,
+        "arena": {
+          "href": "Arena({id:51182646,tid:54663955})"
+        },
+        "stage": {
+          "href": "Stage({categoryId:54663957,stageId:54663954,tournamentId:54663955})"
+        },
+        "extraMatches": {
+          "href": "Match({id:62397430})$extraMatches"
+        },
+        "away": {
+          "href": "MatchActor({actor:\"away\",id:62397430})"
+        },
+        "feed": {
+          "href": "MatchFeed({id:62397430})"
+        },
+        "isScheduled": true
+      },
+      "auditResolveTime": 0.011939
+    },
+    "Team({id:61962646})": {
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "nameClub",
+            "registrationClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Team",
+        "category": {
+          "href": "Category({categoryId:54663957,tournamentId:54663955})"
+        },
+        "description": {
+          "href": "Team({id:61962646})$description"
+        },
+        "name": {
+          "__typename": "Team$TeamName",
+          "fullName": "St Pius X College Open Boys",
+          "suffix": "",
+          "clubName": "St Pius X College",
+          "categoryName": "Open Boys"
+        },
+        "matches": {
+          "href": "Team({id:61962646})$matches"
+        },
+        "id": 61962646,
+        "timeline": {
+          "href": "Team({id:61962646})$timeline"
+        },
+        "matchesExcelUrl": {
+          "href": "Team({id:61962646})$matchesExcelUrl"
+        },
+        "registrator": {
+          "href": "Team({id:61962646})$registrator"
+        },
+        "matchesCalendarUrl": {
+          "href": "Team({id:61962646})$matchesCalendarUrl"
+        },
+        "leaderNames": {
+          "href": "Team({id:61962646})$leaderNames"
+        },
+        "statistics": {
+          "href": "Team({id:61962646})$statistics"
+        },
+        "shirt": {
+          "href": "Team({id:61962646})$shirt"
+        },
+        "clubLogoUrl": "",
+        "awards": {
+          "href": "Team({id:61962646})$awards"
+        },
+        "extraMatches": {
+          "href": "Team({id:61962646})$extraMatches"
+        },
+        "divisions": {
+          "href": "Team({id:61962646})$divisions"
+        },
+        "club": {
+          "href": "NameClub({id:61960724})"
+        },
+        "registrationNumber": {
+          "href": "Team({id:61962646})$registrationNumber"
+        },
+        "accommodation": {
+          "href": "Team({id:61962646})$accommodation"
+        },
+        "timelineForLeader": {
+          "href": "Team({id:61962646})$timelineForLeader"
+        }
+      },
+      "auditResolveTime": 0.013088
+    },
+    "Match({id:62397445})$roundName": {
+      "cachetags": [
+        {
+          "taint": [
+            "match",
+            "match_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397445
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Match$RoundName",
+        "name": {
+          "en": "13-14"
+        }
+      },
+      "auditResolveTime": 4.30474
+    },
+    "Match({id:62397403})$roundName": {
+      "cachetags": [
+        {
+          "taint": [
+            "match",
+            "match_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397403
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Match$RoundName",
+        "name": {
+          "en": "7-8"
+        }
+      },
+      "auditResolveTime": 4.410377
+    },
+    "MatchActor({actor:\"home\",id:62397463})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_actor_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397463
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "MatchActor",
+        "name": {
+          "en": "Takapuna Grammar School TGS Boys First XI"
+        },
+        "id": 61962638,
+        "match": {
+          "href": "Match({id:62397463})"
+        },
+        "originalName": {
+          "href": "MatchActor({actor:\"home\",id:62397463})$originalName"
+        },
+        "team": {
+          "href": "Team({id:61962638})"
+        },
+        "shortName": {
+          "href": "MatchActor({actor:\"home\",id:62397463})$shortName"
+        }
+      },
+      "auditResolveTime": 0.008913
+    },
+    "Category({categoryId:54663957,tournamentId:54663955})": {
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Category",
+        "name": "Open Boys",
+        "id": 54663957,
+        "teamGreenCards": {
+          "href": "Category({categoryId:54663957,tournamentId:54663955})$teamGreenCards"
+        },
+        "stageResultOrder": [
+          {
+            "nb": "Poeng",
+            "de": "Punkte",
+            "zh": "积分",
+            "es": "Puntos",
+            "sv": "Poäng",
+            "en": "Points"
+          },
+          {
+            "nb": "Målforskjell",
+            "de": "Tordifferenz",
+            "da": "Målforskel",
+            "zh": "净胜球",
+            "es": "Diferencia de goles",
+            "sv": "Målskillnad",
+            "en": "Goal difference",
+            "fr": "Écarts total buts"
+          },
+          {
+            "nb": "Scorede mål",
+            "de": "Erzielte Tore",
+            "da": "Scorede mål",
+            "zh": "进球",
+            "es": "Goles anotados",
+            "sv": "Gjorda mål",
+            "en": "Scored goals"
+          }
+        ],
+        "teamHighscore": {
+          "href": "Category({categoryId:54663957,tournamentId:54663955})$teamHighscore"
+        },
+        "hidePlayers": false,
+        "registerYellowCards": false,
+        "useRefereeReports": false,
+        "registerRedCards": false,
+        "hideConferenceResults": false,
+        "onlyFirstStage": false,
+        "topPlayers": {
+          "href": "Category({categoryId:54663957,tournamentId:54663955})$topPlayers"
+        },
+        "hideMatchResults": false,
+        "resultOrder": [
+          {
+            "nb": "Poeng",
+            "de": "Punkte",
+            "zh": "积分",
+            "es": "Puntos",
+            "sv": "Poäng",
+            "en": "Points"
+          },
+          {
+            "nb": "Målforskjell",
+            "de": "Tordifferenz",
+            "da": "Målforskel",
+            "zh": "净胜球",
+            "es": "Diferencia de goles",
+            "sv": "Målskillnad",
+            "en": "Goal difference",
+            "fr": "Écarts total buts"
+          },
+          {
+            "nb": "Scorede mål",
+            "de": "Erzielte Tore",
+            "da": "Scorede mål",
+            "zh": "进球",
+            "es": "Goles anotados",
+            "sv": "Gjorda mål",
+            "en": "Scored goals"
+          },
+          {
+            "nb": "Poeng (innbyrdes)",
+            "de": "Punkte (Direktvergleich)",
+            "da": "Points (indbyrdes møder)",
+            "zh": "相互比赛积分多者",
+            "es": "Puntos  (head-to-head)",
+            "sv": "Poäng (inbördes möten)",
+            "en": "Points (head-to-head)"
+          },
+          {
+            "nb": "Målforskjell (innbyrdes)",
+            "de": "Tordifferenz (Direktvergleich)",
+            "da": "Målforskel (indbyrdes møder)",
+            "zh": "相互比赛净胜球多者",
+            "es": "Diferencia de goles (head-to-head)",
+            "sv": "Målskillnad (inbördes möten)",
+            "en": "Goal difference (head-to-head)"
+          },
+          {
+            "nb": "Scorede mål (innbyrdes)",
+            "de": "Erzielte Tore (Direktvergleich)",
+            "da": "Scorede mål (indbyrdes møder)",
+            "zh": "相互比赛进球数多者",
+            "es": "Goles anotados (head-to-head)",
+            "sv": "Gjorda mål (inbördes möten)",
+            "en": "Scored goals (head-to-head)"
+          }
+        ],
+        "stageTeamStrategy": "scorePerMatch",
+        "registerAssists": false,
+        "registerShots": false,
+        "registerGreenCards": false,
+        "singleConference": false,
+        "hideGoalResults": false,
+        "registerRebounds": false,
+        "registerSteals": false,
+        "registerBlocks": false,
+        "countdownLiveClock": false,
+        "showLivePauseLength": false,
+        "matchesCanTie": true,
+        "schedulePublished": true,
+        "statistics": {
+          "href": "Category({categoryId:54663957,tournamentId:54663955})$statistics"
+        },
+        "lotPublished": true,
+        "stages": {
+          "href": "Category({categoryId:54663957,tournamentId:54663955})$stages"
+        },
+        "teamLimit": 0,
+        "teams": {
+          "href": "Category({categoryId:54663957,tournamentId:54663955})$teams"
+        },
+        "gender": "men",
+        "shortName": "Open Boys",
+        "age": 0
+      },
+      "auditResolveTime": 0.134846
+    },
+    "Team({id:61962642})": {
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "nameClub",
+            "registrationClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Team",
+        "category": {
+          "href": "Category({categoryId:54663962,tournamentId:54663955})"
+        },
+        "description": {
+          "href": "Team({id:61962642})$description"
+        },
+        "name": {
+          "__typename": "Team$TeamName",
+          "fullName": "Takapuna Grammar School U15 TGS Boys Development",
+          "suffix": "TGS Boys Development",
+          "clubName": "Takapuna Grammar School TGS Boys Development",
+          "categoryName": "U15 TGS Boys Development"
+        },
+        "matches": {
+          "href": "Team({id:61962642})$matches"
+        },
+        "id": 61962642,
+        "timeline": {
+          "href": "Team({id:61962642})$timeline"
+        },
+        "matchesExcelUrl": {
+          "href": "Team({id:61962642})$matchesExcelUrl"
+        },
+        "registrator": {
+          "href": "Team({id:61962642})$registrator"
+        },
+        "matchesCalendarUrl": {
+          "href": "Team({id:61962642})$matchesCalendarUrl"
+        },
+        "leaderNames": {
+          "href": "Team({id:61962642})$leaderNames"
+        },
+        "statistics": {
+          "href": "Team({id:61962642})$statistics"
+        },
+        "shirt": {
+          "href": "Team({id:61962642})$shirt"
+        },
+        "clubLogoUrl": "",
+        "awards": {
+          "href": "Team({id:61962642})$awards"
+        },
+        "extraMatches": {
+          "href": "Team({id:61962642})$extraMatches"
+        },
+        "divisions": {
+          "href": "Team({id:61962642})$divisions"
+        },
+        "club": {
+          "href": "NameClub({id:61961863})"
+        },
+        "registrationNumber": {
+          "href": "Team({id:61962642})$registrationNumber"
+        },
+        "accommodation": {
+          "href": "Team({id:61962642})$accommodation"
+        },
+        "timelineForLeader": {
+          "href": "Team({id:61962642})$timelineForLeader"
+        }
+      },
+      "auditResolveTime": 0.024674
+    },
+    "Stage({categoryId:54663957,stageId:54663953,tournamentId:54663955})$rankings": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397317
+          ],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397317
+          ],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397362
+          ],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397362
+          ],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397386
+          ],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397386
+          ],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397403
+          ],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397403
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": [
+        {
+          "__typename": "Stage$StageRankingPlace_MatchStatus",
+          "rank": 1,
+          "team": {
+            "href": "Team({id:61962651})"
+          },
+          "match": {
+            "href": "Match({id:62397317})"
+          },
+          "status": "win"
+        },
+        {
+          "__typename": "Stage$StageRankingPlace_MatchStatus",
+          "rank": 2,
+          "team": {
+            "href": "Team({id:62186328})"
+          },
+          "match": {
+            "href": "Match({id:62397317})"
+          },
+          "status": "loss"
+        },
+        {
+          "__typename": "Stage$StageRankingPlace_MatchStatus",
+          "rank": 3,
+          "team": {
+            "href": "Team({id:61942102})"
+          },
+          "match": {
+            "href": "Match({id:62397362})"
+          },
+          "status": "win"
+        },
+        {
+          "__typename": "Stage$StageRankingPlace_MatchStatus",
+          "rank": 4,
+          "team": {
+            "href": "Team({id:62186340})"
+          },
+          "match": {
+            "href": "Match({id:62397362})"
+          },
+          "status": "loss"
+        },
+        {
+          "__typename": "Stage$StageRankingPlace_MatchStatus",
+          "rank": 5,
+          "team": {
+            "href": "Team({id:61942095})"
+          },
+          "match": {
+            "href": "Match({id:62397386})"
+          },
+          "status": "win"
+        },
+        {
+          "__typename": "Stage$StageRankingPlace_MatchStatus",
+          "rank": 6,
+          "team": {
+            "href": "Team({id:61942115})"
+          },
+          "match": {
+            "href": "Match({id:62397386})"
+          },
+          "status": "loss"
+        },
+        {
+          "__typename": "Stage$StageRankingPlace_MatchStatus",
+          "rank": 7,
+          "team": {
+            "href": "Team({id:61942087})"
+          },
+          "match": {
+            "href": "Match({id:62397403})"
+          },
+          "status": "win"
+        },
+        {
+          "__typename": "Stage$StageRankingPlace_MatchStatus",
+          "rank": 8,
+          "team": {
+            "href": "Team({id:62404841})"
+          },
+          "match": {
+            "href": "Match({id:62397403})"
+          },
+          "status": "loss"
+        }
+      ],
+      "auditResolveTime": 0.000529
+    },
+    "Match({id:62580677})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62580677
+          ],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "match",
+            "match_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62580677
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Match",
+        "home": {
+          "href": "MatchActor({actor:\"home\",id:62580677})"
+        },
+        "duration": 3000000,
+        "day": {
+          "href": "EditionDay({id:58690445})"
+        },
+        "finished": false,
+        "result": {
+          "href": "MatchResult({id:62580677})"
+        },
+        "end": 1744858200000,
+        "id": 62580677,
+        "start": 1744855200000,
+        "round": {
+          "href": "Round({id:62580676})"
+        },
+        "liveStart": {
+          "href": "Match({id:62580677})$liveStart"
+        },
+        "nextMatchWinner": {
+          "href": "Match({id:62580677})$nextMatchWinner"
+        },
+        "loser": {
+          "href": "Match({id:62580677})$loser"
+        },
+        "nextMatchLoser": {
+          "href": "Match({id:62580677})$nextMatchLoser"
+        },
+        "protests": {
+          "href": "Match({id:62580677})$protests"
+        },
+        "matchNr": "17040203",
+        "roundName": {
+          "href": "Match({id:62580677})$roundName"
+        },
+        "roundRank": {
+          "href": "Match({id:62580677})$roundRank"
+        },
+        "winner": {
+          "href": "Match({id:62580677})$winner"
+        },
+        "referees": {
+          "href": "Match({id:62580677})$referees"
+        },
+        "division": {
+          "href": "Division({id:62580675})"
+        },
+        "live": false,
+        "arena": {
+          "href": "Arena({id:51182646,tid:54663955})"
+        },
+        "stage": {
+          "href": "Stage({categoryId:54663962,stageId:54663953,tournamentId:54663955})"
+        },
+        "extraMatches": {
+          "href": "Match({id:62580677})$extraMatches"
+        },
+        "away": {
+          "href": "MatchActor({actor:\"away\",id:62580677})"
+        },
+        "feed": {
+          "href": "MatchFeed({id:62580677})"
+        },
+        "isScheduled": true
+      },
+      "auditResolveTime": 0.083727
+    },
+    "Stage({categoryId:54663957,stageId:54663953,tournamentId:54663955})": {
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Stage",
+        "category": {
+          "href": "Category({categoryId:54663957,tournamentId:54663955})"
+        },
+        "name": "Playoff A",
+        "type": "playoff",
+        "matches": {
+          "href": "Stage({categoryId:54663957,stageId:54663953,tournamentId:54663955})$matches"
+        },
+        "id": 54663953,
+        "previousStages": {
+          "href": "Stage({categoryId:54663957,stageId:54663953,tournamentId:54663955})$previousStages"
+        },
+        "nextStages": {
+          "href": "Stage({categoryId:54663957,stageId:54663953,tournamentId:54663955})$nextStages"
+        },
+        "realTeams": {
+          "href": "Stage({categoryId:54663957,stageId:54663953,tournamentId:54663955})$realTeams"
+        },
+        "stageTeamConferences": {
+          "href": "Stage({categoryId:54663957,stageId:54663953,tournamentId:54663955})$stageTeamConferences"
+        },
+        "isSingleConference": false,
+        "periodLengths": [
+          20,
+          20
+        ],
+        "schedulePublished": true,
+        "statistics": {
+          "href": "Stage({categoryId:54663957,stageId:54663953,tournamentId:54663955})$statistics"
+        },
+        "lotPublished": true,
+        "teams": {
+          "href": "Stage({categoryId:54663957,stageId:54663953,tournamentId:54663955})$teams"
+        },
+        "rankings": {
+          "href": "Stage({categoryId:54663957,stageId:54663953,tournamentId:54663955})$rankings"
+        },
+        "categoryId": 54663957,
+        "pseudoStageTeams": {
+          "href": "Stage({categoryId:54663957,stageId:54663953,tournamentId:54663955})$pseudoStageTeams"
+        },
+        "divisions": {
+          "href": "Stage({categoryId:54663957,stageId:54663953,tournamentId:54663955})$divisions"
+        },
+        "rank": 2
+      },
+      "auditResolveTime": 0.065208
+    },
+    "Team({id:61942105})": {
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "nameClub",
+            "registrationClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Team",
+        "category": {
+          "href": "Category({categoryId:54663962,tournamentId:54663955})"
+        },
+        "description": {
+          "href": "Team({id:61942105})$description"
+        },
+        "name": {
+          "__typename": "Team$TeamName",
+          "fullName": "Ipswich Grammar School U15 9A",
+          "suffix": "9A",
+          "clubName": "Ipswich Grammar School 9A",
+          "categoryName": "U15 9A"
+        },
+        "matches": {
+          "href": "Team({id:61942105})$matches"
+        },
+        "id": 61942105,
+        "timeline": {
+          "href": "Team({id:61942105})$timeline"
+        },
+        "matchesExcelUrl": {
+          "href": "Team({id:61942105})$matchesExcelUrl"
+        },
+        "registrator": {
+          "href": "Team({id:61942105})$registrator"
+        },
+        "matchesCalendarUrl": {
+          "href": "Team({id:61942105})$matchesCalendarUrl"
+        },
+        "leaderNames": {
+          "href": "Team({id:61942105})$leaderNames"
+        },
+        "statistics": {
+          "href": "Team({id:61942105})$statistics"
+        },
+        "shirt": {
+          "href": "Team({id:61942105})$shirt"
+        },
+        "clubLogoUrl": "",
+        "awards": {
+          "href": "Team({id:61942105})$awards"
+        },
+        "extraMatches": {
+          "href": "Team({id:61942105})$extraMatches"
+        },
+        "divisions": {
+          "href": "Team({id:61942105})$divisions"
+        },
+        "club": {
+          "href": "NameClub({id:61941918})"
+        },
+        "registrationNumber": {
+          "href": "Team({id:61942105})$registrationNumber"
+        },
+        "accommodation": {
+          "href": "Team({id:61942105})$accommodation"
+        },
+        "timelineForLeader": {
+          "href": "Team({id:61942105})$timelineForLeader"
+        }
+      },
+      "auditResolveTime": 0.020693
+    },
+    "Team({id:61942087})": {
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "nameClub",
+            "registrationClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Team",
+        "category": {
+          "href": "Category({categoryId:54663957,tournamentId:54663955})"
+        },
+        "description": {
+          "href": "Team({id:61942087})$description"
+        },
+        "name": {
+          "__typename": "Team$TeamName",
+          "fullName": "Brisbane Boys College Open Boys",
+          "suffix": "",
+          "clubName": "Brisbane Boys College",
+          "categoryName": "Open Boys"
+        },
+        "matches": {
+          "href": "Team({id:61942087})$matches"
+        },
+        "id": 61942087,
+        "timeline": {
+          "href": "Team({id:61942087})$timeline"
+        },
+        "matchesExcelUrl": {
+          "href": "Team({id:61942087})$matchesExcelUrl"
+        },
+        "registrator": {
+          "href": "Team({id:61942087})$registrator"
+        },
+        "matchesCalendarUrl": {
+          "href": "Team({id:61942087})$matchesCalendarUrl"
+        },
+        "leaderNames": {
+          "href": "Team({id:61942087})$leaderNames"
+        },
+        "statistics": {
+          "href": "Team({id:61942087})$statistics"
+        },
+        "shirt": {
+          "href": "Team({id:61942087})$shirt"
+        },
+        "clubLogoUrl": "",
+        "awards": {
+          "href": "Team({id:61942087})$awards"
+        },
+        "extraMatches": {
+          "href": "Team({id:61942087})$extraMatches"
+        },
+        "divisions": {
+          "href": "Team({id:61942087})$divisions"
+        },
+        "club": {
+          "href": "NameClub({id:61941866})"
+        },
+        "registrationNumber": {
+          "href": "Team({id:61942087})$registrationNumber"
+        },
+        "accommodation": {
+          "href": "Team({id:61942087})$accommodation"
+        },
+        "timelineForLeader": {
+          "href": "Team({id:61942087})$timelineForLeader"
+        }
+      },
+      "auditResolveTime": 0.02187
+    },
+    "Category({categoryId:54663962,tournamentId:54663955})$stages": {
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": [
+        {
+          "href": "Stage({categoryId:54663962,stageId:54663952,tournamentId:54663955})"
+        },
+        {
+          "href": "Stage({categoryId:54663962,stageId:54663953,tournamentId:54663955})"
+        },
+        {
+          "href": "Stage({categoryId:54663962,stageId:54663954,tournamentId:54663955})"
+        }
+      ],
+      "auditResolveTime": 9.230162
+    },
+    "Team({id:62186340})": {
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "nameClub",
+            "registrationClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Team",
+        "category": {
+          "href": "Category({categoryId:54663957,tournamentId:54663955})"
+        },
+        "description": {
+          "href": "Team({id:62186340})$description"
+        },
+        "name": {
+          "__typename": "Team$TeamName",
+          "fullName": "Kings CC Open Boys",
+          "suffix": "",
+          "clubName": "Kings CC",
+          "categoryName": "Open Boys"
+        },
+        "matches": {
+          "href": "Team({id:62186340})$matches"
+        },
+        "id": 62186340,
+        "timeline": {
+          "href": "Team({id:62186340})$timeline"
+        },
+        "matchesExcelUrl": {
+          "href": "Team({id:62186340})$matchesExcelUrl"
+        },
+        "registrator": {
+          "href": "Team({id:62186340})$registrator"
+        },
+        "matchesCalendarUrl": {
+          "href": "Team({id:62186340})$matchesCalendarUrl"
+        },
+        "leaderNames": {
+          "href": "Team({id:62186340})$leaderNames"
+        },
+        "statistics": {
+          "href": "Team({id:62186340})$statistics"
+        },
+        "shirt": {
+          "href": "Team({id:62186340})$shirt"
+        },
+        "clubLogoUrl": "",
+        "awards": {
+          "href": "Team({id:62186340})$awards"
+        },
+        "extraMatches": {
+          "href": "Team({id:62186340})$extraMatches"
+        },
+        "divisions": {
+          "href": "Team({id:62186340})$divisions"
+        },
+        "club": {
+          "href": "NameClub({id:62186303})"
+        },
+        "registrationNumber": {
+          "href": "Team({id:62186340})$registrationNumber"
+        },
+        "accommodation": {
+          "href": "Team({id:62186340})$accommodation"
+        },
+        "timelineForLeader": {
+          "href": "Team({id:62186340})$timelineForLeader"
+        }
+      },
+      "auditResolveTime": 0.016108
+    },
+    "Match({id:62397362})$roundName": {
+      "cachetags": [
+        {
+          "taint": [
+            "match",
+            "match_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397362
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Match$RoundName",
+        "name": {
+          "en": "3-4"
+        }
+      },
+      "auditResolveTime": 5.959697
+    },
+    "MatchActor({actor:\"away\",id:62397463})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_actor_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397463
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "MatchActor",
+        "name": {
+          "en": "Iona College"
+        },
+        "id": 62137435,
+        "match": {
+          "href": "Match({id:62397463})"
+        },
+        "originalName": {
+          "href": "MatchActor({actor:\"away\",id:62397463})$originalName"
+        },
+        "team": {
+          "href": "Team({id:62137435})"
+        },
+        "shortName": {
+          "href": "MatchActor({actor:\"away\",id:62397463})$shortName"
+        }
+      },
+      "auditResolveTime": 0.013741
+    },
+    "Match({id:62397386})$roundName": {
+      "cachetags": [
+        {
+          "taint": [
+            "match",
+            "match_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62397386
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Match$RoundName",
+        "name": {
+          "en": "5-6"
+        }
+      },
+      "auditResolveTime": 17.112878
+    },
+    "MatchActor({actor:\"away\",id:62580531})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_actor_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62580531
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "MatchActor",
+        "name": {
+          "en": "The Southport School 2"
+        },
+        "id": 62186334,
+        "match": {
+          "href": "Match({id:62580531})"
+        },
+        "originalName": {
+          "href": "MatchActor({actor:\"away\",id:62580531})$originalName"
+        },
+        "team": {
+          "href": "Team({id:62186334})"
+        },
+        "shortName": {
+          "href": "MatchActor({actor:\"away\",id:62580531})$shortName"
+        }
+      },
+      "auditResolveTime": 0.016944
+    },
+    "Tournament({id:54663955})": {
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Tournament",
+        "days": {
+          "href": "Tournament({id:54663955})$days"
+        },
+        "locations": {
+          "href": "Tournament({id:54663955})$locations"
+        },
+        "id": 54663955,
+        "matchData": {
+          "href": "Tournament({id:54663955})$matchData"
+        },
+        "lodgingPublished": false,
+        "foodPublished": false,
+        "lotCategories": {
+          "href": "Tournament({id:54663955})$lotCategories"
+        },
+        "regCategories": {
+          "href": "Tournament({id:54663955})$regCategories"
+        },
+        "fullname": "TSS Football Tournament 2025",
+        "publicResultsUrl": "https://tssfootballtournament.cupmanager.net/2025,en/result/",
+        "refereesPublic": false,
+        "showUnscheduledGames": true,
+        "teamMapPublished": false,
+        "dormsPublished": false,
+        "cupPassPublished": false,
+        "transportArrivalPublished": false,
+        "transportDeparturePublished": false,
+        "hasStatistics": true,
+        "hasPlayerStatistics": false,
+        "registeredClubs": {
+          "href": "Tournament({id:54663955})$registeredClubs"
+        },
+        "finishedMatches": {
+          "href": "Tournament({id:54663955})$finishedMatches"
+        },
+        "comingMatches": {
+          "href": "Tournament({id:54663955})$comingMatches"
+        },
+        "liveMatches": {
+          "href": "Tournament({id:54663955})$liveMatches"
+        },
+        "readyFinalMatches": {
+          "href": "Tournament({id:54663955})$readyFinalMatches"
+        },
+        "teamHighscore": {
+          "href": "Tournament({id:54663955})$teamHighscore"
+        },
+        "teamsPublished": false,
+        "streamingInfo": {
+          "href": "Tournament({id:54663955})$streamingInfo"
+        },
+        "botCommentScheme": "happy",
+        "league": false,
+        "referees": {
+          "href": "Tournament({id:54663955})$referees"
+        },
+        "schedulePublished": true,
+        "refereesPublished": false,
+        "mapPublished": false,
+        "lotPublished": true,
+        "clubsPublished": false,
+        "international": true,
+        "nations": {
+          "href": "Tournament({id:54663955})$nations"
+        },
+        "cup": {
+          "href": "Cup({id:51104008})"
+        },
+        "edition": {
+          "href": "Edition({id:54663946})"
+        },
+        "subcup": {
+          "href": "SubCup({id:51104017})"
+        },
+        "finals": {
+          "href": "Tournament({id:54663955})$finals"
+        },
+        "arenas": {
+          "href": "Tournament({id:54663955})$arenas"
+        },
+        "teamCountPublished": false,
+        "matchProtests": false,
+        "onlineCheckinOpen": false
+      },
+      "auditResolveTime": 0.006752
+    },
+    "Arena({id:51182646,tid:54663955})": {
+      "cachetags": [
+        {
+          "taint": [
+            "location"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Arena",
+        "days": {
+          "href": "Arena({id:51182646,tid:54663955})$days"
+        },
+        "fieldName": "2",
+        "id": 51182646,
+        "location": {
+          "href": "Location({id:51182643,tid:54663955})"
+        },
+        "liveMatch": {
+          "href": "Arena({id:51182646,tid:54663955})$liveMatch"
+        },
+        "completeName": "The Southport School 2",
+        "liveScreenUrl": "https://tssfootballtournament.cupmanager.net/54663946,wrap=clean/result/matchWidget/51182646"
+      },
+      "auditResolveTime": 0.010431
+    },
+    "Stage({categoryId:54663957,stageId:54663952,tournamentId:54663955})": {
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Stage",
+        "category": {
+          "href": "Category({categoryId:54663957,tournamentId:54663955})"
+        },
+        "name": "Group play",
+        "type": "conference",
+        "matches": {
+          "href": "Stage({categoryId:54663957,stageId:54663952,tournamentId:54663955})$matches"
+        },
+        "id": 54663952,
+        "previousStages": {
+          "href": "Stage({categoryId:54663957,stageId:54663952,tournamentId:54663955})$previousStages"
+        },
+        "nextStages": {
+          "href": "Stage({categoryId:54663957,stageId:54663952,tournamentId:54663955})$nextStages"
+        },
+        "realTeams": {
+          "href": "Stage({categoryId:54663957,stageId:54663952,tournamentId:54663955})$realTeams"
+        },
+        "stageTeamConferences": {
+          "href": "Stage({categoryId:54663957,stageId:54663952,tournamentId:54663955})$stageTeamConferences"
+        },
+        "isSingleConference": false,
+        "periodLengths": [
+          20,
+          20
+        ],
+        "schedulePublished": true,
+        "statistics": {
+          "href": "Stage({categoryId:54663957,stageId:54663952,tournamentId:54663955})$statistics"
+        },
+        "lotPublished": true,
+        "teams": {
+          "href": "Stage({categoryId:54663957,stageId:54663952,tournamentId:54663955})$teams"
+        },
+        "rankings": {
+          "href": "Stage({categoryId:54663957,stageId:54663952,tournamentId:54663955})$rankings"
+        },
+        "categoryId": 54663957,
+        "pseudoStageTeams": {
+          "href": "Stage({categoryId:54663957,stageId:54663952,tournamentId:54663955})$pseudoStageTeams"
+        },
+        "divisions": {
+          "href": "Stage({categoryId:54663957,stageId:54663952,tournamentId:54663955})$divisions"
+        },
+        "rank": 1
+      },
+      "auditResolveTime": 0.073265
+    },
+    "NameClub({id:61961863})": {
+      "cachetags": [
+        {
+          "taint": [
+            "nameClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "NameClub",
+        "description": {
+          "href": "NameClub({id:61961863})$description"
+        },
+        "name": "Takapuna Grammar School",
+        "id": 61961863,
+        "address": {
+          "href": "Address({eid:61961863})"
+        },
+        "matchesExcelUrl": {
+          "href": "NameClub({id:61961863})$matchesExcelUrl"
+        },
+        "matchesCalendarUrl": {
+          "href": "NameClub({id:61961863})$matchesCalendarUrl"
+        },
+        "registeredTeams": {
+          "href": "NameClub({id:61961863})$registeredTeams"
+        },
+        "shirt": {
+          "href": "NameClub({id:61961863})$shirt"
+        },
+        "nation": {
+          "href": "Nation({id:164})"
+        }
+      },
+      "auditResolveTime": 0.00891
+    },
+    "Stage({categoryId:54663962,stageId:54663953,tournamentId:54663955})$rankings": {
+      "cachetags": [
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62580531
+          ],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62580531
+          ],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62580677
+          ],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62580677
+          ],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62580688
+          ],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62580688
+          ],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62580706
+          ],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "cachedmatch",
+            "cachedmatch_state_id"
+          ],
+          "cupId": 51104008,
+          "ids": [
+            62580706
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": [
+        {
+          "__typename": "Stage$StageRankingPlace_MatchStatus",
+          "rank": 1,
+          "team": {
+            "href": "Team({id:62186334})"
+          },
+          "match": {
+            "href": "Match({id:62580531})"
+          },
+          "status": "win"
+        },
+        {
+          "__typename": "Stage$StageRankingPlace_MatchStatus",
+          "rank": 2,
+          "team": {
+            "href": "Team({id:61962652})"
+          },
+          "match": {
+            "href": "Match({id:62580531})"
+          },
+          "status": "loss"
+        },
+        {
+          "__typename": "Stage$StageRankingPlace_MatchStatus",
+          "rank": 3,
+          "match": {
+            "href": "Match({id:62580677})"
+          },
+          "status": "win"
+        },
+        {
+          "__typename": "Stage$StageRankingPlace_MatchStatus",
+          "rank": 4,
+          "match": {
+            "href": "Match({id:62580677})"
+          },
+          "status": "loss"
+        },
+        {
+          "__typename": "Stage$StageRankingPlace_MatchStatus",
+          "rank": 5,
+          "team": {
+            "href": "Team({id:62186333})"
+          },
+          "match": {
+            "href": "Match({id:62580688})"
+          },
+          "status": "win"
+        },
+        {
+          "__typename": "Stage$StageRankingPlace_MatchStatus",
+          "rank": 6,
+          "team": {
+            "href": "Team({id:62186272})"
+          },
+          "match": {
+            "href": "Match({id:62580688})"
+          },
+          "status": "loss"
+        },
+        {
+          "__typename": "Stage$StageRankingPlace_MatchStatus",
+          "rank": 7,
+          "match": {
+            "href": "Match({id:62580706})"
+          },
+          "status": "win"
+        },
+        {
+          "__typename": "Stage$StageRankingPlace_MatchStatus",
+          "rank": 8,
+          "match": {
+            "href": "Match({id:62580706})"
+          },
+          "status": "loss"
+        }
+      ],
+      "auditResolveTime": 0.00208
+    },
+    "NameClub({id:61942069})": {
+      "cachetags": [
+        {
+          "taint": [
+            "nameClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "NameClub",
+        "description": {
+          "href": "NameClub({id:61942069})$description"
+        },
+        "name": "Melbourne Grammar School",
+        "id": 61942069,
+        "address": {
+          "href": "Address({eid:61942069})"
+        },
+        "matchesExcelUrl": {
+          "href": "NameClub({id:61942069})$matchesExcelUrl"
+        },
+        "matchesCalendarUrl": {
+          "href": "NameClub({id:61942069})$matchesCalendarUrl"
+        },
+        "registeredTeams": {
+          "href": "NameClub({id:61942069})$registeredTeams"
+        },
+        "shirt": {
+          "href": "NameClub({id:61942069})$shirt"
+        },
+        "nation": {
+          "href": "Nation({id:25})"
+        }
+      },
+      "auditResolveTime": 0.013477
+    },
+    "Arena({id:51182648,tid:54663955})": {
+      "cachetags": [
+        {
+          "taint": [
+            "location"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Arena",
+        "days": {
+          "href": "Arena({id:51182648,tid:54663955})$days"
+        },
+        "fieldName": "4",
+        "id": 51182648,
+        "location": {
+          "href": "Location({id:51182643,tid:54663955})"
+        },
+        "liveMatch": {
+          "href": "Arena({id:51182648,tid:54663955})$liveMatch"
+        },
+        "completeName": "The Southport School 4",
+        "liveScreenUrl": "https://tssfootballtournament.cupmanager.net/54663946,wrap=clean/result/matchWidget/51182648"
+      },
+      "auditResolveTime": 0.015144
+    },
+    "Team({id:62186272})": {
+      "cachetags": [
+        {
+          "taint": [
+            "general"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        },
+        {
+          "taint": [
+            "nameClub",
+            "registrationClub"
+          ],
+          "cupId": 51104008,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Team",
+        "category": {
+          "href": "Category({categoryId:54663962,tournamentId:54663955})"
+        },
+        "description": {
+          "href": "Team({id:62186272})$description"
+        },
+        "name": {
+          "__typename": "Team$TeamName",
+          "fullName": "Toowoomba Grammar School U15",
+          "suffix": "",
+          "clubName": "Toowoomba Grammar School",
+          "categoryName": "U15"
+        },
+        "matches": {
+          "href": "Team({id:62186272})$matches"
+        },
+        "id": 62186272,
+        "timeline": {
+          "href": "Team({id:62186272})$timeline"
+        },
+        "matchesExcelUrl": {
+          "href": "Team({id:62186272})$matchesExcelUrl"
+        },
+        "registrator": {
+          "href": "Team({id:62186272})$registrator"
+        },
+        "matchesCalendarUrl": {
+          "href": "Team({id:62186272})$matchesCalendarUrl"
+        },
+        "leaderNames": {
+          "href": "Team({id:62186272})$leaderNames"
+        },
+        "statistics": {
+          "href": "Team({id:62186272})$statistics"
+        },
+        "shirt": {
+          "href": "Team({id:62186272})$shirt"
+        },
+        "clubLogoUrl": "",
+        "awards": {
+          "href": "Team({id:62186272})$awards"
+        },
+        "extraMatches": {
+          "href": "Team({id:62186272})$extraMatches"
+        },
+        "divisions": {
+          "href": "Team({id:62186272})$divisions"
+        },
+        "club": {
+          "href": "NameClub({id:62186049})"
+        },
+        "registrationNumber": {
+          "href": "Team({id:62186272})$registrationNumber"
+        },
+        "accommodation": {
+          "href": "Team({id:62186272})$accommodation"
+        },
+        "timelineForLeader": {
+          "href": "Team({id:62186272})$timelineForLeader"
+        }
+      },
+      "auditResolveTime": 0.022087
+    },
+    "Stage({categoryId:54663957,stageId:54663952,tournamentId:54663955})$rankings": {
+      "cachetags": [],
+      "entity": [],
+      "auditResolveTime": 0.005774
+    }
+  },
+  "status": 200,
+  "totalTime": 577.41931
+}

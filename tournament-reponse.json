@@ -1,0 +1,195 @@
+{
+  "responses": {
+    "Me({optionalCupId:null})$cups": {
+      "entity": [
+        {
+          "__typename": "Me$MeCup",
+          "cupId": 42747557,
+          "cup": {
+            "href": "Cup({id:42747557})"
+          },
+          "isAdmin": false,
+          "myMatchesLink": {
+            "__typename": "Me$UrlObject",
+            "absolute": "https://youthsupercup.com.au/2026/result/my-matches",
+            "path": "/my-matches"
+          }
+        }
+      ],
+      "auditResolveTime": 0.226659
+    },
+    "Cup({id:42747557})": {
+      "cachetags": [
+        {
+          "taint": [
+            "cup",
+            "cup_id"
+          ],
+          "cupId": 42747557,
+          "ids": [
+            42747557
+          ],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Cup",
+        "currencyCode": "AUD",
+        "name": "Youth Super Cup",
+        "id": 42747557,
+        "modules": {
+          "registrationAgents": false,
+          "onlinePayments": true,
+          "referee": true,
+          "teamPages": true,
+          "refereeChanges": false,
+          "fairPlayPoints": false,
+          "agecheck": false,
+          "arrivalPresets": false,
+          "teamApplet": false,
+          "vat": false,
+          "myteam_app": false,
+          "clubLogo": true,
+          "checkin": true,
+          "roundSchedule": false,
+          "refereeCheckin": false,
+          "parentsAddPlayers": true,
+          "klarna": false,
+          "teamScheduling": false,
+          "swish": false,
+          "associationRegister": true,
+          "superinvite": false,
+          "international": true,
+          "transportPlanner": false,
+          "cuppass": false,
+          "live": false,
+          "advertisers": false,
+          "refereeReports": true,
+          "regman": true,
+          "onlineCheckin": false,
+          "bankfileImport": false,
+          "playerList": false,
+          "downPayment": false,
+          "searchPage": true,
+          "simple": false,
+          "multipleCurrencies": false,
+          "transit": false,
+          "teamAccount": false,
+          "refereeRegister": false,
+          "images": true,
+          "jregp": false,
+          "nothingness": false,
+          "inbox": true,
+          "matchPlayers": false,
+          "teamMessaging": false,
+          "playerStatistics": false,
+          "playerLeaderCards": false,
+          "bookingGroups": false,
+          "invoices": false,
+          "transport": false,
+          "manualSMS": false,
+          "referral": false,
+          "league": false,
+          "jreg": true,
+          "invoicesPerSubCup": false,
+          "socialapp": false,
+          "newLotWizard": false,
+          "mapOverview": true,
+          "webshop": true,
+          "arenaPages": true,
+          "refereePayouts": false,
+          "livePhones": false,
+          "lodging": true,
+          "chooseLodging": false,
+          "refereeReviews": false,
+          "players": true,
+          "lodgingPersons": false,
+          "all": true,
+          "bookkeeping": false,
+          "matchProtests": false,
+          "registeredTeams": true,
+          "sms": false,
+          "statistics": true,
+          "noVatLimit": false,
+          "teamFund": false,
+          "gameTemplates": true,
+          "lodgingSchedule": false,
+          "app": false
+        },
+        "timeZoneId": "Australia/Melbourne",
+        "editions": {
+          "href": "Cup({id:42747557})$editions"
+        },
+        "website": {
+          "href": "Website({id:42748012})"
+        },
+        "imageFilter": "willow",
+        "primaryColor": {
+          "__typename": "Cup$Color",
+          "r": 196,
+          "g": 166,
+          "b": 87
+        },
+        "defaultLanguage": {
+          "href": "Language({id:12})"
+        },
+        "secondaryColor": {
+          "__typename": "Cup$Color",
+          "r": 196,
+          "g": 166,
+          "b": 87
+        },
+        "heroImage": "https://static.cupmanager.net/uploads/M/W/jM3/img_5234,crop277x123x576x877,1200-.jpeg",
+        "loginUrl": "https://youthsupercup.com.au/reg/profile?logout=true"
+      },
+      "auditResolveTime": 0.010232
+    },
+    "Me({optionalCupId:null})": {
+      "cachetags": [
+        {
+          "taint": [
+            "persistant"
+          ],
+          "cupId": 42747557,
+          "ids": [],
+          "queryId": 0
+        }
+      ],
+      "entity": {
+        "__typename": "Me",
+        "teams": [],
+        "cups": {
+          "href": "Me({optionalCupId:null})$cups"
+        },
+        "setInteractionName": {
+          "href": "Me({optionalCupId:null})$setInteractionName"
+        },
+        "addFavoriteTeam": {
+          "href": "Me({optionalCupId:null})$addFavoriteTeam"
+        },
+        "removeFavoriteTeam": {
+          "href": "Me({optionalCupId:null})$removeFavoriteTeam"
+        },
+        "addCupPassTeam": {
+          "href": "Me({optionalCupId:null})$addCupPassTeam"
+        },
+        "removeCupPassTeam": {
+          "href": "Me({optionalCupId:null})$removeCupPassTeam"
+        },
+        "likeEvent": {
+          "href": "Me({optionalCupId:null})$likeEvent"
+        },
+        "unlikeEvent": {
+          "href": "Me({optionalCupId:null})$unlikeEvent"
+        },
+        "addMatchComment": {
+          "href": "Me({optionalCupId:null})$addMatchComment"
+        },
+        "likedIds": []
+      },
+      "auditResolveTime": 0.004236
+    }
+  },
+  "status": 200,
+  "totalTime": 3.198944
+}

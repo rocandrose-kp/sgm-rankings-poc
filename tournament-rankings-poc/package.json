@@ -1,0 +1,19 @@
+{
+  "name": "tournament-rankings-poc",
+  "version": "1.0.0",
+  "description": "POC for tournament rankings and club scoring system",
+  "main": "dist/demo/runDemo.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "npm run build && node dist/demo/runDemo.js",
+    "dev": "ts-node src/demo/runDemo.ts"
+  },
+  "keywords": ["tournament", "rankings", "scoring"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0"
+  }
+}

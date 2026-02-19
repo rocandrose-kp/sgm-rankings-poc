@@ -1,0 +1,2903 @@
+[
+  {
+    "tournamentId": "61805002",
+    "tournamentName": "Shepparton Cup",
+    "season": "2025",
+    "results": [
+      {
+        "categoryId": "61805050",
+        "categoryName": "U12/13 GIRLS (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "65976870",
+          "teamName": "PRO STAR FOOTBALL U12/13 GIRLS (9v9)",
+          "clubId": "pro_star_football",
+          "clubName": "PRO STAR FOOTBALL"
+        },
+        "matches": [
+          {
+            "opponent": "Keilor Park SC U12",
+            "opponentId": "65631723",
+            "homeGoals": 0,
+            "awayGoals": 5,
+            "isHome": false,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805050",
+        "categoryName": "U12/13 GIRLS (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "65631723",
+          "teamName": "Keilor Park SC U12/13 GIRLS (9v9) U12",
+          "clubId": "keilor_park_sc",
+          "clubName": "Keilor Park SC"
+        },
+        "matches": [
+          {
+            "opponent": "PRO STAR FOOTBALL",
+            "opponentId": "65976870",
+            "homeGoals": 0,
+            "awayGoals": 5,
+            "isHome": true,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805028",
+        "categoryName": "U13 BOYS COPA (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "67528733",
+          "teamName": "Altona North SC U13 COPA (9v9) Masnou",
+          "clubId": "altona_north_sc",
+          "clubName": "Altona North SC"
+        },
+        "matches": [
+          {
+            "opponent": "Red Sea",
+            "opponentId": "69643563",
+            "homeGoals": 5,
+            "awayGoals": 4,
+            "isHome": true,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805028",
+        "categoryName": "U13 BOYS COPA (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "69643563",
+          "teamName": "Red Sea U13 COPA (9v9)",
+          "clubId": "red_sea",
+          "clubName": "Red Sea"
+        },
+        "matches": [
+          {
+            "opponent": "Altona North SC Masnou",
+            "opponentId": "67528733",
+            "homeGoals": 5,
+            "awayGoals": 4,
+            "isHome": false,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805034",
+        "categoryName": "U14 BOYS LIGA (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "69005246",
+          "teamName": "Roxburgh Park United U14 Liga (11v11) U14",
+          "clubId": "roxburgh_park_united",
+          "clubName": "Roxburgh Park United"
+        },
+        "matches": [
+          {
+            "opponent": "Fawkner SC",
+            "opponentId": "66172729",
+            "homeGoals": 0,
+            "awayGoals": 1,
+            "isHome": false,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805034",
+        "categoryName": "U14 BOYS LIGA (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "66172729",
+          "teamName": "Fawkner SC U14 Liga (11v11)",
+          "clubId": "fawkner_sc",
+          "clubName": "Fawkner SC"
+        },
+        "matches": [
+          {
+            "opponent": "Roxburgh Park United U14",
+            "opponentId": "69005246",
+            "homeGoals": 0,
+            "awayGoals": 1,
+            "isHome": true,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805052",
+        "categoryName": "U14-U16 GIRLS (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "70217198",
+          "teamName": "Northern Football U14-U16 GIRLS (11v11)",
+          "clubId": "northern_football",
+          "clubName": "Northern Football"
+        },
+        "matches": [
+          {
+            "opponent": "Knox City FC",
+            "opponentId": "69522698",
+            "homeGoals": 2,
+            "awayGoals": 1,
+            "isHome": true,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": true
+          }
+        ]
+      },
+      {
+        "categoryId": "61805052",
+        "categoryName": "U14-U16 GIRLS (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "69522698",
+          "teamName": "Knox City FC U14-U16 GIRLS (11v11)",
+          "clubId": "knox_city_fc",
+          "clubName": "Knox City FC"
+        },
+        "matches": [
+          {
+            "opponent": "Northern Football",
+            "opponentId": "70217198",
+            "homeGoals": 2,
+            "awayGoals": 1,
+            "isHome": false,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": true
+          }
+        ]
+      },
+      {
+        "categoryId": "61805041",
+        "categoryName": "U16/U17 BOYS (11v11)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "71421411",
+          "teamName": "Brunswick Juventus U16/U17 BOYS (11v11)",
+          "clubId": "brunswick_juventus",
+          "clubName": "Brunswick Juventus"
+        },
+        "matches": [
+          {
+            "opponent": "Lane Cove West FC",
+            "opponentId": "67914107",
+            "homeGoals": 0,
+            "awayGoals": 2,
+            "isHome": false,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805041",
+        "categoryName": "U16/U17 BOYS (11v11)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "67914107",
+          "teamName": "Lane Cove West FC U16/U17 BOYS (11v11)",
+          "clubId": "lane_cove_west_fc",
+          "clubName": "Lane Cove West FC"
+        },
+        "matches": [
+          {
+            "opponent": "Brunswick Juventus",
+            "opponentId": "71421411",
+            "homeGoals": 0,
+            "awayGoals": 2,
+            "isHome": true,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805052",
+        "categoryName": "U14-U16 GIRLS (11v11)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "68826164",
+          "teamName": "Keilor Park SC U14-U16 GIRLS (11v11)",
+          "clubId": "keilor_park_sc",
+          "clubName": "Keilor Park SC"
+        },
+        "matches": [
+          {
+            "opponent": "Barwon SC",
+            "opponentId": "67466530",
+            "homeGoals": 0,
+            "awayGoals": 2,
+            "isHome": false,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805052",
+        "categoryName": "U14-U16 GIRLS (11v11)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "67466530",
+          "teamName": "Barwon SC U14-U16 GIRLS (11v11)",
+          "clubId": "barwon_sc",
+          "clubName": "Barwon SC"
+        },
+        "matches": [
+          {
+            "opponent": "Keilor Park SC",
+            "opponentId": "68826164",
+            "homeGoals": 0,
+            "awayGoals": 2,
+            "isHome": true,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805032",
+        "categoryName": "U14 BOYS COPA (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "67135324",
+          "teamName": "YTSSC U14 BOYS COPA (11v11)",
+          "clubId": "ytssc",
+          "clubName": "YTSSC"
+        },
+        "matches": [
+          {
+            "opponent": "RH3 Academy White",
+            "opponentId": "66198337",
+            "homeGoals": 1,
+            "awayGoals": 2,
+            "isHome": false,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": true
+          }
+        ]
+      },
+      {
+        "categoryId": "61805032",
+        "categoryName": "U14 BOYS COPA (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "66198337",
+          "teamName": "RH3 Academy U14 BOYS COPA (11v11) White",
+          "clubId": "rh3_academy",
+          "clubName": "RH3 Academy"
+        },
+        "matches": [
+          {
+            "opponent": "YTSSC",
+            "opponentId": "67135324",
+            "homeGoals": 1,
+            "awayGoals": 2,
+            "isHome": true,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": true
+          }
+        ]
+      },
+      {
+        "categoryId": "61805008",
+        "categoryName": "U9 COPA (7v7)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "67528719",
+          "teamName": "Altona North SC U9 COPA (7v7) Masnou",
+          "clubId": "altona_north_sc",
+          "clubName": "Altona North SC"
+        },
+        "matches": [
+          {
+            "opponent": "Keilor Park SC (Steve)",
+            "opponentId": "65472630",
+            "homeGoals": 0,
+            "awayGoals": 1,
+            "isHome": false,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": true
+          }
+        ]
+      },
+      {
+        "categoryId": "61805008",
+        "categoryName": "U9 COPA (7v7)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "65472630",
+          "teamName": "Keilor Park SC U9 COPA (7v7) (Steve)",
+          "clubId": "keilor_park_sc",
+          "clubName": "Keilor Park SC"
+        },
+        "matches": [
+          {
+            "opponent": "Altona North SC Masnou",
+            "opponentId": "67528719",
+            "homeGoals": 0,
+            "awayGoals": 1,
+            "isHome": true,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": true
+          }
+        ]
+      },
+      {
+        "categoryId": "61805050",
+        "categoryName": "U12/13 GIRLS (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "68088925",
+          "teamName": "Ballarat City FC U12/13 GIRLS (9v9) U13",
+          "clubId": "ballarat_city_fc",
+          "clubName": "Ballarat City FC"
+        },
+        "matches": [
+          {
+            "opponent": "Shepparton JSA",
+            "opponentId": "66490225",
+            "homeGoals": 0,
+            "awayGoals": 2,
+            "isHome": false,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805050",
+        "categoryName": "U12/13 GIRLS (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "66490225",
+          "teamName": "Shepparton JSA U12/13 GIRLS (9v9)",
+          "clubId": "shepparton_jsa",
+          "clubName": "Shepparton JSA"
+        },
+        "matches": [
+          {
+            "opponent": "Ballarat City FC U13",
+            "opponentId": "68088925",
+            "homeGoals": 0,
+            "awayGoals": 2,
+            "isHome": true,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805010",
+        "categoryName": "U9 LIGA (7v7)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "66241682",
+          "teamName": "Avondale FC U9 LIGA (7v7)",
+          "clubId": "avondale_fc",
+          "clubName": "Avondale FC"
+        },
+        "matches": [
+          {
+            "opponent": "Cobram Junior SA",
+            "opponentId": "67384358",
+            "homeGoals": 0,
+            "awayGoals": 2,
+            "isHome": false,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805010",
+        "categoryName": "U9 LIGA (7v7)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "67384358",
+          "teamName": "Cobram Junior SA U9 LIGA (7v7)",
+          "clubId": "cobram_junior_sa",
+          "clubName": "Cobram Junior SA"
+        },
+        "matches": [
+          {
+            "opponent": "Avondale FC",
+            "opponentId": "66241682",
+            "homeGoals": 0,
+            "awayGoals": 2,
+            "isHome": true,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805047",
+        "categoryName": "U10/11 GIRLS (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "72240770",
+          "teamName": "Moonee Ponds Utd SC U10/11 GIRLS (9v9) MPUSC u10G",
+          "clubId": "moonee_ponds_utd_sc",
+          "clubName": "Moonee Ponds Utd SC"
+        },
+        "matches": [
+          {
+            "opponent": "Futbal First",
+            "opponentId": "65392653",
+            "homeGoals": 2,
+            "awayGoals": 0,
+            "isHome": true,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805047",
+        "categoryName": "U10/11 GIRLS (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "65392653",
+          "teamName": "Futbal First U10/11 GIRLS (9v9)",
+          "clubId": "futbal_first",
+          "clubName": "Futbal First"
+        },
+        "matches": [
+          {
+            "opponent": "Moonee Ponds Utd SC MPUSC u10G",
+            "opponentId": "72240770",
+            "homeGoals": 2,
+            "awayGoals": 0,
+            "isHome": false,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805004",
+        "categoryName": "U8 COPA (7v7)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "65976651",
+          "teamName": "Elite Football Academy U8 COPA (7v7) Agustin",
+          "clubId": "elite_football_academy",
+          "clubName": "Elite Football Academy"
+        },
+        "matches": [
+          {
+            "opponent": "Glen Eira FC 1 Blue",
+            "opponentId": "65428820",
+            "homeGoals": 5,
+            "awayGoals": 4,
+            "isHome": true,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805004",
+        "categoryName": "U8 COPA (7v7)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "65428820",
+          "teamName": "Glen Eira FC U8 COPA (7v7) 1 Blue",
+          "clubId": "glen_eira_fc",
+          "clubName": "Glen Eira FC"
+        },
+        "matches": [
+          {
+            "opponent": "Elite Football Academy Agustin",
+            "opponentId": "65976651",
+            "homeGoals": 5,
+            "awayGoals": 4,
+            "isHome": false,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805020",
+        "categoryName": "U12 COPA (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "65429036",
+          "teamName": "Elite Football Academy U12 COPA (9v9)",
+          "clubId": "elite_football_academy",
+          "clubName": "Elite Football Academy"
+        },
+        "matches": [
+          {
+            "opponent": "St Albans Dinamo",
+            "opponentId": "65976903",
+            "homeGoals": 0,
+            "awayGoals": 2,
+            "isHome": false,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805020",
+        "categoryName": "U12 COPA (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "65976903",
+          "teamName": "St Albans Dinamo U12 COPA (9v9)",
+          "clubId": "st_albans_dinamo",
+          "clubName": "St Albans Dinamo"
+        },
+        "matches": [
+          {
+            "opponent": "Elite Football Academy",
+            "opponentId": "65429036",
+            "homeGoals": 0,
+            "awayGoals": 2,
+            "isHome": true,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805018",
+        "categoryName": "U11 LIGA (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "65631754",
+          "teamName": "Caroline Springs George Cross U11 LIGA (9v9)",
+          "clubId": "caroline_springs_george_cross",
+          "clubName": "Caroline Springs George Cross"
+        },
+        "matches": [
+          {
+            "opponent": "Kyneton District SC",
+            "opponentId": "66277866",
+            "homeGoals": 2,
+            "awayGoals": 1,
+            "isHome": true,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805018",
+        "categoryName": "U11 LIGA (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "66277866",
+          "teamName": "Kyneton District SC U11 LIGA (9v9)",
+          "clubId": "kyneton_district_sc",
+          "clubName": "Kyneton District SC"
+        },
+        "matches": [
+          {
+            "opponent": "Caroline Springs George Cross",
+            "opponentId": "65631754",
+            "homeGoals": 2,
+            "awayGoals": 1,
+            "isHome": false,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805041",
+        "categoryName": "U16/U17 BOYS (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "69309343",
+          "teamName": "Red Sea U16/U17 BOYS (11v11)",
+          "clubId": "red_sea",
+          "clubName": "Red Sea"
+        },
+        "matches": [
+          {
+            "opponent": "YTSSC",
+            "opponentId": "67135328",
+            "homeGoals": 2,
+            "awayGoals": 1,
+            "isHome": true,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805041",
+        "categoryName": "U16/U17 BOYS (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "67135328",
+          "teamName": "YTSSC U16/U17 BOYS (11v11)",
+          "clubId": "ytssc",
+          "clubName": "YTSSC"
+        },
+        "matches": [
+          {
+            "opponent": "Red Sea",
+            "opponentId": "69309343",
+            "homeGoals": 2,
+            "awayGoals": 1,
+            "isHome": false,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805008",
+        "categoryName": "U9 COPA (7v7)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "72856789",
+          "teamName": "Keysborough SC U9 COPA (7v7)",
+          "clubId": "keysborough_sc",
+          "clubName": "Keysborough SC"
+        },
+        "matches": [
+          {
+            "opponent": "Red Sea",
+            "opponentId": "70605758",
+            "homeGoals": 0,
+            "awayGoals": 2,
+            "isHome": false,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805008",
+        "categoryName": "U9 COPA (7v7)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "70605758",
+          "teamName": "Red Sea U9 COPA (7v7)",
+          "clubId": "red_sea",
+          "clubName": "Red Sea"
+        },
+        "matches": [
+          {
+            "opponent": "Keysborough SC",
+            "opponentId": "72856789",
+            "homeGoals": 0,
+            "awayGoals": 2,
+            "isHome": true,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805030",
+        "categoryName": "U13 BOYS LIGA (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "66134124",
+          "teamName": "Sydenham Park SC U13 LIGA (9v9)",
+          "clubId": "sydenham_park_sc",
+          "clubName": "Sydenham Park SC"
+        },
+        "matches": [
+          {
+            "opponent": "Deniliquin District SC",
+            "opponentId": "69738910",
+            "homeGoals": 3,
+            "awayGoals": 1,
+            "isHome": true,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": true
+          }
+        ]
+      },
+      {
+        "categoryId": "61805030",
+        "categoryName": "U13 BOYS LIGA (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "69738910",
+          "teamName": "Deniliquin District SC U13 LIGA (9v9)",
+          "clubId": "deniliquin_district_sc",
+          "clubName": "Deniliquin District SC"
+        },
+        "matches": [
+          {
+            "opponent": "Sydenham Park SC",
+            "opponentId": "66134124",
+            "homeGoals": 3,
+            "awayGoals": 1,
+            "isHome": false,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": true
+          }
+        ]
+      },
+      {
+        "categoryId": "61805014",
+        "categoryName": "U10 LIGA (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "65977080",
+          "teamName": "Greenvale United - F9 FOOTBALL ACADEMY U10 LIGA (9v9) Fale Nine Football Academy",
+          "clubId": "greenvale_united_-_f9_football_academy",
+          "clubName": "Greenvale United - F9 FOOTBALL ACADEMY"
+        },
+        "matches": [
+          {
+            "opponent": "St Albans Dinamo",
+            "opponentId": "65431140",
+            "homeGoals": 4,
+            "awayGoals": 1,
+            "isHome": true,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": true
+          }
+        ]
+      },
+      {
+        "categoryId": "61805014",
+        "categoryName": "U10 LIGA (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "65431140",
+          "teamName": "St Albans Dinamo U10 LIGA (9v9)",
+          "clubId": "st_albans_dinamo",
+          "clubName": "St Albans Dinamo"
+        },
+        "matches": [
+          {
+            "opponent": "Greenvale United - F9 FOOTBALL ACADEMY Fale Nine Football Academy",
+            "opponentId": "65977080",
+            "homeGoals": 4,
+            "awayGoals": 1,
+            "isHome": false,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": true
+          }
+        ]
+      },
+      {
+        "categoryId": "61805039",
+        "categoryName": "U15 BOYS (11v11)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "67569284",
+          "teamName": "Williamstown SC U15 BOYS (11v11)",
+          "clubId": "williamstown_sc",
+          "clubName": "Williamstown SC"
+        },
+        "matches": [
+          {
+            "opponent": "Murray United FC",
+            "opponentId": "69968783",
+            "homeGoals": 1,
+            "awayGoals": 2,
+            "isHome": false,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805039",
+        "categoryName": "U15 BOYS (11v11)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "69968783",
+          "teamName": "Murray United FC U15 BOYS (11v11)",
+          "clubId": "murray_united_fc",
+          "clubName": "Murray United FC"
+        },
+        "matches": [
+          {
+            "opponent": "Williamstown SC",
+            "opponentId": "67569284",
+            "homeGoals": 1,
+            "awayGoals": 2,
+            "isHome": true,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805012",
+        "categoryName": "U10 COPA (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "65667911",
+          "teamName": "Werribee City FC U10 COPA (9v9)",
+          "clubId": "werribee_city_fc",
+          "clubName": "Werribee City FC"
+        },
+        "matches": [
+          {
+            "opponent": "Essendon Royals",
+            "opponentId": "65495966",
+            "homeGoals": 3,
+            "awayGoals": 5,
+            "isHome": false,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805012",
+        "categoryName": "U10 COPA (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "65495966",
+          "teamName": "Essendon Royals U10 COPA (9v9)",
+          "clubId": "essendon_royals",
+          "clubName": "Essendon Royals"
+        },
+        "matches": [
+          {
+            "opponent": "Werribee City FC",
+            "opponentId": "65667911",
+            "homeGoals": 3,
+            "awayGoals": 5,
+            "isHome": true,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805045",
+        "categoryName": "U8/9 GIRLS (7v7)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "66992772",
+          "teamName": "Keilor Park SC U8/9 GIRLS (7v7) Girls",
+          "clubId": "keilor_park_sc",
+          "clubName": "Keilor Park SC"
+        },
+        "matches": [
+          {
+            "opponent": "Murray United FC U9 Girls",
+            "opponentId": "69862171",
+            "homeGoals": 5,
+            "awayGoals": 0,
+            "isHome": true,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805045",
+        "categoryName": "U8/9 GIRLS (7v7)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "69862171",
+          "teamName": "Murray United FC U8/9 GIRLS (7v7) U9 Girls",
+          "clubId": "murray_united_fc",
+          "clubName": "Murray United FC"
+        },
+        "matches": [
+          {
+            "opponent": "Keilor Park SC Girls",
+            "opponentId": "66992772",
+            "homeGoals": 5,
+            "awayGoals": 0,
+            "isHome": false,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805006",
+        "categoryName": "U8 LIGA (7v7)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "68089134",
+          "teamName": "GV Suns U8 LIGA (7v7) Orange",
+          "clubId": "gv_suns",
+          "clubName": "GV Suns"
+        },
+        "matches": [
+          {
+            "opponent": "Hampton East Brighton",
+            "opponentId": "67441040",
+            "homeGoals": 1,
+            "awayGoals": 2,
+            "isHome": false,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805006",
+        "categoryName": "U8 LIGA (7v7)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "67441040",
+          "teamName": "Hampton East Brighton U8 LIGA (7v7)",
+          "clubId": "hampton_east_brighton",
+          "clubName": "Hampton East Brighton"
+        },
+        "matches": [
+          {
+            "opponent": "GV Suns Orange",
+            "opponentId": "68089134",
+            "homeGoals": 1,
+            "awayGoals": 2,
+            "isHome": true,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805026",
+        "categoryName": "U12 LIGA (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "68089154",
+          "teamName": "GV Suns U12 LIGA (9v9)",
+          "clubId": "gv_suns",
+          "clubName": "GV Suns"
+        },
+        "matches": [
+          {
+            "opponent": "Newport Storm FC Kante",
+            "opponentId": "71136248",
+            "homeGoals": 1,
+            "awayGoals": 2,
+            "isHome": false,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805026",
+        "categoryName": "U12 LIGA (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "71136248",
+          "teamName": "Newport Storm FC U12 LIGA (9v9) Kante",
+          "clubId": "newport_storm_fc",
+          "clubName": "Newport Storm FC"
+        },
+        "matches": [
+          {
+            "opponent": "GV Suns",
+            "opponentId": "68089154",
+            "homeGoals": 1,
+            "awayGoals": 2,
+            "isHome": true,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805034",
+        "categoryName": "U14 BOYS LIGA (11v11)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "67913326",
+          "teamName": "Northcote City FC U14 Liga (11v11)",
+          "clubId": "northcote_city_fc",
+          "clubName": "Northcote City FC"
+        },
+        "matches": [
+          {
+            "opponent": "Berwick City SC",
+            "opponentId": "68067953",
+            "homeGoals": 4,
+            "awayGoals": 5,
+            "isHome": false,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": true
+          }
+        ]
+      },
+      {
+        "categoryId": "61805034",
+        "categoryName": "U14 BOYS LIGA (11v11)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "68067953",
+          "teamName": "Berwick City SC U14 Liga (11v11)",
+          "clubId": "berwick_city_sc",
+          "clubName": "Berwick City SC"
+        },
+        "matches": [
+          {
+            "opponent": "Northcote City FC",
+            "opponentId": "67913326",
+            "homeGoals": 4,
+            "awayGoals": 5,
+            "isHome": true,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": true
+          }
+        ]
+      },
+      {
+        "categoryId": "61805014",
+        "categoryName": "U10 LIGA (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "70082594",
+          "teamName": "Gisborne SC U10 LIGA (9v9) Marco",
+          "clubId": "gisborne_sc",
+          "clubName": "Gisborne SC"
+        },
+        "matches": [
+          {
+            "opponent": "Ballarat Panthers",
+            "opponentId": "66218044",
+            "homeGoals": 0,
+            "awayGoals": 2,
+            "isHome": false,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805014",
+        "categoryName": "U10 LIGA (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "66218044",
+          "teamName": "Ballarat Panthers U10 LIGA (9v9)",
+          "clubId": "ballarat_panthers",
+          "clubName": "Ballarat Panthers"
+        },
+        "matches": [
+          {
+            "opponent": "Gisborne SC Marco",
+            "opponentId": "70082594",
+            "homeGoals": 0,
+            "awayGoals": 2,
+            "isHome": true,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805016",
+        "categoryName": "U11 COPA (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "67528725",
+          "teamName": "Altona North SC U11 COPA (9v9) Oriol",
+          "clubId": "altona_north_sc",
+          "clubName": "Altona North SC"
+        },
+        "matches": [
+          {
+            "opponent": "Oakleigh Cannons Jara",
+            "opponentId": "67440579",
+            "homeGoals": 0,
+            "awayGoals": 2,
+            "isHome": false,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805016",
+        "categoryName": "U11 COPA (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "67440579",
+          "teamName": "Oakleigh Cannons U11 COPA (9v9) Jara",
+          "clubId": "oakleigh_cannons",
+          "clubName": "Oakleigh Cannons"
+        },
+        "matches": [
+          {
+            "opponent": "Altona North SC Oriol",
+            "opponentId": "67528725",
+            "homeGoals": 0,
+            "awayGoals": 2,
+            "isHome": true,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805047",
+        "categoryName": "U10/11 GIRLS (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "66793484",
+          "teamName": "Williams Landing U10/11 GIRLS (9v9)",
+          "clubId": "williams_landing",
+          "clubName": "Williams Landing"
+        },
+        "matches": [
+          {
+            "opponent": "St Albans Dinamo",
+            "opponentId": "66679036",
+            "homeGoals": 1,
+            "awayGoals": 2,
+            "isHome": false,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805047",
+        "categoryName": "U10/11 GIRLS (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "66679036",
+          "teamName": "St Albans Dinamo U10/11 GIRLS (9v9)",
+          "clubId": "st_albans_dinamo",
+          "clubName": "St Albans Dinamo"
+        },
+        "matches": [
+          {
+            "opponent": "Williams Landing",
+            "opponentId": "66793484",
+            "homeGoals": 1,
+            "awayGoals": 2,
+            "isHome": true,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805004",
+        "categoryName": "U8 COPA (7v7)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "72656176",
+          "teamName": "BROXHAM FOOTBALL U8 COPA (7v7) BANDITS",
+          "clubId": "broxham_football",
+          "clubName": "BROXHAM FOOTBALL"
+        },
+        "matches": [
+          {
+            "opponent": "Caroline Springs George Cross",
+            "opponentId": "65977752",
+            "homeGoals": 3,
+            "awayGoals": 2,
+            "isHome": true,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": true
+          }
+        ]
+      },
+      {
+        "categoryId": "61805004",
+        "categoryName": "U8 COPA (7v7)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "65977752",
+          "teamName": "Caroline Springs George Cross U8 COPA (7v7)",
+          "clubId": "caroline_springs_george_cross",
+          "clubName": "Caroline Springs George Cross"
+        },
+        "matches": [
+          {
+            "opponent": "BROXHAM FOOTBALL BANDITS",
+            "opponentId": "72656176",
+            "homeGoals": 3,
+            "awayGoals": 2,
+            "isHome": false,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": true
+          }
+        ]
+      },
+      {
+        "categoryId": "61805028",
+        "categoryName": "U13 BOYS COPA (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "68089156",
+          "teamName": "GV Suns U13 COPA (9v9)",
+          "clubId": "gv_suns",
+          "clubName": "GV Suns"
+        },
+        "matches": [
+          {
+            "opponent": "Avondale FC",
+            "opponentId": "66278542",
+            "homeGoals": 0,
+            "awayGoals": 1,
+            "isHome": false,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805028",
+        "categoryName": "U13 BOYS COPA (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "66278542",
+          "teamName": "Avondale FC U13 COPA (9v9)",
+          "clubId": "avondale_fc",
+          "clubName": "Avondale FC"
+        },
+        "matches": [
+          {
+            "opponent": "GV Suns",
+            "opponentId": "68089156",
+            "homeGoals": 0,
+            "awayGoals": 1,
+            "isHome": true,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805016",
+        "categoryName": "U11 COPA (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "67528727",
+          "teamName": "Altona North SC U11 COPA (9v9) Masnou",
+          "clubId": "altona_north_sc",
+          "clubName": "Altona North SC"
+        },
+        "matches": [
+          {
+            "opponent": "Glen Eira FC 1 Blue",
+            "opponentId": "65428832",
+            "homeGoals": 2,
+            "awayGoals": 0,
+            "isHome": true,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805016",
+        "categoryName": "U11 COPA (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "65428832",
+          "teamName": "Glen Eira FC U11 COPA (9v9) 1 Blue",
+          "clubId": "glen_eira_fc",
+          "clubName": "Glen Eira FC"
+        },
+        "matches": [
+          {
+            "opponent": "Altona North SC Masnou",
+            "opponentId": "67528727",
+            "homeGoals": 2,
+            "awayGoals": 0,
+            "isHome": false,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805006",
+        "categoryName": "U8 LIGA (7v7)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "65532961",
+          "teamName": "Prodigy Futbol Lab U8 LIGA (7v7) Pas",
+          "clubId": "prodigy_futbol_lab",
+          "clubName": "Prodigy Futbol Lab"
+        },
+        "matches": [
+          {
+            "opponent": "Dandenong City",
+            "opponentId": "69017030",
+            "homeGoals": 2,
+            "awayGoals": 0,
+            "isHome": true,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805006",
+        "categoryName": "U8 LIGA (7v7)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "69017030",
+          "teamName": "Dandenong City U8 LIGA (7v7)",
+          "clubId": "dandenong_city",
+          "clubName": "Dandenong City"
+        },
+        "matches": [
+          {
+            "opponent": "Prodigy Futbol Lab Pas",
+            "opponentId": "65532961",
+            "homeGoals": 2,
+            "awayGoals": 0,
+            "isHome": false,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805030",
+        "categoryName": "U13 BOYS LIGA (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "66198339",
+          "teamName": "RH3 Academy U13 LIGA (9v9) Blue",
+          "clubId": "rh3_academy",
+          "clubName": "RH3 Academy"
+        },
+        "matches": [
+          {
+            "opponent": "RH3 Academy Black",
+            "opponentId": "66198335",
+            "homeGoals": 0,
+            "awayGoals": 1,
+            "isHome": false,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805030",
+        "categoryName": "U13 BOYS LIGA (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "66198335",
+          "teamName": "RH3 Academy U13 LIGA (9v9) Black",
+          "clubId": "rh3_academy",
+          "clubName": "RH3 Academy"
+        },
+        "matches": [
+          {
+            "opponent": "RH3 Academy Blue",
+            "opponentId": "66198339",
+            "homeGoals": 0,
+            "awayGoals": 1,
+            "isHome": true,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805045",
+        "categoryName": "U8/9 GIRLS (7v7)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "66298759",
+          "teamName": "Essendon Royals U8/9 GIRLS (7v7)",
+          "clubId": "essendon_royals",
+          "clubName": "Essendon Royals"
+        },
+        "matches": [
+          {
+            "opponent": "Dandenong City",
+            "opponentId": "66939447",
+            "homeGoals": 4,
+            "awayGoals": 1,
+            "isHome": true,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805045",
+        "categoryName": "U8/9 GIRLS (7v7)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "66939447",
+          "teamName": "Dandenong City U8/9 GIRLS (7v7)",
+          "clubId": "dandenong_city",
+          "clubName": "Dandenong City"
+        },
+        "matches": [
+          {
+            "opponent": "Essendon Royals",
+            "opponentId": "66298759",
+            "homeGoals": 4,
+            "awayGoals": 1,
+            "isHome": false,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805018",
+        "categoryName": "U11 LIGA (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "65980401",
+          "teamName": "Football SouthWest U11 LIGA (9v9) U11 Boys",
+          "clubId": "football_southwest",
+          "clubName": "Football SouthWest"
+        },
+        "matches": [
+          {
+            "opponent": "Murray United FC U11 RED",
+            "opponentId": "69864927",
+            "homeGoals": 1,
+            "awayGoals": 2,
+            "isHome": false,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805018",
+        "categoryName": "U11 LIGA (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "69864927",
+          "teamName": "Murray United FC U11 LIGA (9v9) U11 RED",
+          "clubId": "murray_united_fc",
+          "clubName": "Murray United FC"
+        },
+        "matches": [
+          {
+            "opponent": "Football SouthWest U11 Boys",
+            "opponentId": "65980401",
+            "homeGoals": 1,
+            "awayGoals": 2,
+            "isHome": true,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805020",
+        "categoryName": "U12 COPA (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "70120694",
+          "teamName": "Doreen United U12 COPA (9v9)",
+          "clubId": "doreen_united",
+          "clubName": "Doreen United"
+        },
+        "matches": [
+          {
+            "opponent": "Altona North SC",
+            "opponentId": "67528729",
+            "homeGoals": 1,
+            "awayGoals": 0,
+            "isHome": true,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805020",
+        "categoryName": "U12 COPA (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "67528729",
+          "teamName": "Altona North SC U12 COPA (9v9)",
+          "clubId": "altona_north_sc",
+          "clubName": "Altona North SC"
+        },
+        "matches": [
+          {
+            "opponent": "Doreen United",
+            "opponentId": "70120694",
+            "homeGoals": 1,
+            "awayGoals": 0,
+            "isHome": false,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805039",
+        "categoryName": "U15 BOYS (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "69885571",
+          "teamName": "Camden Tigers PSH U15 BOYS (11v11)",
+          "clubId": "camden_tigers_psh",
+          "clubName": "Camden Tigers PSH"
+        },
+        "matches": [
+          {
+            "opponent": "GV Suns",
+            "opponentId": "70744006",
+            "homeGoals": 4,
+            "awayGoals": 0,
+            "isHome": true,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805039",
+        "categoryName": "U15 BOYS (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "70744006",
+          "teamName": "GV Suns U15 BOYS (11v11)",
+          "clubId": "gv_suns",
+          "clubName": "GV Suns"
+        },
+        "matches": [
+          {
+            "opponent": "Camden Tigers PSH",
+            "opponentId": "69885571",
+            "homeGoals": 4,
+            "awayGoals": 0,
+            "isHome": false,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805012",
+        "categoryName": "U10 COPA (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "65554102",
+          "teamName": "Altona City SC U10 COPA (9v9)",
+          "clubId": "altona_city_sc",
+          "clubName": "Altona City SC"
+        },
+        "matches": [
+          {
+            "opponent": "Keilor Park SC (Moe)",
+            "opponentId": "65643353",
+            "homeGoals": 2,
+            "awayGoals": 1,
+            "isHome": true,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805012",
+        "categoryName": "U10 COPA (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "65643353",
+          "teamName": "Keilor Park SC U10 COPA (9v9) (Moe)",
+          "clubId": "keilor_park_sc",
+          "clubName": "Keilor Park SC"
+        },
+        "matches": [
+          {
+            "opponent": "Altona City SC",
+            "opponentId": "65554102",
+            "homeGoals": 2,
+            "awayGoals": 1,
+            "isHome": false,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805010",
+        "categoryName": "U9 LIGA (7v7)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "68089141",
+          "teamName": "GV Suns U9 LIGA (7v7) Blue",
+          "clubId": "gv_suns",
+          "clubName": "GV Suns"
+        },
+        "matches": [
+          {
+            "opponent": "Brimbank Stallions FC",
+            "opponentId": "65643506",
+            "homeGoals": 1,
+            "awayGoals": 0,
+            "isHome": true,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805010",
+        "categoryName": "U9 LIGA (7v7)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "65643506",
+          "teamName": "Brimbank Stallions FC U9 LIGA (7v7)",
+          "clubId": "brimbank_stallions_fc",
+          "clubName": "Brimbank Stallions FC"
+        },
+        "matches": [
+          {
+            "opponent": "GV Suns Blue",
+            "opponentId": "68089141",
+            "homeGoals": 1,
+            "awayGoals": 0,
+            "isHome": false,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805026",
+        "categoryName": "U12 LIGA (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "66198329",
+          "teamName": "RH3 Academy U12 LIGA (9v9) Blue",
+          "clubId": "rh3_academy",
+          "clubName": "RH3 Academy"
+        },
+        "matches": [
+          {
+            "opponent": "Red Sea",
+            "opponentId": "69351944",
+            "homeGoals": 0,
+            "awayGoals": 3,
+            "isHome": false,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "61805026",
+        "categoryName": "U12 LIGA (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "69351944",
+          "teamName": "Red Sea U12 LIGA (9v9)",
+          "clubId": "red_sea",
+          "clubName": "Red Sea"
+        },
+        "matches": [
+          {
+            "opponent": "RH3 Academy Blue",
+            "opponentId": "66198329",
+            "homeGoals": 0,
+            "awayGoals": 3,
+            "isHome": true,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tournamentId": "60652114",
+    "tournamentName": "WU Cup",
+    "season": "2025",
+    "results": [
+      {
+        "categoryId": "60652159",
+        "categoryName": "U14 Girls Born in 2011 (11v11)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "69299685",
+          "teamName": "Keilor Park SC U14 Girls",
+          "clubId": "keilor_park_sc",
+          "clubName": "Keilor Park SC"
+        },
+        "matches": [
+          {
+            "opponent": "Gisborne Soccer Club",
+            "opponentId": "71782754",
+            "homeGoals": 1,
+            "awayGoals": 2,
+            "isHome": false,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "60652159",
+        "categoryName": "U14 Girls Born in 2011 (11v11)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "71782754",
+          "teamName": "Gisborne Soccer Club U14 Girls",
+          "clubId": "gisborne_soccer_club",
+          "clubName": "Gisborne Soccer Club"
+        },
+        "matches": [
+          {
+            "opponent": "Keilor Park SC",
+            "opponentId": "69299685",
+            "homeGoals": 1,
+            "awayGoals": 2,
+            "isHome": true,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "60652122",
+        "categoryName": "U8/9 Girls Born in 2016/17 (7v7)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "69935253",
+          "teamName": "Keilor Park SC U8/9 Girls",
+          "clubId": "keilor_park_sc",
+          "clubName": "Keilor Park SC"
+        },
+        "matches": [
+          {
+            "opponent": "Whittlesea Ranges",
+            "opponentId": "70479702",
+            "homeGoals": 7,
+            "awayGoals": 6,
+            "isHome": true,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "60652122",
+        "categoryName": "U8/9 Girls Born in 2016/17 (7v7)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "70479702",
+          "teamName": "Whittlesea Ranges U8/9 Girls",
+          "clubId": "whittlesea_ranges",
+          "clubName": "Whittlesea Ranges"
+        },
+        "matches": [
+          {
+            "opponent": "Keilor Park SC",
+            "opponentId": "69935253",
+            "homeGoals": 7,
+            "awayGoals": 6,
+            "isHome": false,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "60652131",
+        "categoryName": "U11 Girls Born in 2014 (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "67632736",
+          "teamName": "Football Geelong U11 Girls",
+          "clubId": "football_geelong",
+          "clubName": "Football Geelong"
+        },
+        "matches": [
+          {
+            "opponent": "Williams Landing FC",
+            "opponentId": "67700408",
+            "homeGoals": 1,
+            "awayGoals": 2,
+            "isHome": false,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "60652131",
+        "categoryName": "U11 Girls Born in 2014 (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "67700408",
+          "teamName": "Williams Landing FC U11 Girls",
+          "clubId": "williams_landing_fc",
+          "clubName": "Williams Landing FC"
+        },
+        "matches": [
+          {
+            "opponent": "Football Geelong",
+            "opponentId": "67632736",
+            "homeGoals": 1,
+            "awayGoals": 2,
+            "isHome": true,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "60652151",
+        "categoryName": "U13 Girls Born in 2012 (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "69753540",
+          "teamName": "Surf Coast FC U13 Girls",
+          "clubId": "surf_coast_fc",
+          "clubName": "Surf Coast FC"
+        },
+        "matches": [
+          {
+            "opponent": "North Sunshine Eagles FC",
+            "opponentId": "70605506",
+            "homeGoals": 0,
+            "awayGoals": 3,
+            "isHome": false,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "60652151",
+        "categoryName": "U13 Girls Born in 2012 (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "70605506",
+          "teamName": "North Sunshine Eagles FC U13 Girls",
+          "clubId": "north_sunshine_eagles_fc",
+          "clubName": "North Sunshine Eagles FC"
+        },
+        "matches": [
+          {
+            "opponent": "Surf Coast FC",
+            "opponentId": "69753540",
+            "homeGoals": 0,
+            "awayGoals": 3,
+            "isHome": true,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "60652137",
+        "categoryName": "U12 Girls Born in 2013 (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "70514537",
+          "teamName": "Essendon Royals SC U12 Girls ",
+          "clubId": "essendon_royals_sc",
+          "clubName": "Essendon Royals SC"
+        },
+        "matches": [
+          {
+            "opponent": "Doreen United SC",
+            "opponentId": "70527438",
+            "homeGoals": 2,
+            "awayGoals": 0,
+            "isHome": true,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "60652137",
+        "categoryName": "U12 Girls Born in 2013 (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "70527438",
+          "teamName": "Doreen United SC U12 Girls ",
+          "clubId": "doreen_united_sc",
+          "clubName": "Doreen United SC"
+        },
+        "matches": [
+          {
+            "opponent": "Essendon Royals SC",
+            "opponentId": "70514537",
+            "homeGoals": 2,
+            "awayGoals": 0,
+            "isHome": false,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "60652137",
+        "categoryName": "U12 Girls Born in 2013 (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "70608050",
+          "teamName": "Ballarat SC U12 Girls ",
+          "clubId": "ballarat_sc",
+          "clubName": "Ballarat SC"
+        },
+        "matches": [
+          {
+            "opponent": "Corio SC",
+            "opponentId": "70485095",
+            "homeGoals": 0,
+            "awayGoals": 1,
+            "isHome": false,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "60652137",
+        "categoryName": "U12 Girls Born in 2013 (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "70485095",
+          "teamName": "Corio SC U12 Girls ",
+          "clubId": "corio_sc",
+          "clubName": "Corio SC"
+        },
+        "matches": [
+          {
+            "opponent": "Ballarat SC",
+            "opponentId": "70608050",
+            "homeGoals": 0,
+            "awayGoals": 1,
+            "isHome": true,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "67535687",
+        "categoryName": "U17 Girls Born in 2008 (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "69915748",
+          "teamName": "Calder United SC U17 Girls",
+          "clubId": "calder_united_sc",
+          "clubName": "Calder United SC"
+        },
+        "matches": [
+          {
+            "opponent": "Menace FC",
+            "opponentId": "70267156",
+            "homeGoals": 0,
+            "awayGoals": 1,
+            "isHome": false,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "67535687",
+        "categoryName": "U17 Girls Born in 2008 (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "70267156",
+          "teamName": "Menace FC U17 Girls",
+          "clubId": "menace_fc",
+          "clubName": "Menace FC"
+        },
+        "matches": [
+          {
+            "opponent": "Calder United SC",
+            "opponentId": "69915748",
+            "homeGoals": 0,
+            "awayGoals": 1,
+            "isHome": true,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "60652165",
+        "categoryName": "U15 Girls Born in 2010 (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "70104039",
+          "teamName": "Essendon Royals SC U15 Girls",
+          "clubId": "essendon_royals_sc",
+          "clubName": "Essendon Royals SC"
+        },
+        "matches": [
+          {
+            "opponent": "Gippsland Soccer League GSL Rep Squad",
+            "opponentId": "70585063",
+            "homeGoals": 4,
+            "awayGoals": 2,
+            "isHome": true,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "60652165",
+        "categoryName": "U15 Girls Born in 2010 (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "70585063",
+          "teamName": "Gippsland Soccer League U15 Girls GSL Rep Squad",
+          "clubId": "gippsland_soccer_league",
+          "clubName": "Gippsland Soccer League"
+        },
+        "matches": [
+          {
+            "opponent": "Essendon Royals SC",
+            "opponentId": "70104039",
+            "homeGoals": 4,
+            "awayGoals": 2,
+            "isHome": false,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "60652173",
+        "categoryName": "U16 Girls Born in 2009 (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "69916063",
+          "teamName": "Football Tasmania TSP U16 Girls",
+          "clubId": "football_tasmania_tsp",
+          "clubName": "Football Tasmania TSP"
+        },
+        "matches": [
+          {
+            "opponent": "RH3",
+            "opponentId": "71700093",
+            "homeGoals": 1,
+            "awayGoals": 0,
+            "isHome": true,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "60652173",
+        "categoryName": "U16 Girls Born in 2009 (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "71700093",
+          "teamName": "RH3 U16 Girls",
+          "clubId": "rh3",
+          "clubName": "RH3"
+        },
+        "matches": [
+          {
+            "opponent": "Football Tasmania TSP",
+            "opponentId": "69916063",
+            "homeGoals": 1,
+            "awayGoals": 0,
+            "isHome": false,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "60652131",
+        "categoryName": "U11 Girls Born in 2014 (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "71679092",
+          "teamName": "Victoria Park FC U11 Girls",
+          "clubId": "victoria_park_fc",
+          "clubName": "Victoria Park FC"
+        },
+        "matches": [
+          {
+            "opponent": "Ocean Grove SC Waves",
+            "opponentId": "70020441",
+            "homeGoals": 1,
+            "awayGoals": 2,
+            "isHome": false,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "60652131",
+        "categoryName": "U11 Girls Born in 2014 (9v9)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "70020441",
+          "teamName": "Ocean Grove SC U11 Girls Waves",
+          "clubId": "ocean_grove_sc",
+          "clubName": "Ocean Grove SC"
+        },
+        "matches": [
+          {
+            "opponent": "Victoria Park FC",
+            "opponentId": "71679092",
+            "homeGoals": 1,
+            "awayGoals": 2,
+            "isHome": true,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "60652159",
+        "categoryName": "U14 Girls Born in 2011 (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "71700018",
+          "teamName": "Geelong Rangers U14 Girls",
+          "clubId": "geelong_rangers",
+          "clubName": "Geelong Rangers"
+        },
+        "matches": [
+          {
+            "opponent": "Football Tasmania TSP",
+            "opponentId": "69916061",
+            "homeGoals": 0,
+            "awayGoals": 1,
+            "isHome": false,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "60652159",
+        "categoryName": "U14 Girls Born in 2011 (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "69916061",
+          "teamName": "Football Tasmania TSP U14 Girls",
+          "clubId": "football_tasmania_tsp",
+          "clubName": "Football Tasmania TSP"
+        },
+        "matches": [
+          {
+            "opponent": "Geelong Rangers",
+            "opponentId": "71700018",
+            "homeGoals": 0,
+            "awayGoals": 1,
+            "isHome": true,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "60652165",
+        "categoryName": "U15 Girls Born in 2010 (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "70975043",
+          "teamName": "Geelong Galaxy United FC U15 Girls",
+          "clubId": "geelong_galaxy_united_fc",
+          "clubName": "Geelong Galaxy United FC"
+        },
+        "matches": [
+          {
+            "opponent": "Menace FC",
+            "opponentId": "70267154",
+            "homeGoals": 2,
+            "awayGoals": 1,
+            "isHome": true,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "60652165",
+        "categoryName": "U15 Girls Born in 2010 (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "70267154",
+          "teamName": "Menace FC U15 Girls",
+          "clubId": "menace_fc",
+          "clubName": "Menace FC"
+        },
+        "matches": [
+          {
+            "opponent": "Geelong Galaxy United FC",
+            "opponentId": "70975043",
+            "homeGoals": 2,
+            "awayGoals": 1,
+            "isHome": false,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "67535687",
+        "categoryName": "U17 Girls Born in 2008 (11v11)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "70692395",
+          "teamName": "Geelong Galaxy United FC U17 Girls",
+          "clubId": "geelong_galaxy_united_fc",
+          "clubName": "Geelong Galaxy United FC"
+        },
+        "matches": [
+          {
+            "opponent": "Ballarat City FC",
+            "opponentId": "70836104",
+            "homeGoals": 2,
+            "awayGoals": 0,
+            "isHome": true,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "67535687",
+        "categoryName": "U17 Girls Born in 2008 (11v11)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "70836104",
+          "teamName": "Ballarat City FC U17 Girls",
+          "clubId": "ballarat_city_fc",
+          "clubName": "Ballarat City FC"
+        },
+        "matches": [
+          {
+            "opponent": "Geelong Galaxy United FC",
+            "opponentId": "70692395",
+            "homeGoals": 2,
+            "awayGoals": 0,
+            "isHome": false,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "60652151",
+        "categoryName": "U13 Girls Born in 2012 (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "70161509",
+          "teamName": "Pro Star Football U13 Girls",
+          "clubId": "pro_star_football",
+          "clubName": "Pro Star Football"
+        },
+        "matches": [
+          {
+            "opponent": "Spring Hills FC",
+            "opponentId": "71717590",
+            "homeGoals": 1,
+            "awayGoals": 0,
+            "isHome": true,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "60652151",
+        "categoryName": "U13 Girls Born in 2012 (9v9)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "71717590",
+          "teamName": "Spring Hills FC U13 Girls",
+          "clubId": "spring_hills_fc",
+          "clubName": "Spring Hills FC"
+        },
+        "matches": [
+          {
+            "opponent": "Pro Star Football",
+            "opponentId": "70161509",
+            "homeGoals": 1,
+            "awayGoals": 0,
+            "isHome": false,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "60652122",
+        "categoryName": "U8/9 Girls Born in 2016/17 (7v7)",
+        "stageType": "PLATE_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "69841479",
+          "teamName": "Forest Rangers SC U8/9 Girls",
+          "clubId": "forest_rangers_sc",
+          "clubName": "Forest Rangers SC"
+        },
+        "matches": [
+          {
+            "opponent": "Essendon Royals SC U9 Red",
+            "opponentId": "69302446",
+            "homeGoals": 1,
+            "awayGoals": 0,
+            "isHome": true,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "60652122",
+        "categoryName": "U8/9 Girls Born in 2016/17 (7v7)",
+        "stageType": "PLATE_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "69302446",
+          "teamName": "Essendon Royals SC U8/9 Girls U9 Red",
+          "clubId": "essendon_royals_sc",
+          "clubName": "Essendon Royals SC"
+        },
+        "matches": [
+          {
+            "opponent": "Forest Rangers SC",
+            "opponentId": "69841479",
+            "homeGoals": 1,
+            "awayGoals": 0,
+            "isHome": false,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "60652182",
+        "categoryName": "Youth Women (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "71421338",
+          "teamName": "Spring Hills FC Youth Women",
+          "clubId": "spring_hills_fc",
+          "clubName": "Spring Hills FC"
+        },
+        "matches": [
+          {
+            "opponent": "Calder United SC",
+            "opponentId": "70217561",
+            "homeGoals": 0,
+            "awayGoals": 3,
+            "isHome": false,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "60652182",
+        "categoryName": "Youth Women (11v11)",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "70217561",
+          "teamName": "Calder United SC Youth Women",
+          "clubId": "calder_united_sc",
+          "clubName": "Calder United SC"
+        },
+        "matches": [
+          {
+            "opponent": "Spring Hills FC",
+            "opponentId": "71421338",
+            "homeGoals": 0,
+            "awayGoals": 3,
+            "isHome": true,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tournamentId": "54663955",
+    "tournamentName": "TSS Football Tournament",
+    "season": "2025",
+    "results": [
+      {
+        "categoryId": "54663957",
+        "categoryName": "Open Boys",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "61962651",
+          "teamName": "Brisbane Grammar School Open Boys",
+          "clubId": "brisbane_grammar_school",
+          "clubName": "Brisbane Grammar School"
+        },
+        "matches": [
+          {
+            "opponent": "The Southport School",
+            "opponentId": "62186328",
+            "homeGoals": 2,
+            "awayGoals": 1,
+            "isHome": true,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "54663957",
+        "categoryName": "Open Boys",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "62186328",
+          "teamName": "The Southport School Open Boys",
+          "clubId": "the_southport_school",
+          "clubName": "The Southport School"
+        },
+        "matches": [
+          {
+            "opponent": "Brisbane Grammar School",
+            "opponentId": "61962651",
+            "homeGoals": 2,
+            "awayGoals": 1,
+            "isHome": false,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "54663957",
+        "categoryName": "Open Boys",
+        "stageType": "CUP_FINAL",
+        "rank": 3,
+        "team": {
+          "teamId": "61942102",
+          "teamName": "Ipswich Grammar School Open Boys First XI",
+          "clubId": "ipswich_grammar_school_first_xi",
+          "clubName": "Ipswich Grammar School First XI"
+        }
+      },
+      {
+        "categoryId": "54663957",
+        "categoryName": "Open Boys",
+        "stageType": "CUP_FINAL",
+        "rank": 4,
+        "team": {
+          "teamId": "62186340",
+          "teamName": "Kings CC Open Boys",
+          "clubId": "kings_cc",
+          "clubName": "Kings CC"
+        }
+      },
+      {
+        "categoryId": "54663957",
+        "categoryName": "Open Boys",
+        "stageType": "CUP_FINAL",
+        "rank": 5,
+        "team": {
+          "teamId": "61942115",
+          "teamName": "Wesley College Open Boys",
+          "clubId": "wesley_college",
+          "clubName": "Wesley College"
+        }
+      },
+      {
+        "categoryId": "54663957",
+        "categoryName": "Open Boys",
+        "stageType": "CUP_FINAL",
+        "rank": 6,
+        "team": {
+          "teamId": "61942095",
+          "teamName": "Melbourne Grammar School Open Boys MGS 1sts Soccer Team",
+          "clubId": "melbourne_grammar_school_mgs_1sts_soccer_team",
+          "clubName": "Melbourne Grammar School MGS 1sts Soccer Team"
+        }
+      },
+      {
+        "categoryId": "54663957",
+        "categoryName": "Open Boys",
+        "stageType": "CUP_FINAL",
+        "rank": 7,
+        "team": {
+          "teamId": "62404841",
+          "teamName": "Marist College Ashgrove Open Boys",
+          "clubId": "marist_college_ashgrove",
+          "clubName": "Marist College Ashgrove"
+        }
+      },
+      {
+        "categoryId": "54663957",
+        "categoryName": "Open Boys",
+        "stageType": "CUP_FINAL",
+        "rank": 8,
+        "team": {
+          "teamId": "61942087",
+          "teamName": "Brisbane Boys College Open Boys",
+          "clubId": "brisbane_boys_college",
+          "clubName": "Brisbane Boys College"
+        }
+      },
+      {
+        "categoryId": "54663962",
+        "categoryName": "Under 15's ",
+        "stageType": "CUP_FINAL",
+        "rank": 1,
+        "team": {
+          "teamId": "61962652",
+          "teamName": "Brisbane Grammar School U15",
+          "clubId": "brisbane_grammar_school",
+          "clubName": "Brisbane Grammar School"
+        },
+        "matches": [
+          {
+            "opponent": "The Southport School 2",
+            "opponentId": "62186334",
+            "homeGoals": 0,
+            "awayGoals": 1,
+            "isHome": true,
+            "result": "lost",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "54663962",
+        "categoryName": "Under 15's ",
+        "stageType": "CUP_FINAL",
+        "rank": 2,
+        "team": {
+          "teamId": "62186334",
+          "teamName": "The Southport School U15 2",
+          "clubId": "the_southport_school_2",
+          "clubName": "The Southport School 2"
+        },
+        "matches": [
+          {
+            "opponent": "Brisbane Grammar School",
+            "opponentId": "61962652",
+            "homeGoals": 0,
+            "awayGoals": 1,
+            "isHome": false,
+            "result": "won",
+            "roundName": "Final",
+            "penalties": false
+          }
+        ]
+      },
+      {
+        "categoryId": "54663962",
+        "categoryName": "Under 15's ",
+        "stageType": "CUP_FINAL",
+        "rank": 3,
+        "team": {
+          "teamId": "61942104",
+          "teamName": "Ipswich Grammar School U15 10A",
+          "clubId": "ipswich_grammar_school_10a",
+          "clubName": "Ipswich Grammar School 10A"
+        }
+      },
+      {
+        "categoryId": "54663962",
+        "categoryName": "Under 15's ",
+        "stageType": "CUP_FINAL",
+        "rank": 4,
+        "team": {
+          "teamId": "61962642",
+          "teamName": "Takapuna Grammar School U15 TGS Boys Development",
+          "clubId": "takapuna_grammar_school_tgs_boys_development",
+          "clubName": "Takapuna Grammar School TGS Boys Development"
+        }
+      },
+      {
+        "categoryId": "54663962",
+        "categoryName": "Under 15's ",
+        "stageType": "CUP_FINAL",
+        "rank": 5,
+        "team": {
+          "teamId": "62186272",
+          "teamName": "Toowoomba Grammar School U15",
+          "clubId": "toowoomba_grammar_school",
+          "clubName": "Toowoomba Grammar School"
+        }
+      },
+      {
+        "categoryId": "54663962",
+        "categoryName": "Under 15's ",
+        "stageType": "CUP_FINAL",
+        "rank": 6,
+        "team": {
+          "teamId": "62186333",
+          "teamName": "The Southport School U15 1",
+          "clubId": "the_southport_school_1",
+          "clubName": "The Southport School 1"
+        }
+      },
+      {
+        "categoryId": "54663962",
+        "categoryName": "Under 15's ",
+        "stageType": "CUP_FINAL",
+        "rank": 7,
+        "team": {
+          "teamId": "61942091",
+          "teamName": "Launceston Church Grammar School U15",
+          "clubId": "launceston_church_grammar_school",
+          "clubName": "Launceston Church Grammar School"
+        }
+      },
+      {
+        "categoryId": "54663962",
+        "categoryName": "Under 15's ",
+        "stageType": "CUP_FINAL",
+        "rank": 8,
+        "team": {
+          "teamId": "61942105",
+          "teamName": "Ipswich Grammar School U15 9A",
+          "clubId": "ipswich_grammar_school_9a",
+          "clubName": "Ipswich Grammar School 9A"
+        }
+      }
+    ]
+  }
+]
